@@ -1,0 +1,1201 @@
+id,title,slug,difficulty,paid_only
+3910,Find Books with No Available Copies,find-books-with-no-available-copies,Easy,False
+3893,Generate Tag for Video Caption,generate-tag-for-video-caption,Easy,False
+3879,Find Minimum Log Transportation Cost,find-minimum-log-transportation-cost,Easy,False
+3872,Find Most Frequent Vowel and Consonant,find-most-frequent-vowel-and-consonant,Easy,False
+3871,Minimum Deletions for At Most K Distinct Characters,minimum-deletions-for-at-most-k-distinct-characters,Easy,False
+3869,Smallest Index With Digit Sum Equal to Index,smallest-index-with-digit-sum-equal-to-index,Easy,False
+3859,Maximum Product of Two Digits,maximum-product-of-two-digits,Easy,False
+3846,Minimum Operations to Make Array Sum Divisible by K,minimum-operations-to-make-array-sum-divisible-by-k,Easy,False
+3832,Minimum Cost to Reach Every Position,minimum-cost-to-reach-every-position,Easy,False
+3830,Find Closest Person,find-closest-person,Easy,False
+3817,Maximum Containers on a Ship,maximum-containers-on-a-ship,Easy,False
+3811,Reverse Degree of a String,reverse-degree-of-a-string,Easy,False
+3803,Find Products with Valid Serial Numbers,find-products-with-valid-serial-numbers,Easy,False
+3799,Unique 3-Digit Even Numbers,unique-3-digit-even-numbers,Easy,False
+3790,Fruits Into Baskets II,fruits-into-baskets-ii,Easy,False
+3788,Maximum Unique Subarray Sum After Deletion,maximum-unique-subarray-sum-after-deletion,Easy,False
+3782,Find Valid Emails,find-valid-emails,Easy,False
+3778,Transform Array by Parity,transform-array-by-parity,Easy,False
+3773,Minimum Pair Removal to Sort Array I,minimum-pair-removal-to-sort-array-i,Easy,False
+3768,Check If Digits Are Equal in String After Operations I,check-if-digits-are-equal-in-string-after-operations-i,Easy,False
+3753,Maximum Difference Between Even and Odd Frequency I,maximum-difference-between-even-and-odd-frequency-i,Easy,False
+3747,Maximum Difference Between Adjacent Elements in a Circular Array,maximum-difference-between-adjacent-elements-in-a-circular-array,Easy,False
+3736,Find Valid Pair of Adjacent Digits in String,find-valid-pair-of-adjacent-digits-in-string,Easy,False
+3731,Sum of Variable Length Subarrays,sum-of-variable-length-subarrays,Easy,False
+3723,Sum of Good Numbers,sum-of-good-numbers,Easy,False
+3709,Find Special Substring of Length K,find-special-substring-of-length-k,Easy,False
+3708,Zigzag Grid Traversal With Skip,zigzag-grid-traversal-with-skip,Easy,False
+3705,Find the Largest Almost Missing Integer,find-the-largest-almost-missing-integer,Easy,False
+3704,Count Partitions with Even Sum Difference,count-partitions-with-even-sum-difference,Easy,False
+3702,Maximum Subarray With Equal Products,maximum-subarray-with-equal-products,Easy,False
+3691,Minimum Operations to Make Columns Strictly Increasing,minimum-operations-to-make-columns-strictly-increasing,Easy,False
+3685,Count Subarrays of Length Three With a Condition,count-subarrays-of-length-three-with-a-condition,Easy,False
+3684,Substring Matching Pattern,substring-matching-pattern,Easy,False
+3676,Smallest Number With All Set Bits,smallest-number-with-all-set-bits,Easy,False
+3656,Minimum Number of Operations to Make Elements in Array Distinct,minimum-number-of-operations-to-make-elements-in-array-distinct,Easy,False
+3651,Transformed Array,transformed-array,Easy,False
+3644,Minimum Positive Sum Subarray ,minimum-positive-sum-subarray,Easy,False
+3636,Check Balanced String,check-balanced-string,Easy,False
+3632,Button with Longest Push Time,button-with-longest-push-time,Easy,False
+3626,Smallest Divisible Digit Product I,smallest-divisible-digit-product-i,Easy,False
+3625,Stone Removal Game,stone-removal-game,Easy,False
+3621,Minimum Operations to Make Array Values Equal to K,minimum-operations-to-make-array-values-equal-to-k,Easy,False
+3617,Find the Original Typed String I,find-the-original-typed-string-i,Easy,False
+3616,Make Array Elements Equal to Zero,make-array-elements-equal-to-zero,Easy,False
+3612,Adjacent Increasing Subarrays Detection I,adjacent-increasing-subarrays-detection-i,Easy,False
+3610,Find X-Sum of All K-Long Subarrays I,find-x-sum-of-all-k-long-subarrays-i,Easy,False
+3606,Minimum Element After Replacement With Digit Sum,minimum-element-after-replacement-with-digit-sum,Easy,False
+3605,Construct the Minimum Bitwise Array I,construct-the-minimum-bitwise-array-i,Easy,False
+3600,Find the K-th Character in String Game I,find-the-k-th-character-in-string-game-i,Easy,False
+3582,Find Indices of Stable Mountains,find-indices-of-stable-mountains,Easy,False
+3581,The Two Sneaky Numbers of Digitville,the-two-sneaky-numbers-of-digitville,Easy,False
+3568,Find the Key of the Numbers,find-the-key-of-the-numbers,Easy,False
+3567,Convert Date to Binary,convert-date-to-binary,Easy,False
+3555,Final Array State After K Multiplication Operations I,final-array-state-after-k-multiplication-operations-i,Easy,False
+3553,Check if Two Chessboard Squares Have the Same Color,check-if-two-chessboard-squares-have-the-same-color,Easy,False
+3543,Count Substrings That Satisfy K-Constraint I,count-substrings-that-satisfy-k-constraint-i,Easy,False
+3533,Snake in Matrix,snake-in-matrix,Easy,False
+3519,Find the Number of Winning Players,find-the-number-of-winning-players,Easy,False
+3516,Design Neighbor Sum Service,design-neighbor-sum-service,Easy,False
+3515,Find if Digit Game Can Be Won,find-if-digit-game-can-be-won,Easy,False
+3511,Find the Winning Player in Coin Game,find-the-winning-player-in-coin-game,Easy,False
+3508,Number of Bit Changes to Make Two Integers Equal,number-of-bit-changes-to-make-two-integers-equal,Easy,False
+3484,Lexicographically Smallest String After a Swap,lexicographically-smallest-string-after-a-swap,Easy,False
+3476,Find Minimum Operations to Make All Elements Divisible by Three,find-minimum-operations-to-make-all-elements-divisible-by-three,Easy,False
+3471,Minimum Average of Smallest and Largest Elements,minimum-average-of-smallest-and-largest-elements,Easy,False
+3469,Maximum Height of a Triangle,maximum-height-of-a-triangle,Easy,False
+3468,Find the Encrypted String,find-the-encrypted-string,Easy,False
+3463,Alternating Groups I,alternating-groups-i,Easy,False
+3450,Find the Child Who Has the Ball After K Seconds,find-the-child-who-has-the-ball-after-k-seconds,Easy,False
+3447,Clear Digits,clear-digits,Easy,False
+3446,Find the Number of Good Pairs I,find-the-number-of-good-pairs-i,Easy,False
+3429,Special Array I,special-array-i,Easy,False
+3428,Find the XOR of Numbers Which Appear Twice,find-the-xor-of-numbers-which-appear-twice,Easy,False
+3426,Minimum Number of Chairs in a Waiting Room,minimum-number-of-chairs-in-a-waiting-room,Easy,False
+3421,Count Pairs That Form a Complete Day I,count-pairs-that-form-a-complete-day-i,Easy,False
+3415,Check if Grid Satisfies Conditions,check-if-grid-satisfies-conditions,Easy,False
+3412,Permutation Difference between Two Strings,permutation-difference-between-two-strings,Easy,False
+3408,Count the Number of Special Characters I,count-the-number-of-special-characters-i,Easy,False
+3398,Make a Square with the Same Color,make-a-square-with-the-same-color,Easy,False
+3397,Find the Integer Added to Array I,find-the-integer-added-to-array-i,Easy,False
+3396,Valid Word,valid-word,Easy,False
+3381,Shortest Subarray With OR at Least K I,shortest-subarray-with-or-at-least-k-i,Easy,False
+3379,Score of a String,score-of-a-string,Easy,False
+3372,Longest Strictly Increasing or Strictly Decreasing Subarray,longest-strictly-increasing-or-strictly-decreasing-subarray,Easy,False
+3371,Harshad Number,harshad-number,Easy,False
+3367,Find the Sum of Encrypted Integers,find-the-sum-of-encrypted-integers,Easy,False
+3361,Latest Time You Can Obtain After Replacing Characters,latest-time-you-can-obtain-after-replacing-characters,Easy,False
+3353,Existence of a Substring in a String and Its Reverse,existence-of-a-substring-in-a-string-and-its-reverse,Easy,False
+3349,Maximum Length Substring With Two Occurrences,maximum-length-substring-with-two-occurrences,Easy,False
+3347,Distribute Elements Into Two Arrays I,distribute-elements-into-two-arrays-i,Easy,False
+3334,Apple Redistribution into Boxes,apple-redistribution-into-boxes,Easy,False
+3331,Minimum Operations to Exceed Threshold Value I,minimum-operations-to-exceed-threshold-value-i,Easy,False
+3330,Modify the Matrix,modify-the-matrix,Easy,False
+3324,Split the Array,split-the-array,Easy,False
+3321,Type of Triangle,type-of-triangle,Easy,False
+3320,Maximum Number of Operations With the Same Score I,maximum-number-of-operations-with-the-same-score-i,Easy,False
+3312,Number of Changing Keys,number-of-changing-keys,Easy,False
+3311,Ant on the Boundary,ant-on-the-boundary,Easy,False
+3309,Count Prefix and Suffix Pairs I,count-prefix-and-suffix-pairs-i,Easy,False
+3275,Minimum Number of Pushes to Type Word I,minimum-number-of-pushes-to-type-word-i,Easy,False
+3263,Divide an Array Into Subarrays With Minimum Cost I,divide-an-array-into-subarrays-with-minimum-cost-i,Easy,False
+3252,Count the Number of Incremovable Subarrays I,count-the-number-of-incremovable-subarrays-i,Easy,False
+3251,Maximum Area of Longest Diagonal Rectangle,maximum-area-of-longest-diagonal-rectangle,Easy,False
+3246,Check if Bitwise OR Has Trailing Zeros,check-if-bitwise-or-has-trailing-zeros,Easy,False
+3242,Count Elements With Maximum Frequency,count-elements-with-maximum-frequency,Easy,False
+3236,Smallest Missing Integer Greater Than Sequential Prefix Sum,smallest-missing-integer-greater-than-sequential-prefix-sum,Easy,False
+3227,Find Missing and Repeated Values,find-missing-and-repeated-values,Easy,False
+3226,Minimum Number Game,minimum-number-game,Easy,False
+3221,Find the Peaks,find-the-peaks,Easy,False
+3220,Count Tested Devices After Test Operations,count-tested-devices-after-test-operations,Easy,False
+3215,Matrix Similarity After Cyclic Shifts,matrix-similarity-after-cyclic-shifts,Easy,False
+3207,Make Three Strings Equal,make-three-strings-equal,Easy,False
+3206,Find Common Elements Between Two Arrays,find-common-elements-between-two-arrays,Easy,False
+3199,Distribute Candies Among Children I,distribute-candies-among-children-i,Easy,False
+3194,Find Words Containing Character,find-words-containing-character,Easy,False
+3193,Maximum Strong Pair XOR I,maximum-strong-pair-xor-i,Easy,False
+3188,Find Champion I,find-champion-i,Easy,False
+3183,Find the K-or of an Array,find-the-k-or-of-an-array,Easy,False
+3176,Minimum Sum of Mountain Triplets I,minimum-sum-of-mountain-triplets-i,Easy,False
+3172,Divisible and Non-divisible Sums Difference,divisible-and-non-divisible-sums-difference,Easy,False
+3165,Find Indices With Index and Value Difference I,find-indices-with-index-and-value-difference-i,Easy,False
+3164,Last Visited Integers,last-visited-integers,Easy,False
+3163,Subarrays Distinct Element Sum of Squares I,subarrays-distinct-element-sum-of-squares-i,Easy,False
+3154,Maximum Value of an Ordered Triplet I,maximum-value-of-an-ordered-triplet-i,Easy,False
+3143,Longest Unequal Adjacent Groups Subsequence I,longest-unequal-adjacent-groups-subsequence-i,Easy,False
+3093,Sum of Values at Indices With K Set Bits,sum-of-values-at-indices-with-k-set-bits,Easy,False
+3076,Get the Size of a DataFrame,get-the-size-of-a-dataframe,Easy,False
+3075,Drop Missing Data,drop-missing-data,Easy,False
+3074,Select Data,select-data,Easy,False
+3073,Reshape Data: Melt,reshape-data-melt,Easy,False
+3072,Reshape Data: Pivot,reshape-data-pivot,Easy,False
+3071,Drop Duplicate Rows,drop-duplicate-rows,Easy,False
+3070,Fill Missing Data,fill-missing-data,Easy,False
+3069,Change Data Type,change-data-type,Easy,False
+3068,Rename Columns,rename-columns,Easy,False
+3067,Modify Columns,modify-columns,Easy,False
+3066,Create a New Column,create-a-new-column,Easy,False
+3065,Display the First Three Rows,display-the-first-three-rows,Easy,False
+3064,Reshape Data: Concatenate,reshape-data-concatenate,Easy,False
+3063,Method Chaining,method-chaining,Easy,False
+3062,Create a DataFrame from List,create-a-dataframe-from-list,Easy,False
+3055,Maximum Odd Binary Number,maximum-odd-binary-number,Easy,False
+3045,Minimum Right Shifts to Sort the Array,minimum-right-shifts-to-sort-the-array,Easy,False
+3044,Minimum Operations to Collect Elements,minimum-operations-to-collect-elements,Easy,False
+3034,Points That Intersect With Cars,points-that-intersect-with-cars,Easy,False
+3019,Furthest Point From Origin,furthest-point-from-origin,Easy,False
+2999,Check if Strings Can be Made Equal With Operations I,check-if-strings-can-be-made-equal-with-operations-i,Easy,False
+2998,  Count Symmetric Integers,count-symmetric-integers,Easy,False
+2977,Check if a String Is an Acronym of Words,check-if-a-string-is-an-acronym-of-words,Easy,False
+2955,Account Balance After Rounded Purchase,account-balance-after-rounded-purchase,Easy,False
+2917,Count Pairs Whose Sum is Less than Target,count-pairs-whose-sum-is-less-than-target,Easy,False
+2902,Max Pair Sum in an Array,max-pair-sum-in-an-array,Easy,False
+2892,Check if Array is Good,check-if-array-is-good,Easy,False
+2886,Faulty Keyboard,faulty-keyboard,Easy,False
+2881,Split Strings by Separator,split-strings-by-separator,Easy,False
+2876,Number of Employees Who Met the Target,number-of-employees-who-met-the-target,Easy,False
+2870,Longest Alternating Subarray,longest-alternating-subarray,Easy,False
+2866,Longest Even Odd Subarray With Threshold,longest-even-odd-subarray-with-threshold,Easy,False
+2864,Is Object Empty,is-object-empty,Easy,False
+2863,Calculator with Method Chaining,calculator-with-method-chaining,Easy,False
+2862,Interval Cancellation,interval-cancellation,Easy,False
+2860,Sort By,sort-by,Easy,False
+2859,Add Two Promises,add-two-promises,Easy,False
+2857,Total Distance Traveled,total-distance-traveled,Easy,False
+2847,Find Maximum Number of String Pairs,find-maximum-number-of-string-pairs,Easy,False
+2844,Sum of Squares of Special Elements ,sum-of-squares-of-special-elements,Easy,False
+2836,Neither Minimum nor Maximum,neither-minimum-nor-maximum,Easy,False
+2831,Number of Beautiful Pairs,number-of-beautiful-pairs,Easy,False
+2825,Minimize String Length,minimize-string-length,Easy,False
+2824,Check if The Number is Fascinating,check-if-the-number-is-fascinating,Easy,False
+2821,Timeout Cancellation,timeout-cancellation,Easy,False
+2820,Return Length of Arguments Passed,return-length-of-arguments-passed,Easy,False
+2819,Remove Trailing Zeros From a String,remove-trailing-zeros-from-a-string,Easy,False
+2816,Lexicographically Smallest Palindrome,lexicographically-smallest-palindrome,Easy,False
+2813,To Be Or Not To Be,to-be-or-not-to-be,Easy,False
+2812,Find the Maximum Achievable Number,find-the-maximum-achievable-number,Easy,False
+2809,Create Hello World Function,create-hello-world-function,Easy,False
+2805,Array Wrapper,array-wrapper,Easy,False
+2800,Minimum String Length After Removing Substrings,minimum-string-length-after-removing-substrings,Easy,False
+2798,Chunk Array,chunk-array,Easy,False
+2796,Allow One Function Call,allow-one-function-call,Easy,False
+2791,Find the Losers of the Circular Game,find-the-losers-of-the-circular-game,Easy,False
+2789,Counter II,counter-ii,Easy,False
+2785,Semi-Ordered Permutation,semi-ordered-permutation,Easy,False
+2777,Find the Distinct Difference Array,find-the-distinct-difference-array,Easy,False
+2775,Generate Fibonacci Sequence,generate-fibonacci-sequence,Easy,False
+2767,Maximum Sum With Exactly K Elements ,maximum-sum-with-exactly-k-elements,Easy,False
+2761,Array Reduce Transformation,array-reduce-transformation,Easy,False
+2756,Buy Two Chocolates,buy-two-chocolates,Easy,False
+2752,Sum Multiples,sum-multiples,Easy,False
+2748,Calculate Delayed Arrival Time,calculate-delayed-arrival-time,Easy,False
+2747,Apply Transform Over Each Element in Array,apply-transform-over-each-element-in-array,Easy,False
+2746,Filter Elements from Array,filter-elements-from-array,Easy,False
+2741,Function Composition,function-composition,Easy,False
+2737,Row With Maximum Ones,row-with-maximum-ones,Easy,False
+2734,Array Prototype Last,array-prototype-last,Easy,False
+2733,Sleep,sleep,Easy,False
+2732,Counter,counter,Easy,False
+2727,Number of Senior Citizens,number-of-senior-citizens,Easy,False
+2723,Find the Longest Balanced Substring of a Binary String,find-the-longest-balanced-substring-of-a-binary-string,Easy,False
+2722,Prime In Diagonal,prime-in-diagonal,Easy,False
+2715,K Items With the Maximum Sum,k-items-with-the-maximum-sum,Easy,False
+2714,Left and Right Sum Differences,left-and-right-sum-differences,Easy,False
+2707,Merge Two 2D Arrays by Summing Values,merge-two-2d-arrays-by-summing-values,Easy,False
+2704,Maximum Difference by Remapping a Digit,maximum-difference-by-remapping-a-digit,Easy,False
+2698,Find the Array Concatenation Value,find-the-array-concatenation-value,Easy,False
+2694,Find the Maximum Divisibility Score,find-the-maximum-divisibility-score,Easy,False
+2692,Take Gifts From the Richest Pile,take-gifts-from-the-richest-pile,Easy,False
+2684,Determine the Winner of a Bowling Game,determine-the-winner-of-a-bowling-game,Easy,False
+2679,Count Distinct Numbers on Board,count-distinct-numbers-on-board,Easy,False
+2675,Find the Width of Columns of a Grid,find-the-width-of-columns-of-a-grid,Easy,False
+2668,Form Smallest Number From Two Digit Arrays,form-smallest-number-from-two-digit-arrays,Easy,False
+2663,Distribute Money to Maximum Children,distribute-money-to-maximum-children,Easy,False
+2659,Number of Even and Odd Bits,number-of-even-and-odd-bits,Easy,False
+2654,Count the Number of Vowel Strings in Range,count-the-number-of-vowel-strings-in-range,Easy,False
+2650,Split With Minimum Sum,split-with-minimum-sum,Easy,False
+2645,Pass the Pillow,pass-the-pillow,Easy,False
+2639,Separate the Digits in an Array,separate-the-digits-in-an-array,Easy,False
+2634,Minimum Common Value,minimum-common-value,Easy,False
+2630,Alternating Digit Sum,alternating-digit-sum,Easy,False
+2624,Difference Between Element Sum and Digit Sum of an Array,difference-between-element-sum-and-digit-sum-of-an-array,Easy,False
+2619,Categorize Box According to Criteria,categorize-box-according-to-criteria,Easy,False
+2614,Maximum Count of Positive Integer and Negative Integer,maximum-count-of-positive-integer-and-negative-integer,Easy,False
+2608,Count the Digits That Divide a Number,count-the-digits-that-divide-a-number,Easy,False
+2602,Maximum Enemy Forts That Can Be Captured,maximum-enemy-forts-that-can-be-captured,Easy,False
+2598,Shortest Distance to Target String in a Circular Array,shortest-distance-to-target-string-in-a-circular-array,Easy,False
+2594,Count Pairs Of Similar Strings,count-pairs-of-similar-strings,Easy,False
+2589,Maximum Value of a String in an Array,maximum-value-of-a-string-in-an-array,Easy,False
+2585,Delete Greatest Value in Each Row,delete-greatest-value-in-each-row,Easy,False
+2580,Circular Sentence,circular-sentence,Easy,False
+2575,Minimum Cuts to Divide a Circle,minimum-cuts-to-divide-a-circle,Easy,False
+2571,Find the Pivot Integer,find-the-pivot-integer,Easy,False
+2566,Number of Unequal Triplets in Array,number-of-unequal-triplets-in-array,Easy,False
+2561,Number of Distinct Averages,number-of-distinct-averages,Easy,False
+2556,Convert the Temperature,convert-the-temperature,Easy,False
+2551,Apply Operations to an Array,apply-operations-to-an-array,Easy,False
+2547,Odd String Difference,odd-string-difference,Easy,False
+2542,Average Value of Even Numbers That Are Divisible by Three,average-value-of-even-numbers-that-are-divisible-by-three,Easy,False
+2536,Determine if Two Events Have Conflict,determine-if-two-events-have-conflict,Easy,False
+2532,Remove Letter To Equalize Frequency,remove-letter-to-equalize-frequency,Easy,False
+2528,Number of Valid Clock Times,number-of-valid-clock-times,Easy,False
+2524,Largest Positive Integer That Exists With Its Negative,largest-positive-integer-that-exists-with-its-negative,Easy,False
+2518,The Employee That Worked on the Longest Task,the-employee-that-worked-on-the-longest-task,Easy,False
+2507,Number of Common Factors,number-of-common-factors,Easy,False
+2502,Sort the People,sort-the-people,Easy,False
+2496,Count Days Spent Together,count-days-spent-together,Easy,False
+2495,Number of Unique Subjects Taught by Each Teacher,number-of-unique-subjects-taught-by-each-teacher,Easy,False
+2491,Smallest Even Multiple,smallest-even-multiple,Easy,False
+2486,Most Frequent Even Element,most-frequent-even-element,Easy,False
+2480,Find Subarrays With Equal Sum,find-subarrays-with-equal-sum,Easy,False
+2476,Check Distances Between Same Letters,check-distances-between-same-letters,Easy,False
+2469,Longest Subsequence With Limited Sum,longest-subsequence-with-limited-sum,Easy,False
+2463,Minimum Recolors to Get K Consecutive Black Blocks,minimum-recolors-to-get-k-consecutive-black-blocks,Easy,False
+2459,Minimum Hours of Training to Win a Competition,minimum-hours-of-training-to-win-a-competition,Easy,False
+2454,Largest Local Values in a Matrix,largest-local-values-in-a-matrix,Easy,False
+2447,Merge Similar Items,merge-similar-items,Easy,False
+2442,Number of Arithmetic Triplets,number-of-arithmetic-triplets,Easy,False
+2436,Make Array Zero by Subtracting Equal Amounts,make-array-zero-by-subtracting-equal-amounts,Easy,False
+2433,Best Poker Hand,best-poker-hand,Easy,False
+2427,First Letter to Appear Twice,first-letter-to-appear-twice,Easy,False
+2421,Maximum Number of Pairs in Array,maximum-number-of-pairs-in-array,Easy,False
+2416,Evaluate Boolean Binary Tree,evaluate-boolean-binary-tree,Easy,False
+2412,Minimum Amount of Time to Fill Cups,minimum-amount-of-time-to-fill-cups,Easy,False
+2406,Decode the Message,decode-the-message,Easy,False
+2401,Count Asterisks,count-asterisks,Easy,False
+2398,Check if Matrix Is X-Matrix,check-if-matrix-is-x-matrix,Easy,False
+2391,Strong Password Checker II,strong-password-checker-ii,Easy,False
+2386,Min Max Game,min-max-game,Easy,False
+2384,Root Equals Sum of Children,root-equals-sum-of-children,Easy,False
+2383,Add Two Integers,add-two-integers,Easy,False
+2377,Check if Number Has Equal Digit Count and Digit Value,check-if-number-has-equal-digit-count-and-digit-value,Easy,False
+2372,Rearrange Characters to Make Target String,rearrange-characters-to-make-target-string,Easy,False
+2365,Percentage of Letter in String,percentage-of-letter-in-string,Easy,False
+2361,Calculate Digit Sum of a String,calculate-digit-sum-of-a-string,Easy,False
+2350,Find Closest Number to Zero,find-closest-number-to-zero,Easy,False
+2346,Largest 3-Same-Digit Number in String,largest-3-same-digit-number-in-string,Easy,False
+2345,Minimum Number of Operations to Convert Time,minimum-number-of-operations-to-convert-time,Easy,False
+2341,Count Prefixes of a Given String,count-prefixes-of-a-given-string,Easy,False
+2337,Remove Digit From Number to Maximize Result,remove-digit-from-number-to-maximize-result,Easy,False
+2331,Intersection of Multiple Arrays,intersection-of-multiple-arrays,Easy,False
+2327,Largest Number After Digit Swaps by Parity,largest-number-after-digit-swaps-by-parity,Easy,False
+2323,Minimum Bit Flips to Convert Number,minimum-bit-flips-to-convert-number,Easy,False
+2320,Find All K-Distant Indices in an Array,find-all-k-distant-indices-in-an-array,Easy,False
+2316,Count Hills and Valleys in an Array,count-hills-and-valleys-in-an-array,Easy,False
+2312,Most Frequent Number Following Key In an Array,most-frequent-number-following-key-in-an-array,Easy,False
+2308,Divide Array Into Equal Pairs,divide-array-into-equal-pairs,Easy,False
+2304,Cells in a Range on an Excel Sheet,cells-in-a-range-on-an-excel-sheet,Easy,False
+2298,Count Integers With Even Digit Sum,count-integers-with-even-digit-sum,Easy,False
+2292,Counting Words With a Given Prefix,counting-words-with-a-given-prefix,Easy,False
+2288,Count Operations to Obtain Zero,count-operations-to-obtain-zero,Easy,False
+2283,Sort Even and Odd Indices Independently,sort-even-and-odd-indices-independently,Easy,False
+2277,Count Equal and Divisible Pairs in an Array,count-equal-and-divisible-pairs-in-an-array,Easy,False
+2274,Keep Multiplying Found Values by Two,keep-multiplying-found-values-by-two,Easy,False
+2269,Count Elements With Strictly Smaller and Greater Elements ,count-elements-with-strictly-smaller-and-greater-elements,Easy,False
+2264,Minimum Sum of Four Digit Number After Splitting Digits,minimum-sum-of-four-digit-number-after-splitting-digits,Easy,False
+2260,Divide a String Into Groups of Size k,divide-a-string-into-groups-of-size-k,Easy,False
+2254,Check if Every Row and Column Contains All Numbers,check-if-every-row-and-column-contains-all-numbers,Easy,False
+2248,Minimum Cost of Buying Candies With Discount,minimum-cost-of-buying-candies-with-discount,Easy,False
+2243,Check if All A's Appears Before All B's,check-if-all-as-appears-before-all-bs,Easy,False
+2238,A Number After a Double Reversal,a-number-after-a-double-reversal,Easy,False
+2235,Capitalize the Title,capitalize-the-title,Easy,False
+2231,Find First Palindromic String in the Array,find-first-palindromic-string-in-the-array,Easy,False
+2226,Rings and Rods,rings-and-rods,Easy,False
+2219,Maximum Number of Words Found in Sentences,maximum-number-of-words-found-in-sentences,Easy,False
+2215,Finding 3-Digit Even Numbers,finding-3-digit-even-numbers,Easy,False
+2210,Find Target Indices After Sorting Array,find-target-indices-after-sorting-array,Easy,False
+2204,Find Subsequence of Length K With the Largest Sum,find-subsequence-of-length-k-with-the-largest-sum,Easy,False
+2199,Two Furthest Houses With Different Colors,two-furthest-houses-with-different-colors,Easy,False
+2195,Time Needed to Buy Tickets,time-needed-to-buy-tickets,Easy,False
+2190,Count Common Words With One Occurrence,count-common-words-with-one-occurrence,Easy,False
+2186,Count Vowel Substrings of a String,count-vowel-substrings-of-a-string,Easy,False
+2181,Smallest Index With Equal Value,smallest-index-with-equal-value,Easy,False
+2177,Check Whether Two Strings are Almost Equivalent,check-whether-two-strings-are-almost-equivalent,Easy,False
+2173,Number of Valid Words in a Sentence,number-of-valid-words-in-a-sentence,Easy,False
+2168,Check if Numbers Are Ascending in a Sentence,check-if-numbers-are-ascending-in-a-sentence,Easy,False
+2163,Kth Distinct String in an Array,kth-distinct-string-in-an-array,Easy,False
+2159,Two Out of Three,two-out-of-three,Easy,False
+2154,Minimum Moves to Convert String,minimum-moves-to-convert-string,Easy,False
+2148,Minimum Number of Moves to Seat Everyone,minimum-number-of-moves-to-seat-everyone,Easy,False
+2144,Maximum Difference Between Increasing Elements,maximum-difference-between-increasing-elements,Easy,False
+2137,Final Value of Variable After Performing Operations,final-value-of-variable-after-performing-operations,Easy,False
+2132,Convert 1D Array Into 2D Array,convert-1d-array-into-2d-array,Easy,False
+2128,Reverse Prefix of Word,reverse-prefix-of-word,Easy,False
+2127,Employees Whose Manager Left the Company,employees-whose-manager-left-the-company,Easy,False
+2122,Count Special Quadruplets,count-special-quadruplets,Easy,False
+2121,Find if Path Exists in Graph,find-if-path-exists-in-graph,Easy,False
+2116,Count Number of Pairs With Absolute Difference K,count-number-of-pairs-with-absolute-difference-k,Easy,False
+2112,Minimum Difference Between Highest and Lowest of K Scores,minimum-difference-between-highest-and-lowest-of-k-scores,Easy,False
+2110,Employees With Missing Information,employees-with-missing-information,Easy,False
+2106,Find Greatest Common Divisor of Array,find-greatest-common-divisor-of-array,Easy,False
+2102,Find the Middle Index in Array,find-the-middle-index-in-array,Easy,False
+2099,Number of Strings That Appear as Substrings in Word,number-of-strings-that-appear-as-substrings-in-word,Easy,False
+2093,Check If String Is a Prefix of Array,check-if-string-is-a-prefix-of-array,Easy,False
+2088,Minimum Time to Type Word Using Special Typewriter,minimum-time-to-type-word-using-special-typewriter,Easy,False
+2083,Three Divisors,three-divisors,Easy,False
+2076,Sum of Digits of String After Convert,sum-of-digits-of-string-after-convert,Easy,False
+2058,Concatenation of Array,concatenation-of-array,Easy,False
+2053,Check if All Characters Have Equal Number of Occurrences,check-if-all-characters-have-equal-number-of-occurrences,Easy,False
+2048,Build Array from Permutation,build-array-from-permutation,Easy,False
+2042,Maximum Product Difference Between Two Pairs,maximum-product-difference-between-two-pairs,Easy,False
+2041,The Latest Login in 2020,the-latest-login-in-2020,Easy,False
+2037,Count Square Sum Triples,count-square-sum-triples,Easy,False
+2032,Largest Odd Number in String,largest-odd-number-in-string,Easy,False
+2025,Redistribute Characters to Make All Strings Equal,redistribute-characters-to-make-all-strings-equal,Easy,False
+2024,Calculate Special Bonus,calculate-special-bonus,Easy,False
+2020,Remove One Element to Make the Array Strictly Increasing,remove-one-element-to-make-the-array-strictly-increasing,Easy,False
+2015,Determine Whether Matrix Can Be Obtained By Rotation,determine-whether-matrix-can-be-obtained-by-rotation,Easy,False
+2010,Check if Word Equals Summation of Two Words,check-if-word-equals-summation-of-two-words,Easy,False
+2005,Check if All the Integers in a Range Are Covered,check-if-all-the-integers-in-a-range-are-covered,Easy,False
+1999,Longer Contiguous Segments of Ones than Zeros,longer-contiguous-segments-of-ones-than-zeros,Easy,False
+1993,Sum of All Subset XOR Totals,sum-of-all-subset-xor-totals,Easy,False
+1987,Substrings of Size Three with Distinct Characters,substrings-of-size-three-with-distinct-characters,Easy,False
+1983,Maximum Population Year,maximum-population-year,Easy,False
+1975,Minimum Distance to the Target Element,minimum-distance-to-the-target-element,Easy,False
+1970,Sorting the Sentence,sorting-the-sentence,Easy,False
+1965,Sum of Digits in Base K,sum-of-digits-in-base-k,Easy,False
+1960,Check if the Sentence Is Pangram,check-if-the-sentence-is-pangram,Easy,False
+1954,Replace All Digits with Characters,replace-all-digits-with-characters,Easy,False
+1950,Sign of the Product of an Array,sign-of-the-product-of-an-array,Easy,False
+1948,Rearrange Products Table,rearrange-products-table,Easy,False
+1944,Truncate Sentence,truncate-sentence,Easy,False
+1942,Primary Department for Each Employee,primary-department-for-each-employee,Easy,False
+1938,Minimum Operations to Make the Array Increasing,minimum-operations-to-make-the-array-increasing,Easy,False
+1933,Number of Different Integers in a String,number-of-different-integers-in-a-string,Easy,False
+1927,Maximum Ascending Subarray Sum,maximum-ascending-subarray-sum,Easy,False
+1920,Determine Color of a Chessboard Square,determine-color-of-a-chessboard-square,Easy,False
+1916,Find Center of Star Graph,find-center-of-star-graph,Easy,False
+1915,Check if One String Swap Can Make Strings Equal,check-if-one-string-swap-can-make-strings-equal,Easy,False
+1910,Check if Binary String Has at Most One Segment of Ones,check-if-binary-string-has-at-most-one-segment-of-ones,Easy,False
+1908,Recyclable and Low Fat Products,recyclable-and-low-fat-products,Easy,False
+1904,Second Largest Digit in a String,second-largest-digit-in-a-string,Easy,False
+1899,Count Items Matching a Rule,count-items-matching-a-rule,Easy,False
+1894,Merge Strings Alternately,merge-strings-alternately,Easy,False
+1892,Find Total Time Spent by Each Employee,find-total-time-spent-by-each-employee,Easy,False
+1888,Find Nearest Point That Has the Same X or Y Coordinate,find-nearest-point-that-has-the-same-x-or-y-coordinate,Easy,False
+1884,Minimum Changes To Make Alternating Binary String,minimum-changes-to-make-alternating-binary-string,Easy,False
+1882,The Number of Employees Which Report to Each Employee,the-number-of-employees-which-report-to-each-employee,Easy,False
+1878,Check if Array Is Sorted and Rotated,check-if-array-is-sorted-and-rotated,Easy,False
+1877,Find Followers Count,find-followers-count,Easy,False
+1873,Longest Nice Substring,longest-nice-substring,Easy,False
+1858,Latest Time by Replacing Hidden Digits,latest-time-by-replacing-hidden-digits,Easy,False
+1848,Sum of Unique Elements,sum-of-unique-elements,Easy,False
+1844,Maximum Number of Balls in a Box,maximum-number-of-balls-in-a-box,Easy,False
+1843,Number Of Rectangles That Can Form The Largest Square,number-of-rectangles-that-can-form-the-largest-square,Easy,False
+1839,Decode XORed Array,decode-xored-array,Easy,False
+1837,Daily Leads and Partners,daily-leads-and-partners,Easy,False
+1833,Find the Highest Altitude,find-the-highest-altitude,Easy,False
+1829,Maximum Units on a Truck,maximum-units-on-a-truck,Easy,False
+1827,Invalid Tweets,invalid-tweets,Easy,False
+1823,Determine if String Halves Are Alike,determine-if-string-halves-are-alike,Easy,False
+1817,Calculate Money in Leetcode Bank,calculate-money-in-leetcode-bank,Easy,False
+1812,Reformat Phone Number,reformat-phone-number,Easy,False
+1811,Fix Names in a Table,fix-names-in-a-table,Easy,False
+1806,Count of Matches in Tournament,count-of-matches-in-tournament,Easy,False
+1802,Number of Students Unable to Eat Lunch,number-of-students-unable-to-eat-lunch,Easy,False
+1801,Average Time of Process per Machine,average-time-of-process-per-machine,Easy,False
+1797,Goal Parser Interpretation,goal-parser-interpretation,Easy,False
+1791,Richest Customer Wealth,richest-customer-wealth,Easy,False
+1786,Count the Number of Consistent Strings,count-the-number-of-consistent-strings,Easy,False
+1781,Check If Two String Arrays are Equivalent,check-if-two-string-arrays-are-equivalent,Easy,False
+3932,Find COVID Recovery Patients,find-covid-recovery-patients,Medium,False
+3921,Find Consistently Improving Employees,find-consistently-improving-employees,Medium,False
+3898,Seasonal Sales Analysis,seasonal-sales-analysis,Medium,False
+3894,Maximize Y‑Sum by Picking a Triplet of Distinct X‑Values,maximize-ysum-by-picking-a-triplet-of-distinct-xvalues,Medium,False
+3892,Best Time to Buy and Sell Stock V,best-time-to-buy-and-sell-stock-v,Medium,False
+3885,Count Special Triplets,count-special-triplets,Medium,False
+3884,Minimum Absolute Difference in Sliding Submatrix,minimum-absolute-difference-in-sliding-submatrix,Medium,False
+3876,Transform Array to All Equal Elements,transform-array-to-all-equal-elements,Medium,False
+3870,Minimum Moves to Clean the Classroom,minimum-moves-to-clean-the-classroom,Medium,False
+3865,Find Product Recommendation Pairs,find-product-recommendation-pairs,Medium,False
+3864,Count the Number of Computer Unlocking Permutations,count-the-number-of-computer-unlocking-permutations,Medium,False
+3860,Resulting String After Adjacent Removals,resulting-string-after-adjacent-removals,Medium,False
+3857,Find Maximum Number of Non Intersecting Substrings,find-maximum-number-of-non-intersecting-substrings,Medium,False
+3856,Maximum Weighted K-Edge Path,maximum-weighted-k-edge-path,Medium,False
+3849,Equal Sum Grid Partition I,equal-sum-grid-partition-i,Medium,False
+3848,Analyze Subscription Conversion ,analyze-subscription-conversion,Medium,False
+3847,Minimum Swaps to Sort by Digit Sum,minimum-swaps-to-sort-by-digit-sum,Medium,False
+3844,Number of Ways to Assign Edge Weights I,number-of-ways-to-assign-edge-weights-i,Medium,False
+3843,Partition Array into Two Equal Product Subsets,partition-array-into-two-equal-product-subsets,Medium,False
+3838,Path Existence Queries in a Graph I,path-existence-queries-in-a-graph-i,Medium,False
+3837,Grid Teleportation Traversal,grid-teleportation-traversal,Medium,False
+3835,Count Partitions With Max-Min Difference at Most K,count-partitions-with-max-min-difference-at-most-k,Medium,False
+3834,Minimum Operations to Convert All Elements to Zero,minimum-operations-to-convert-all-elements-to-zero,Medium,False
+3831,Find X Value of Array I,find-x-value-of-array-i,Medium,False
+3827,Implement Router,implement-router,Medium,False
+3824,Number of Unique XOR Triplets I,number-of-unique-xor-triplets-i,Medium,False
+3822,Fill a Special Grid,fill-a-special-grid,Medium,False
+3821,Count Cells in Overlapping Horizontal and Vertical Substrings,count-cells-in-overlapping-horizontal-and-vertical-substrings,Medium,False
+3820,Number of Unique XOR Triplets II,number-of-unique-xor-triplets-ii,Medium,False
+3819,Count Covered Buildings,count-covered-buildings,Medium,False
+3816,DNA Pattern Recognition ,dna-pattern-recognition,Medium,False
+3815,Sum of Largest Prime Substrings,sum-of-largest-prime-substrings,Medium,False
+3812,Smallest Palindromic Rearrangement I,smallest-palindromic-rearrangement-i,Medium,False
+3809,Properties Graph,properties-graph,Medium,False
+3805,Maximize Active Section with Trade I,maximize-active-section-with-trade-i,Medium,False
+3797,Design Spreadsheet,design-spreadsheet,Medium,False
+3795,Zero Array Transformation IV,zero-array-transformation-iv,Medium,False
+3794,Find the Minimum Amount of Time to Brew Potions,find-the-minimum-amount-of-time-to-brew-potions,Medium,False
+3793,Longest Palindrome After Substring Concatenation I,longest-palindrome-after-substring-concatenation-i,Medium,False
+3791,Fruits Into Baskets III,fruits-into-baskets-iii,Medium,False
+3786,Longest Palindromic Subsequence After at Most K Operations,longest-palindromic-subsequence-after-at-most-k-operations,Medium,False
+3785,Find the Number of Copy Arrays,find-the-number-of-copy-arrays,Medium,False
+3779,Eat Pizzas!,eat-pizzas,Medium,False
+3776,Find Minimum Cost to Remove Array Elements,find-minimum-cost-to-remove-array-elements,Medium,False
+3771,Select K Disjoint Special Substrings,select-k-disjoint-special-substrings,Medium,False
+3767,Find Students Who Improved,find-students-who-improved,Medium,False
+3764,Maximum Sum With at Most K Elements,maximum-sum-with-at-most-k-elements,Medium,False
+3763,Separate Squares I,separate-squares-i,Medium,False
+3760,Assign Elements to Groups with Constraints,assign-elements-to-groups-with-constraints,Medium,False
+3759,Choose K Elements With Maximum Sum,choose-k-elements-with-maximum-sum,Medium,False
+3755,Maximum Product of First and Last Elements of a Subsequence,maximum-product-of-first-and-last-elements-of-a-subsequence,Medium,False
+3754,Maximum Manhattan Distance After K Changes,maximum-manhattan-distance-after-k-changes,Medium,False
+3751,Maximum Frequency After Subarray Operation,maximum-frequency-after-subarray-operation,Medium,False
+3750,Closest Equal Element Queries,closest-equal-element-queries,Medium,False
+3748,Sort Matrix by Diagonals,sort-matrix-by-diagonals,Medium,False
+3743,Reschedule Meetings for Maximum Free Time I,reschedule-meetings-for-maximum-free-time-i,Medium,False
+3741,Reschedule Meetings for Maximum Free Time II,reschedule-meetings-for-maximum-free-time-ii,Medium,False
+3738,Make Array Non-decreasing,make-array-non-decreasing,Medium,False
+3737,Paint House IV,paint-house-iv,Medium,False
+3732,Calculate Score After Performing Instructions,calculate-score-after-performing-instructions,Medium,False
+3729,Unit Conversion I,unit-conversion-i,Medium,False
+3722,Sum of K Subarrays With Length at Least M,sum-of-k-subarrays-with-length-at-least-m,Medium,False
+3721,Count Mentions Per User,count-mentions-per-user,Medium,False
+3720,Minimize the Maximum Edge Weight of Graph,minimize-the-maximum-edge-weight-of-graph,Medium,False
+3716,Longest Subsequence With Decreasing Adjacent Difference,longest-subsequence-with-decreasing-adjacent-difference,Medium,False
+3715,Maximum Coins From K Consecutive Bags,maximum-coins-from-k-consecutive-bags,Medium,False
+3714,Maximum and Minimum Sums of at Most Size K Subsequences,maximum-and-minimum-sums-of-at-most-size-k-subsequences,Medium,False
+3712,Minimum Cost to Make Arrays Identical,minimum-cost-to-make-arrays-identical,Medium,False
+3707,Find the Most Common Response,find-the-most-common-response,Medium,False
+3699,Count Special Subsequences,count-special-subsequences,Medium,False
+3686,Count Beautiful Splits in an Array,count-beautiful-splits-in-an-array,Medium,False
+3683,Find the Lexicographically Largest String From the Box I,find-the-lexicographically-largest-string-from-the-box-i,Medium,False
+3681,Maximum Area Rectangle With Point Constraints I,maximum-area-rectangle-with-point-constraints-i,Medium,False
+3678,Design Task Manager,design-task-manager,Medium,False
+3677,Maximum Amount of Money Robot Can Earn,maximum-amount-of-money-robot-can-earn,Medium,False
+3659,Count Paths With the Given XOR Value,count-paths-with-the-given-xor-value,Medium,False
+3657,Check if Grid can be Cut into Sections,check-if-grid-can-be-cut-into-sections,Medium,False
+3655,Digit Operations to Make Two Integers Equal,digit-operations-to-make-two-integers-equal,Medium,False
+3654,Minimum Array Sum,minimum-array-sum,Medium,False
+3653,Maximum Subarray Sum With Length Divisible by K,maximum-subarray-sum-with-length-divisible-by-k,Medium,False
+3649,Minimum Time to Break Locks I,minimum-time-to-break-locks-i,Medium,False
+3647,Zero Array Transformation III,zero-array-transformation-iii,Medium,False
+3643,Zero Array Transformation II,zero-array-transformation-ii,Medium,False
+3639,Zero Array Transformation I,zero-array-transformation-i,Medium,False
+3634,Find Mirror Score of a String,find-mirror-score-of-a-string,Medium,False
+3633,Maximize the Number of Target Nodes After Connecting Trees I,maximize-the-number-of-target-nodes-after-connecting-trees-i,Medium,False
+3629,Total Characters in String After Transformations I,total-characters-in-string-after-transformations-i,Medium,False
+3628,Find Minimum Time to Reach Last Room II,find-minimum-time-to-reach-last-room-ii,Medium,False
+3627,Find Minimum Time to Reach Last Room I,find-minimum-time-to-reach-last-room-i,Medium,False
+3622,Maximum Frequency of an Element After Performing Operations I,maximum-frequency-of-an-element-after-performing-operations-i,Medium,False
+3620,Maximum Number of Distinct Elements After Operations,maximum-number-of-distinct-elements-after-operations,Medium,False
+3619,Adjacent Increasing Subarrays Detection II,adjacent-increasing-subarrays-detection-ii,Medium,False
+3613,Maximize Amount After Two Days of Conversions,maximize-amount-after-two-days-of-conversions,Medium,False
+3611,Construct the Minimum Bitwise Array II,construct-the-minimum-bitwise-array-ii,Medium,False
+3607,Minimum Division Operations to Make Array Non Decreasing,minimum-division-operations-to-make-array-non-decreasing,Medium,False
+3595,Rearrange K Substrings to Form Target String,rearrange-k-substrings-to-form-target-string,Medium,False
+3594,Identify the Largest Outlier in an Array,identify-the-largest-outlier-in-an-array,Medium,False
+3593,Find the Maximum Factor Score of Array,find-the-maximum-factor-score-of-array,Medium,False
+3591,Shift Distance Between Two Strings,shift-distance-between-two-strings,Medium,False
+3587,Maximum Points Tourist Can Earn,maximum-points-tourist-can-earn,Medium,False
+3584,Find the Lexicographically Smallest Valid Sequence,find-the-lexicographically-smallest-valid-sequence,Medium,False
+3579,Maximum Possible Number by Binary Concatenation,maximum-possible-number-by-binary-concatenation,Medium,False
+3576,Find Subtree Sizes After Changes,find-subtree-sizes-after-changes,Medium,False
+3573,Count Substrings That Can Be Rearranged to Contain a String I,count-substrings-that-can-be-rearranged-to-contain-a-string-i,Medium,False
+3570,Count of Substrings Containing Every Vowel and K Consonants I,count-of-substrings-containing-every-vowel-and-k-consonants-i,Medium,False
+3569,Count of Substrings Containing Every Vowel and K Consonants II,count-of-substrings-containing-every-vowel-and-k-consonants-ii,Medium,False
+3566,Find the Sequence of Strings Appeared on the Screen,find-the-sequence-of-strings-appeared-on-the-screen,Medium,False
+3561,Remove Methods From Project,remove-methods-from-project,Medium,False
+3559,Minimum Number of Valid Strings to Form Target I,minimum-number-of-valid-strings-to-form-target-i,Medium,False
+3558,Find a Safe Walk Through a Grid,find-a-safe-walk-through-a-grid,Medium,False
+3541,Report Spam Message,report-spam-message,Medium,False
+3540,Hash Divided String,hash-divided-string,Medium,False
+3534,Count Almost Equal Pairs I,count-almost-equal-pairs-i,Medium,False
+3530,Odd and Even Transactions,odd-and-even-transactions,Medium,False
+3528,Reach End of Array With Max Score,reach-end-of-array-with-max-score,Medium,False
+3526,Minimum Number of Flips to Make Binary Grid Palindromic I,minimum-number-of-flips-to-make-binary-grid-palindromic-i,Medium,False
+3525,Maximum Energy Boost From Two Drinks,maximum-energy-boost-from-two-drinks,Medium,False
+3524,Minimum Number of Flips to Make Binary Grid Palindromic II,minimum-number-of-flips-to-make-binary-grid-palindromic-ii,Medium,False
+3523,Find the Power of K-Size Subarrays II,find-the-power-of-k-size-subarrays-ii,Medium,False
+3522,Find the Power of K-Size Subarrays I,find-the-power-of-k-size-subarrays-i,Medium,False
+3518,Maximum Multiplication Score,maximum-multiplication-score,Medium,False
+3517,Shortest Distance After Road Addition Queries I,shortest-distance-after-road-addition-queries-i,Medium,False
+3510,Maximize the Total Height of Unique Towers,maximize-the-total-height-of-unique-towers,Medium,False
+3509,K-th Largest Perfect Subtree Size in Binary Tree,k-th-largest-perfect-subtree-size-in-binary-tree,Medium,False
+3507,Find the Count of Numbers Which Are Not Special,find-the-count-of-numbers-which-are-not-special,Medium,False
+3502,Count Substrings With K-Frequency Characters I,count-substrings-with-k-frequency-characters-i,Medium,False
+3501,Delete Nodes From Linked List Present in Array,delete-nodes-from-linked-list-present-in-array,Medium,False
+3498,Minimum Array Changes to Make Differences Equal,minimum-array-changes-to-make-differences-equal,Medium,False
+3496,Minimum Number of Seconds to Make Mountain Height Zero,minimum-number-of-seconds-to-make-mountain-height-zero,Medium,False
+3495,K-th Nearest Obstacle Queries,k-th-nearest-obstacle-queries,Medium,False
+3494,Minimum Cost for Cutting Cake I,minimum-cost-for-cutting-cake-i,Medium,False
+3493,Maximum Number of Operations to Move Ones to the End,maximum-number-of-operations-to-move-ones-to-the-end,Medium,False
+3492,Count Submatrices With Equal Frequency of X and Y,count-submatrices-with-equal-frequency-of-x-and-y,Medium,False
+3491,Find the Maximum Length of Valid Subsequence II,find-the-maximum-length-of-valid-subsequence-ii,Medium,False
+3490,Find the Maximum Length of Valid Subsequence I,find-the-maximum-length-of-valid-subsequence-i,Medium,False
+3487,Find Maximum Removals From Source String,find-maximum-removals-from-source-string,Medium,False
+3486,Count the Number of Good Nodes,count-the-number-of-good-nodes,Medium,False
+3485,Maximize Score of Numbers in Ranges,maximize-score-of-numbers-in-ranges,Medium,False
+3483,Alternating Groups II,alternating-groups-ii,Medium,False
+3479,Count the Number of Substrings With Dominant Ones,count-the-number-of-substrings-with-dominant-ones,Medium,False
+3477,Minimum Operations to Make Binary Array Elements Equal to One II,minimum-operations-to-make-binary-array-elements-equal-to-one-ii,Medium,False
+3475,Minimum Operations to Make Binary Array Elements Equal to One I,minimum-operations-to-make-binary-array-elements-equal-to-one-i,Medium,False
+3464,Maximize Total Cost of Alternating Subarrays,maximize-total-cost-of-alternating-subarrays,Medium,False
+3462,Vowels Game in a String,vowels-game-in-a-string,Medium,False
+3461,Find the Minimum Area to Cover All Ones I,find-the-minimum-area-to-cover-all-ones-i,Medium,False
+3456,Find the Maximum Length of a Good Subsequence I,find-the-maximum-length-of-a-good-subsequence-i,Medium,False
+3455,Minimum Length of String After Operations,minimum-length-of-string-after-operations,Medium,False
+3453,Generate Binary Strings Without Adjacent Zeros,generate-binary-strings-without-adjacent-zeros,Medium,False
+3451,String Compression III,string-compression-iii,Medium,False
+3445,Lexicographically Minimum String After Removing Stars,lexicographically-minimum-string-after-removing-stars,Medium,False
+3444,Find the Number of Good Pairs II,find-the-number-of-good-pairs-ii,Medium,False
+3442,Maximum Total Reward Using Operations I,maximum-total-reward-using-operations-i,Medium,False
+3437,Maximum Total Damage With Spell Casting,maximum-total-damage-with-spell-casting,Medium,False
+3434,Find the Number of Distinct Colors Among the Balls,find-the-number-of-distinct-colors-among-the-balls,Medium,False
+3430,Count Days Without Meetings,count-days-without-meetings,Medium,False
+3427,Special Array II,special-array-ii,Medium,False
+3422,Find the N-th Value After K Seconds,find-the-n-th-value-after-k-seconds,Medium,False
+3420,Find Occurrences of an Element in an Array,find-occurrences-of-an-element-in-an-array,Medium,False
+3419,Maximum Points Inside the Square,maximum-points-inside-the-square,Medium,False
+3418,Count Pairs That Form a Complete Day II,count-pairs-that-form-a-complete-day-ii,Medium,False
+3416,Sum of Digit Differences of All Pairs,sum-of-digit-differences-of-all-pairs,Medium,False
+3413,Find The First Player to win K Games in a Row,find-the-first-player-to-win-k-games-in-a-row,Medium,False
+3406,Find All Possible Stable Binary Arrays I,find-all-possible-stable-binary-arrays-i,Medium,False
+3405,Count the Number of Special Characters II,count-the-number-of-special-characters-ii,Medium,False
+3404,Minimum Number of Operations to Satisfy Conditions,minimum-number-of-operations-to-satisfy-conditions,Medium,False
+3403,Minimum Substring Partition of Equal Character Frequency,minimum-substring-partition-of-equal-character-frequency,Medium,False
+3399,Find the Integer Added to Array II,find-the-integer-added-to-array-ii,Medium,False
+3395,Minimum Length of Anagram Concatenation,minimum-length-of-anagram-concatenation,Medium,False
+3394,Minimum Array End,minimum-array-end,Medium,False
+3391,Maximum Difference Score in a Grid,maximum-difference-score-in-a-grid,Medium,False
+3390,Minimum Rectangles to Cover Points,minimum-rectangles-to-cover-points,Medium,False
+3389,Minimum Time to Visit Disappearing Nodes,minimum-time-to-visit-disappearing-nodes,Medium,False
+3388,Right Triangles,right-triangles,Medium,False
+3387,Minimum Operations to Make Median of Array Equal to K,minimum-operations-to-make-median-of-array-equal-to-k,Medium,False
+3384,Minimum Number of Operations to Make Word K-Periodic,minimum-number-of-operations-to-make-word-k-periodic,Medium,False
+3383,Taking Maximum Energy From the Mystic Dungeon,taking-maximum-energy-from-the-mystic-dungeon,Medium,False
+3380,Shortest Subarray With OR at Least K II,shortest-subarray-with-or-at-least-k-ii,Medium,False
+3374,Count Alternating Subarrays,count-alternating-subarrays,Medium,False
+3373,Maximum Prime Difference,maximum-prime-difference,Medium,False
+3363,Most Frequent IDs,most-frequent-ids,Medium,False
+3360,Minimum Deletions to Make String K-Special,minimum-deletions-to-make-string-k-special,Medium,False
+3356,Shortest Uncommon Substring in an Array,shortest-uncommon-substring-in-an-array,Medium,False
+3355,Minimum Levels to Gain More Points,minimum-levels-to-gain-more-points,Medium,False
+3354,Replace Question Marks in String to Minimize Its Value,replace-question-marks-in-string-to-minimize-its-value,Medium,False
+3351,Maximize Happiness of Selected Children,maximize-happiness-of-selected-children,Medium,False
+3346,Lexicographically Smallest String After Operations With Constraint,lexicographically-smallest-string-after-operations-with-constraint,Medium,False
+3338,Count Submatrices with Top-Left Element and Sum Less Than k,count-submatrices-with-top-left-element-and-sum-less-than-k,Medium,False
+3337,Count Substrings Starting and Ending with Given Character,count-substrings-starting-and-ending-with-given-character,Medium,False
+3336,Water Bottles II,water-bottles-ii,Medium,False
+3335,Minimum Operations to Write the Letter Y on a Grid,minimum-operations-to-write-the-letter-y-on-a-grid,Medium,False
+3332,Minimum Operations to Exceed Threshold Value II,minimum-operations-to-exceed-threshold-value-ii,Medium,False
+3329,Find the Length of the Longest Common Prefix,find-the-length-of-the-longest-common-prefix,Medium,False
+3328,Apply Operations to Make Sum of Array Greater Than or Equal to k,apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k,Medium,False
+3326,Count Pairs of Connectable Servers in a Weighted Tree Network,count-pairs-of-connectable-servers-in-a-weighted-tree-network,Medium,False
+3325,Find the Largest Area of Square Inside Two Rectangles,find-the-largest-area-of-square-inside-two-rectangles,Medium,False
+3318,Maximum Number of Operations With the Same Score II,maximum-number-of-operations-with-the-same-score-ii,Medium,False
+3317,Maximum Palindromes After Operations,maximum-palindromes-after-operations,Medium,False
+3314,Most Frequent Prime,most-frequent-prime,Medium,False
+3308,Apply Operations to Make String Empty,apply-operations-to-make-string-empty,Medium,False
+3306,Mark Elements on Array by Performing Queries,mark-elements-on-array-by-performing-queries,Medium,False
+3299,Find the Maximum Number of Elements in Subset,find-the-maximum-number-of-elements-in-subset,Medium,False
+3297,Minimum Time to Revert Word to Initial State I,minimum-time-to-revert-word-to-initial-state-i,Medium,False
+3292,Earliest Second to Mark Indices I,earliest-second-to-mark-indices-i,Medium,False
+3291,Find if Array Can Be Sorted,find-if-array-can-be-sorted,Medium,False
+3279,Alice and Bob Playing Flower Game,alice-and-bob-playing-flower-game,Medium,False
+3278,Find the Number of Ways to Place People I,find-the-number-of-ways-to-place-people-i,Medium,False
+3276,Minimum Number of Pushes to Type Word II,minimum-number-of-pushes-to-type-word-ii,Medium,False
+3272,Find the Grid of Region Average,find-the-grid-of-region-average,Medium,False
+3271,Count the Number of Houses at a Certain Distance I,count-the-number-of-houses-at-a-certain-distance-i,Medium,False
+3270,Minimum Moves to Capture The Queen,minimum-moves-to-capture-the-queen,Medium,False
+3269,Number of Subarrays That Match a Pattern I,number-of-subarrays-that-match-a-pattern-i,Medium,False
+3267,Find Longest Special Substring That Occurs Thrice I,find-longest-special-substring-that-occurs-thrice-i,Medium,False
+3266,Find Longest Special Substring That Occurs Thrice II,find-longest-special-substring-that-occurs-thrice-ii,Medium,False
+3265,Maximum Good Subarray Sum,maximum-good-subarray-sum,Medium,False
+3264,Maximum Points After Enemy Battles,maximum-points-after-enemy-battles,Medium,False
+3262,Find Polygon With the Largest Perimeter,find-polygon-with-the-largest-perimeter,Medium,False
+3250,Maximum Square Area by Removing Fences From a Field,maximum-square-area-by-removing-fences-from-a-field,Medium,False
+3249,Minimum Number of Operations to Make Array XOR Equal to K,minimum-number-of-operations-to-make-array-xor-equal-to-k,Medium,False
+3245,Find Beautiful Indices in the Given Array I,find-beautiful-indices-in-the-given-array-i,Medium,False
+3244,Minimize Length of Array Using Operations,minimize-length-of-array-using-operations,Medium,False
+3241,Divide Array Into Arrays With Max Difference,divide-array-into-arrays-with-max-difference,Medium,False
+3240,Maximum Number That Sum of the Prices Is Less Than or Equal to K,maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k,Medium,False
+3239,Minimum Number of Operations to Make X and Y Equal,minimum-number-of-operations-to-make-x-and-y-equal,Medium,False
+3235,Minimum Cost to Convert String I,minimum-cost-to-convert-string-i,Medium,False
+3234,Double Modular Exponentiation,double-modular-exponentiation,Medium,False
+3231,Minimum Number of Coins to be Added,minimum-number-of-coins-to-be-added,Medium,False
+3230,Remove Adjacent Almost-Equal Characters,remove-adjacent-almost-equal-characters,Medium,False
+3229,Minimum Cost to Make Array Equalindromic,minimum-cost-to-make-array-equalindromic,Medium,False
+3228,Maximum Size of a Set After Removals,maximum-size-of-a-set-after-removals,Medium,False
+3225,Length of Longest Subarray With at Most K Frequency,length-of-longest-subarray-with-at-most-k-frequency,Medium,False
+3219,Make Lexicographically Smallest Array by Swapping Elements,make-lexicographically-smallest-array-by-swapping-elements,Medium,False
+3214,Maximize Area of Square Hole in Grid,maximize-area-of-square-hole-in-grid,Medium,False
+3213,Count Subarrays Where Max Element Appears at Least K Times,count-subarrays-where-max-element-appears-at-least-k-times,Medium,False
+3210,Count Beautiful Substrings I,count-beautiful-substrings-i,Medium,False
+3209,Minimum Number of Coins for Fruits,minimum-number-of-coins-for-fruits,Medium,False
+3202,High-Access Employees,high-access-employees,Medium,False
+3201,Distribute Candies Among Children II,distribute-candies-among-children-ii,Medium,False
+3200,Number of Strings Which Can Be Rearranged to Contain Substring,number-of-strings-which-can-be-rearranged-to-contain-substring,Medium,False
+3195,Separate Black and White Balls,separate-black-and-white-balls,Medium,False
+3192,Maximum Xor Product,maximum-xor-product,Medium,False
+3191,Maximum Score After Applying Operations on a Tree,maximum-score-after-applying-operations-on-a-tree,Medium,False
+3190,Minimum Operations to Maximize Last Elements in Arrays,minimum-operations-to-maximize-last-elements-in-arrays,Medium,False
+3189,Find Champion II,find-champion-ii,Medium,False
+3186,Minimum Sum of Mountain Triplets II,minimum-sum-of-mountain-triplets-ii,Medium,False
+3178,Minimum Increment Operations to Make Array Beautiful,minimum-increment-operations-to-make-array-beautiful,Medium,False
+3174,Minimum Number of Changes to Make Binary String Beautiful,minimum-number-of-changes-to-make-binary-string-beautiful,Medium,False
+3171,Minimum Equal Sum of Two Arrays After Replacing Zeros,minimum-equal-sum-of-two-arrays-after-replacing-zeros,Medium,False
+3170,Find Indices With Index and Value Difference II,find-indices-with-index-and-value-difference-ii,Medium,False
+3166,Minimum Number of Groups to Create a Valid Assignment,minimum-number-of-groups-to-create-a-valid-assignment,Medium,False
+3152,Maximum Value of an Ordered Triplet II,maximum-value-of-an-ordered-triplet-ii,Medium,False
+3151,Minimum Processing Time,minimum-processing-time,Medium,False
+3150,Shortest and Lexicographically Smallest Beautiful String,shortest-and-lexicographically-smallest-beautiful-string,Medium,False
+3142,Longest Unequal Adjacent Groups Subsequence II,longest-unequal-adjacent-groups-subsequence-ii,Medium,False
+3141,Minimum Size Subarray in Infinite Array,minimum-size-subarray-in-infinite-array,Medium,False
+3114,Beautiful Towers I,beautiful-towers-i,Medium,False
+3113,Beautiful Towers II,beautiful-towers-ii,Medium,False
+3106,Length of the Longest Subsequence That Sums to Target,length-of-the-longest-subsequence-that-sums-to-target,Medium,False
+3104,Happy Students,happy-students,Medium,False
+3095,Maximum Number of Alloys,maximum-number-of-alloys,Medium,False
+3094,Minimum Number of Operations to Make Array Empty,minimum-number-of-operations-to-make-array-empty,Medium,False
+3092,Minimum Moves to Spread Stones Over Grid,minimum-moves-to-spread-stones-over-grid,Medium,False
+3081,Minimum Array Length After Pair Removals,minimum-array-length-after-pair-removals,Medium,False
+3080,Split Array Into Maximum Number of Subarrays,split-array-into-maximum-number-of-subarrays,Medium,False
+3056,Determine if a Cell Is Reachable at a Given Time,determine-if-a-cell-is-reachable-at-a-given-time,Medium,False
+3046,Minimum Operations to Make a Special Number,minimum-operations-to-make-a-special-number,Medium,False
+3033,Apply Operations to Make Two Strings Equal,apply-operations-to-make-two-strings-equal,Medium,False
+3031,Construct Product Matrix,construct-product-matrix,Medium,False
+3026,Find the Minimum Possible Sum of a Beautiful Array,find-the-minimum-possible-sum-of-a-beautiful-array,Medium,False
+3018,Make String a Subsequence Using Cyclic Increments,make-string-a-subsequence-using-cyclic-increments,Medium,False
+3000,Minimum Absolute Difference Between Elements With Constraint,minimum-absolute-difference-between-elements-with-constraint,Medium,False
+2979,Maximize the Profit as the Salesman,maximize-the-profit-as-the-salesman,Medium,False
+2978,Check if Strings Can be Made Equal With Operations II,check-if-strings-can-be-made-equal-with-operations-ii,Medium,False
+2954,Maximum Sum of Almost Unique Subarray,maximum-sum-of-almost-unique-subarray,Medium,False
+2953,Count Pairs of Points With Distance k,count-pairs-of-points-with-distance-k,Medium,False
+2920,Minimum Seconds to Equalize a Circular Array,minimum-seconds-to-equalize-a-circular-array,Medium,False
+2916,Check if it is Possible to Split Array,check-if-it-is-possible-to-split-array,Medium,False
+2915,Count of Interesting Subarrays,count-of-interesting-subarrays,Medium,False
+2914,Find the Safest Path in a Grid,find-the-safest-path-in-a-grid,Medium,False
+2904,Sorting Three Groups,sorting-three-groups,Medium,False
+2903,Insert Greatest Common Divisors in Linked List,insert-greatest-common-divisors-in-linked-list,Medium,False
+2893,Visit Array Positions to Maximize Score,visit-array-positions-to-maximize-score,Medium,False
+2891,Maximum Beauty of an Array After Applying Operation,maximum-beauty-of-an-array-after-applying-operation,Medium,False
+2889,Number of Black Blocks,number-of-black-blocks,Medium,False
+2888,Minimum Index of a Valid Split,minimum-index-of-a-valid-split,Medium,False
+2887,Sort Vowels in a String,sort-vowels-in-a-string,Medium,False
+2883,Partition String Into Minimum Beautiful Substrings,partition-string-into-minimum-beautiful-substrings,Medium,False
+2882,Ways to Express an Integer as Sum of Powers,ways-to-express-an-integer-as-sum-of-powers,Medium,False
+2878,Apply Operations to Make All Array Elements Equal to Zero,apply-operations-to-make-all-array-elements-equal-to-zero,Medium,False
+2877,Shortest String That Contains Three Strings,shortest-string-that-contains-three-strings,Medium,False
+2873,Prime Pairs With Target Sum,prime-pairs-with-target-sum,Medium,False
+2872,Largest Element in an Array after Merge Operations,largest-element-in-an-array-after-merge-operations,Medium,False
+2871,Double a Number Represented as a Linked List,double-a-number-represented-as-a-linked-list,Medium,False
+2869,Longest Non-decreasing Subarray From Two Arrays,longest-non-decreasing-subarray-from-two-arrays,Medium,False
+2868,Continuous Subarrays,continuous-subarrays,Medium,False
+2867,Ways to Split Array Into Good Subarrays,ways-to-split-array-into-good-subarrays,Medium,False
+2858,Join Two Arrays by ID,join-two-arrays-by-id,Medium,False
+2856,Count Complete Subarrays in an Array,count-complete-subarrays-in-an-array,Medium,False
+2855,Maximum Number of Jumps to Reach the Last Index,maximum-number-of-jumps-to-reach-the-last-index,Medium,False
+2854,Decremental String Concatenation,decremental-string-concatenation,Medium,False
+2850,Construct the Longest New String,construct-the-longest-new-string,Medium,False
+2848,Special Permutations,special-permutations,Medium,False
+2845,Find the Value of the Partition,find-the-value-of-the-partition,Medium,False
+2838,Sum of Matrix After Queries,sum-of-matrix-after-queries,Medium,False
+2837,Minimum Operations to Make the Integer Zero,minimum-operations-to-make-the-integer-zero,Medium,False
+2834,Relocate Marbles,relocate-marbles,Medium,False
+2833,Count Zero Request Servers,count-zero-request-servers,Medium,False
+2832,Find the Longest Equal Subarray,find-the-longest-equal-subarray,Medium,False
+2828,Lexicographically Smallest String After Substring Operation,lexicographically-smallest-string-after-substring-operation,Medium,False
+2817,Minimum Cost to Make All Characters Equal,minimum-cost-to-make-all-characters-equal,Medium,False
+2811,Determine the Minimum Sum of a k-avoiding Array,determine-the-minimum-sum-of-a-k-avoiding-array,Medium,False
+2810,Collecting Chocolates,collecting-chocolates,Medium,False
+2807,Execute Asynchronous Functions in Parallel,execute-asynchronous-functions-in-parallel,Medium,False
+2804,Compact Object,compact-object,Medium,False
+2802,Find the Punishment Number of an Integer,find-the-punishment-number-of-an-integer,Medium,False
+2801,Difference of Number of Distinct Values on Diagonals,difference-of-number-of-distinct-values-on-diagonals,Medium,False
+2797,Event Emitter,event-emitter,Medium,False
+2794,Maximum Number of Moves in a Grid,maximum-number-of-moves-in-a-grid,Medium,False
+2793,Count the Number of Complete Components,count-the-number-of-complete-components,Medium,False
+2792,Neighboring Bitwise XOR,neighboring-bitwise-xor,Medium,False
+2790,Call Function with Custom Context,call-function-with-custom-context,Medium,False
+2787,Movement of Robots,movement-of-robots,Medium,False
+2786,Find the Longest Semi-Repetitive Substring,find-the-longest-semi-repetitive-substring,Medium,False
+2783,Nested Array Generator,nested-array-generator,Medium,False
+2780,Make Costs of Paths Equal in a Binary Tree,make-costs-of-paths-equal-in-a-binary-tree,Medium,False
+2779,Number of Adjacent Elements With the Same Color,number-of-adjacent-elements-with-the-same-color,Medium,False
+2778,Frequency Tracker,frequency-tracker,Medium,False
+2766,Find the Prefix Common Array of Two Arrays,find-the-prefix-common-array-of-two-arrays,Medium,False
+2764,Maximum Number of Fish in a Grid,maximum-number-of-fish-in-a-grid,Medium,False
+2762,Cache With Time Limit,cache-with-time-limit,Medium,False
+2760,Snail Traversal,snail-traversal,Medium,False
+2759,Flatten Deeply Nested Array,flatten-deeply-nested-array,Medium,False
+2758,Check if Object Instance of Class,check-if-object-instance-of-class,Medium,False
+2755,Extra Characters in a String,extra-characters-in-a-string,Medium,False
+2754,Maximum Strength of a Group,maximum-strength-of-a-group,Medium,False
+2753,Minimum Number of Operations to Make All Array Elements Equal to 1,minimum-number-of-operations-to-make-all-array-elements-equal-to-1,Medium,False
+2751,Sliding Subarray Beauty,sliding-subarray-beauty,Medium,False
+2749,Promise Time Limit,promise-time-limit,Medium,False
+2743,Debounce,debounce,Medium,False
+2742,Group By,group-by,Medium,False
+2736,Minimum Additions to Make Valid String,minimum-additions-to-make-valid-string,Medium,False
+2731,Memoize,memoize,Medium,False
+2730,Maximum OR,maximum-or,Medium,False
+2728,Sum in a Matrix,sum-in-a-matrix,Medium,False
+2725,Mice and Cheese,mice-and-cheese,Medium,False
+2724,Convert an Array Into a 2D Array With Conditions,convert-an-array-into-a-2d-array-with-conditions,Medium,False
+2721,Sum of Distances,sum-of-distances,Medium,False
+2720,Minimize the Maximum Difference of Pairs,minimize-the-maximum-difference-of-pairs,Medium,False
+2718,Minimum Operations to Make All Array Elements Equal,minimum-operations-to-make-all-array-elements-equal,Medium,False
+2716,Prime Subtraction Operation,prime-subtraction-operation,Medium,False
+2713,Find the Divisibility Array of a String,find-the-divisibility-array-of-a-string,Medium,False
+2712,Find the Maximum Number of Marked Indices,find-the-maximum-number-of-marked-indices,Medium,False
+2710,Minimum Operations to Reduce an Integer to 0,minimum-operations-to-reduce-an-integer-to-0,Medium,False
+2709,Count the Number of Square-Free Subsets,count-the-number-of-square-free-subsets,Medium,False
+2706,Minimum Score by Changing Two Elements,minimum-score-by-changing-two-elements,Medium,False
+2705,Minimum Impossible OR,minimum-impossible-or,Medium,False
+2700,Substring XOR Queries,substring-xor-queries,Medium,False
+2699,Count the Number of Fair Pairs,count-the-number-of-fair-pairs,Medium,False
+2696,The Number of Beautiful Subsets,the-number-of-beautiful-subsets,Medium,False
+2695,Find Score of an Array After Marking All Elements,find-score-of-an-array-after-marking-all-elements,Medium,False
+2691,Count Vowel Strings in Ranges,count-vowel-strings-in-ranges,Medium,False
+2690,House Robber IV,house-robber-iv,Medium,False
+2686,Minimum Cost of a Path With Special Roads,minimum-cost-of-a-path-with-special-roads,Medium,False
+2685,First Completely Painted Row or Column,first-completely-painted-row-or-column,Medium,False
+2680,Count Collisions of Monkeys on a Polygon,count-collisions-of-monkeys-on-a-polygon,Medium,False
+2677,Cousins in Binary Tree II,cousins-in-binary-tree-ii,Medium,False
+2676,Find the Score of All Prefixes of an Array,find-the-score-of-all-prefixes-of-an-array,Medium,False
+2673,Maximize Win From Two Segments,maximize-win-from-two-segments,Medium,False
+2670,Make K-Subarray Sums Equal,make-k-subarray-sums-equal,Medium,False
+2669,Find the Substring With Maximum Cost,find-the-substring-with-maximum-cost,Medium,False
+2665,Minimum Time to Repair Cars,minimum-time-to-repair-cars,Medium,False
+2664,Maximize Greatness of an Array,maximize-greatness-of-an-array,Medium,False
+2662,Check Knight Tour Configuration,check-knight-tour-configuration,Medium,False
+2661,Smallest Missing Non-negative Integer After Operations,smallest-missing-non-negative-integer-after-operations,Medium,False
+2656,Count the Number of Beautiful Subarrays,count-the-number-of-beautiful-subarrays,Medium,False
+2655,Rearrange Array to Maximize Prefix Score,rearrange-array-to-maximize-prefix-score,Medium,False
+2651,Count Ways to Group Overlapping Ranges,count-ways-to-group-overlapping-ranges,Medium,False
+2649,Count Total Number of Colored Cells,count-total-number-of-colored-cells,Medium,False
+2646,Kth Largest Sum in a Binary Tree,kth-largest-sum-in-a-binary-tree,Medium,False
+2641,Disconnect Path in a Binary Matrix by at Most One Flip,disconnect-path-in-a-binary-matrix-by-at-most-one-flip,Medium,False
+2640,Maximum Number of Integers to Choose From a Range I,maximum-number-of-integers-to-choose-from-a-range-i,Medium,False
+2636,Maximum Subsequence Score,maximum-subsequence-score,Medium,False
+2632,Apply Bitwise Operations to Make Strings Equal,apply-bitwise-operations-to-make-strings-equal,Medium,False
+2631,Sort the Students by Their Kth Score,sort-the-students-by-their-kth-score,Medium,False
+2628,Minimize the Maximum of Two Arrays,minimize-the-maximum-of-two-arrays,Medium,False
+2626,Count the Number of Good Subarrays,count-the-number-of-good-subarrays,Medium,False
+2625,Increment Submatrices by One,increment-submatrices-by-one,Medium,False
+2621,Find Xor-Beauty of Array,find-xor-beauty-of-array,Medium,False
+2620,Find Consecutive Integers from a Data Stream,find-consecutive-integers-from-a-data-stream,Medium,False
+2616,Maximal Score After Applying K Operations,maximal-score-after-applying-k-operations,Medium,False
+2615,Make Number of Distinct Characters Equal,make-number-of-distinct-characters-equal,Medium,False
+2610,Closest Prime Numbers in Range,closest-prime-numbers-in-range,Medium,False
+2609,Distinct Prime Factors of Product of Array,distinct-prime-factors-of-product-of-array,Medium,False
+2606,Difference Between Ones and Zeros in Row and Column,difference-between-ones-and-zeros-in-row-and-column,Medium,False
+2604,Minimum Operations to Make Array Equal II,minimum-operations-to-make-array-equal-ii,Medium,False
+2603,Reward Top K Students,reward-top-k-students,Medium,False
+2600,Maximum Tastiness of Candy Basket,maximum-tastiness-of-candy-basket,Medium,False
+2599,Take K of Each Character From Left and Right,take-k-of-each-character-from-left-and-right,Medium,False
+2595,Smallest Value After Replacing With Sum of Prime Factors,smallest-value-after-replacing-with-sum-of-prime-factors,Medium,False
+2591,Frog Jump II,frog-jump-ii,Medium,False
+2590,Maximum Star Sum of a Graph,maximum-star-sum-of-a-graph,Medium,False
+3900,Find Weighted Median Node in Tree,find-weighted-median-node-in-tree,Hard,False
+3891,Find Category Recommendation Pairs,find-category-recommendation-pairs,Hard,False
+3888,Maximize Subarray GCD Score,maximize-subarray-gcd-score,Hard,False
+3878,Maximize Count of Distinct Primes After Split,maximize-count-of-distinct-primes-after-split,Hard,False
+3875,Maximum Good Subtree Score,maximum-good-subtree-score,Hard,False
+3867,Lexicographically Smallest String After Adjacent Removals,lexicographically-smallest-string-after-adjacent-removals,Hard,False
+3866,Minimum Steps to Convert String with Operations,minimum-steps-to-convert-string-with-operations,Hard,False
+3858,Subtree Inversion Sum,subtree-inversion-sum,Hard,False
+3854,Maximum Profit from Trading Stocks with Discounts,maximum-profit-from-trading-stocks-with-discounts,Hard,False
+3853,Minimum Weighted Subgraph With the Required Paths II,minimum-weighted-subgraph-with-the-required-paths-ii,Hard,False
+3852,Path Existence Queries in a Graph II,path-existence-queries-in-a-graph-ii,Hard,False
+3851,Find Sum of Array Product of Magical Sequences,find-sum-of-array-product-of-magical-sequences,Hard,False
+3850,Equal Sum Grid Partition II,equal-sum-grid-partition-ii,Hard,False
+3845,Maximum Sum of Edge Values in a Graph,maximum-sum-of-edge-values-in-a-graph,Hard,False
+3842,Number of Ways to Assign Edge Weights II,number-of-ways-to-assign-edge-weights-ii,Hard,False
+3841,Concatenated Divisibility,concatenated-divisibility,Hard,False
+3840,Find X Value of Array II,find-x-value-of-array-ii,Hard,False
+3833,Merge Operations for Minimum Travel Time,merge-operations-for-minimum-travel-time,Hard,False
+3829,Shortest Path in a Weighted Tree,shortest-path-in-a-weighted-tree,Hard,False
+3828,Analyze Organization Hierarchy,analyze-organization-hierarchy,Hard,False
+3826,Maximum Profit from Valid Topological Order in DAG,maximum-profit-from-valid-topological-order-in-dag,Hard,False
+3813,Smallest Palindromic Rearrangement II,smallest-palindromic-rearrangement-ii,Hard,False
+3810,Count Numbers with Non-Decreasing Digits ,count-numbers-with-non-decreasing-digits,Hard,False
+3808,Longest Palindrome After Substring Concatenation II,longest-palindrome-after-substring-concatenation-ii,Hard,False
+3804,Maximize Active Section with Trade II,maximize-active-section-with-trade-ii,Hard,False
+3801,Count Beautiful Numbers,count-beautiful-numbers,Hard,False
+3798,Longest Special Path II,longest-special-path-ii,Hard,False
+3792,Find Invalid IP Addresses,find-invalid-ip-addresses,Hard,False
+3789,Maximize Subarrays After Removing One Conflicting Pair,maximize-subarrays-after-removing-one-conflicting-pair,Hard,False
+3784,Longest Common Prefix of K Strings After Removal,longest-common-prefix-of-k-strings-after-removal,Hard,False
+3783,Permutations IV,permutations-iv,Hard,False
+3781,Maximize the Distance Between Points on a Square,maximize-the-distance-between-points-on-a-square,Hard,False
+3777,Maximum Product of Subsequences With an Alternating Sum Equal to K,maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k,Hard,False
+3775,Separate Squares II,separate-squares-ii,Hard,False
+3774,Check If Digits Are Equal in String After Operations II,check-if-digits-are-equal-in-string-after-operations-ii,Hard,False
+3772,Minimum Pair Removal to Sort Array II,minimum-pair-removal-to-sort-array-ii,Hard,False
+3770,Lexicographically Smallest Generated String,lexicographically-smallest-generated-string,Hard,False
+3765,Minimum Cost to Divide Array Into Subarrays,minimum-cost-to-divide-array-into-subarrays,Hard,False
+3762,Maximize the Minimum Game Score,maximize-the-minimum-game-score,Hard,False
+3761,Maximum Difference Between Even and Odd Frequency II,maximum-difference-between-even-and-odd-frequency-ii,Hard,False
+3744,Minimum Operations to Make Array Elements Zero,minimum-operations-to-make-array-elements-zero,Hard,False
+3739,Manhattan Distances of All Arrangements of Pieces,manhattan-distances-of-all-arrangements-of-pieces,Hard,False
+3733,Length of Longest V-Shaped Diagonal Segment,length-of-longest-v-shaped-diagonal-segment,Hard,False
+3725,Maximum and Minimum Sums of at Most Size K Subarrays,maximum-and-minimum-sums-of-at-most-size-k-subarrays,Hard,False
+3717,Minimum Operations to Make Elements Within K Subarrays Equal,minimum-operations-to-make-elements-within-k-subarrays-equal,Hard,False
+3713,Frequencies of Shortest Supersequences,frequencies-of-shortest-supersequences,Hard,False
+3711,First Letter Capitalization II,first-letter-capitalization-ii,Hard,False
+3706,Smallest Substring With Identical Characters II,smallest-substring-with-identical-characters-ii,Hard,False
+3701,Minimum Cost Good Caption,minimum-cost-good-caption,Hard,False
+3700,Subsequences with a Unique Middle Mode I,subsequences-with-a-unique-middle-mode-i,Hard,False
+3697,Minimum Increments for Target Multiples in an Array,minimum-increments-for-target-multiples-in-an-array,Hard,False
+3696,Count Substrings Divisible By Last Digit,count-substrings-divisible-by-last-digit,Hard,False
+3692,Shortest Matching Substring,shortest-matching-substring,Hard,False
+3690,Smallest Substring With Identical Characters I,smallest-substring-with-identical-characters-i,Hard,False
+3689,Maximum Area Rectangle With Point Constraints II,maximum-area-rectangle-with-point-constraints-ii,Hard,False
+3688,Maximize Subarray Sum After Removing All Occurrences of One Element,maximize-subarray-sum-after-removing-all-occurrences-of-one-element,Hard,False
+3687,Longest Special Path,longest-special-path,Hard,False
+3682,Count the Number of Arrays with K Matching Adjacent Elements,count-the-number-of-arrays-with-k-matching-adjacent-elements,Hard,False
+3680,Count Connected Components in LCM Graph,count-connected-components-in-lcm-graph,Hard,False
+3675,Maximize Sum of Weights after Edge Removals,maximize-sum-of-weights-after-edge-removals,Hard,False
+3674,Count Non-Decreasing Subarrays After K Operations,count-non-decreasing-subarrays-after-k-operations,Hard,False
+3658,Minimize the Maximum Adjacent Element Difference,minimize-the-maximum-adjacent-element-difference,Hard,False
+3648,Find the Maximum Number of Fruits Collected,find-the-maximum-number-of-fruits-collected,Hard,False
+3646,Sum of Good Subsequences,sum-of-good-subsequences,Hard,False
+3645,Maximize the Number of Target Nodes After Connecting Trees II,maximize-the-number-of-target-nodes-after-connecting-trees-ii,Hard,False
+3640,Maximum Frequency of an Element After Performing Operations II,maximum-frequency-of-an-element-after-performing-operations-ii,Hard,False
+3638,Minimum Operations to Make Character Frequencies Equal,minimum-operations-to-make-character-frequencies-equal,Hard,False
+3637,Count Number of Balanced Permutations,count-number-of-balanced-permutations,Hard,False
+3635,Smallest Divisible Digit Product II,smallest-divisible-digit-product-ii,Hard,False
+3631,Count K-Reducible Numbers Less Than N,count-k-reducible-numbers-less-than-n,Hard,False
+3630,Total Characters in String After Transformations II,total-characters-in-string-after-transformations-ii,Hard,False
+3618,Find the Original Typed String II,find-the-original-typed-string-ii,Hard,False
+3608,Find the Number of Subsequences With Equal GCD,find-the-number-of-subsequences-with-equal-gcd,Hard,False
+3604,Find the Number of Possible Ways for an Event,find-the-number-of-possible-ways-for-an-event,Hard,False
+3603,Check if DFS Strings Are Palindromes,check-if-dfs-strings-are-palindromes,Hard,False
+3601,Find the K-th Character in String Game II,find-the-k-th-character-in-string-game-ii,Hard,False
+3592,Find X-Sum of All K-Long Subarrays II,find-x-sum-of-all-k-long-subarrays-ii,Hard,False
+3588,Count The Number of Winning Sequences,count-the-number-of-winning-sequences,Hard,False
+3583,Sorted GCD Pair Queries,sorted-gcd-pair-queries,Hard,False
+3580,Find the Occurrence of First Almost Equal Substring,find-the-occurrence-of-first-almost-equal-substring,Hard,False
+3578,Construct 2D Grid Matching Graph Layout,construct-2d-grid-matching-graph-layout,Hard,False
+3575,Find the Maximum Sequence Value of Array,find-the-maximum-sequence-value-of-array,Hard,False
+3572,Count Substrings That Can Be Rearranged to Contain a String II,count-substrings-that-can-be-rearranged-to-contain-a-string-ii,Hard,False
+3571,Length of the Longest Increasing Path,length-of-the-longest-increasing-path,Hard,False
+3563,Select Cells in Grid With Maximum Score,select-cells-in-grid-with-maximum-score,Hard,False
+3562,Maximum Score of Non-overlapping Intervals,maximum-score-of-non-overlapping-intervals,Hard,False
+3560,Maximum Number of Moves to Kill All Pawns,maximum-number-of-moves-to-kill-all-pawns,Hard,False
+3557,Minimum Number of Valid Strings to Form Target II,minimum-number-of-valid-strings-to-form-target-ii,Hard,False
+3556,Final Array State After K Multiplication Operations II,final-array-state-after-k-multiplication-operations-ii,Hard,False
+3552,Find the Largest Palindrome Divisible by K,find-the-largest-palindrome-divisible-by-k,Hard,False
+3551,Maximum XOR Score Subarray Queries,maximum-xor-score-subarray-queries,Hard,False
+3550,Maximum Value Sum by Placing Three Rooks I,maximum-value-sum-by-placing-three-rooks-i,Hard,False
+3548,Find the Count of Good Integers,find-the-count-of-good-integers,Hard,False
+3546,Count Substrings That Satisfy K-Constraint II,count-substrings-that-satisfy-k-constraint-ii,Hard,False
+3544,Count Almost Equal Pairs II,count-almost-equal-pairs-ii,Hard,False
+3542,Maximum Value Sum by Placing Three Rooks II,maximum-value-sum-by-placing-three-rooks-ii,Hard,False
+3536,Find the Count of Monotonic Pairs II,find-the-count-of-monotonic-pairs-ii,Hard,False
+3535,Find the Count of Monotonic Pairs I,find-the-count-of-monotonic-pairs-i,Hard,False
+3532,Time Taken to Mark All Nodes,time-taken-to-mark-all-nodes,Hard,False
+3531,Minimum Amount of Damage Dealt to Bob,minimum-amount-of-damage-dealt-to-bob,Hard,False
+3527,Alternating Groups III,alternating-groups-iii,Hard,False
+3514,Shortest Distance After Road Addition Queries II,shortest-distance-after-road-addition-queries-ii,Hard,False
+3500,Minimum Cost for Cutting Cake II,minimum-cost-for-cutting-cake-ii,Hard,False
+3482,Construct String with Minimum Cost,construct-string-with-minimum-cost,Hard,False
+3478,Check if the Rectangle Corner Is Reachable,check-if-the-rectangle-corner-is-reachable,Hard,False
+3470,Maximum Score From Grid Operations,maximum-score-from-grid-operations,Hard,False
+3466,Number of Subarrays With AND Value of K,number-of-subarrays-with-and-value-of-k,Hard,False
+3460,Count the Number of Inversions,count-the-number-of-inversions,Hard,False
+3459,Find the Minimum Area to Cover All Ones II,find-the-minimum-area-to-cover-all-ones-ii,Hard,False
+3454,Minimum Operations to Make Array Equal to Target,minimum-operations-to-make-array-equal-to-target,Hard,False
+3452,Find the Maximum Length of a Good Subsequence II,find-the-maximum-length-of-a-good-subsequence-ii,Hard,False
+3443,Maximum Total Reward Using Operations II,maximum-total-reward-using-operations-ii,Hard,False
+3439,Find Minimum Diameter After Merging Two Trees,find-minimum-diameter-after-merging-two-trees,Hard,False
+3438,Peaks in Array,peaks-in-array,Hard,False
+3436,Find Subarray With Bitwise OR Closest to K,find-subarray-with-bitwise-or-closest-to-k,Hard,False
+3435,Block Placement Queries,block-placement-queries,Hard,False
+3431,Find the Minimum Cost Array Permutation,find-the-minimum-cost-array-permutation,Hard,False
+3423,Maximum Sum of Subsequence With Non-adjacent Elements,maximum-sum-of-subsequence-with-non-adjacent-elements,Hard,False
+3414,Find Number of Ways to Reach the K-th Stair,find-number-of-ways-to-reach-the-k-th-stair,Hard,False
+3411,Find Products of Elements of Big Array,find-products-of-elements-of-big-array,Hard,False
+3407,Find All Possible Stable Binary Arrays II,find-all-possible-stable-binary-arrays-ii,Hard,False
+3402,Minimum Cost to Equalize Array,minimum-cost-to-equalize-array,Hard,False
+3386,Find Edges in Shortest Paths,find-edges-in-shortest-paths,Hard,False
+3382,Find the Number of Subarrays Where Boundary Elements Are Maximum,find-the-number-of-subarrays-where-boundary-elements-are-maximum,Hard,False
+3376,Longest Common Suffix Queries,longest-common-suffix-queries,Hard,False
+3375,Kth Smallest Amount With Single Denomination Combination,kth-smallest-amount-with-single-denomination-combination,Hard,False
+3364,Minimum Sum of Values by Dividing Array,minimum-sum-of-values-by-dividing-array,Hard,False
+3362,Find the Median of the Uniqueness Array,find-the-median-of-the-uniqueness-array,Hard,False
+3350,Distribute Elements Into Two Arrays II,distribute-elements-into-two-arrays-ii,Hard,False
+3348,Minimum Cost Walk in Weighted Graph,minimum-cost-walk-in-weighted-graph,Hard,False
+3345,Find the Sum of the Power of All Subsequences,find-the-sum-of-the-power-of-all-subsequences,Hard,False
+3344,Minimize Manhattan Distances,minimize-manhattan-distances,Hard,False
+3327,Minimum Moves to Pick K Ones,minimum-moves-to-pick-k-ones,Hard,False
+3316,Find the Sum of Subsequence Powers,find-the-sum-of-subsequence-powers,Hard,False
+3313,Maximum Strength of K Disjoint Subarrays,maximum-strength-of-k-disjoint-subarrays,Hard,False
+3310,Count the Number of Houses at a Certain Distance II,count-the-number-of-houses-at-a-certain-distance-ii,Hard,False
+3307,Find the Maximum Sum of Node Values,find-the-maximum-sum-of-node-values,Hard,False
+3305,Count Prefix and Suffix Pairs II,count-prefix-and-suffix-pairs-ii,Hard,False
+3303,Find Beautiful Indices in the Given Array II,find-beautiful-indices-in-the-given-array-ii,Hard,False
+3298,Maximize Consecutive Elements in an Array After Modification,maximize-consecutive-elements-in-an-array-after-modification,Hard,False
+3296,Minimum Time to Revert Word to Initial State II,minimum-time-to-revert-word-to-initial-state-ii,Hard,False
+3290,Number of Subarrays That Match a Pattern II,number-of-subarrays-that-match-a-pattern-ii,Hard,False
+3289,Earliest Second to Mark Indices II,earliest-second-to-mark-indices-ii,Hard,False
+3277,Find the Number of Ways to Place People II,find-the-number-of-ways-to-place-people-ii,Hard,False
+3261,Minimize OR of Remaining Elements Using Operations,minimize-or-of-remaining-elements-using-operations,Hard,False
+3260,Divide an Array Into Subarrays With Minimum Cost II,divide-an-array-into-subarrays-with-minimum-cost-ii,Hard,False
+3248,Count the Number of Incremovable Subarrays II,count-the-number-of-incremovable-subarrays-ii,Hard,False
+3243,Count the Number of Powerful Integers,count-the-number-of-powerful-integers,Hard,False
+3238,Minimum Cost to Convert String II,minimum-cost-to-convert-string-ii,Hard,False
+3233,Maximize the Number of Partitions After Operations,maximize-the-number-of-partitions-after-operations,Hard,False
+3224,Count the Number of Infection Sequences,count-the-number-of-infection-sequences,Hard,False
+3223,Count Complete Substrings,count-complete-substrings,Hard,False
+3218,Find Number of Coins to Place in Tree Nodes,find-number-of-coins-to-place-in-tree-nodes,Hard,False
+3217,Number of Possible Sets of Closing Branches,number-of-possible-sets-of-closing-branches,Hard,False
+3212,Count the Number of Good Partitions,count-the-number-of-good-partitions,Hard,False
+3211,Find Maximum Non-decreasing Array Length,find-maximum-non-decreasing-array-length,Hard,False
+3208,Count Beautiful Substrings II,count-beautiful-substrings-ii,Hard,False
+3203,Palindrome Rearrangement Queries,palindrome-rearrangement-queries,Hard,False
+3197,Maximum Strong Pair XOR II,maximum-strong-pair-xor-ii,Hard,False
+3196,Apply Operations to Maximize Frequency Score,apply-operations-to-maximize-frequency-score,Hard,False
+3184,Maximum Balanced Subsequence Sum,maximum-balanced-subsequence-sum,Hard,False
+3181,Find Building Where Alice and Bob Can Meet,find-building-where-alice-and-bob-can-meet,Hard,False
+3179,Maximum Points After Collecting Coins From All Nodes,maximum-points-after-collecting-coins-from-all-nodes,Hard,False
+3153,Apply Operations on Array to Maximize Sum of Squares,apply-operations-on-array-to-maximize-sum-of-squares,Hard,False
+3140,Count Visited Nodes in a Directed Graph,count-visited-nodes-in-a-directed-graph,Hard,False
+3139,Subarrays Distinct Element Sum of Squares II,subarrays-distinct-element-sum-of-squares-ii,Hard,False
+3112,Count Valid Paths in a Tree,count-valid-paths-in-a-tree,Hard,False
+3107,Maximum Spending After Buying Items,maximum-spending-after-buying-items,Hard,False
+3105,Minimum Edge Reversals So Every Node Is Reachable,minimum-edge-reversals-so-every-node-is-reachable,Hard,False
+3091,Count of Sub-Multisets With Bounded Sum,count-of-sub-multisets-with-bounded-sum,Hard,False
+3079,Minimum Edge Weight Equilibrium Queries in a Tree,minimum-edge-weight-equilibrium-queries-in-a-tree,Hard,False
+3058,Maximum Number of K-Divisible Components,maximum-number-of-k-divisible-components,Hard,False
+3057,Count K-Subsequences of a String With Maximum Beauty,count-k-subsequences-of-a-string-with-maximum-beauty,Hard,False
+3047,Maximum Element-Sum of a Complete Subset of Indices,maximum-element-sum-of-a-complete-subset-of-indices,Hard,False
+3032,Maximize Value of Function in a Ball Passing Game,maximize-value-of-function-in-a-ball-passing-game,Hard,False
+3025,Minimum Operations to Form Subsequence With Target Sum,minimum-operations-to-form-subsequence-with-target-sum,Hard,False
+3024,String Transformation,string-transformation,Hard,False
+3017,Number of Beautiful Integers in the Range,number-of-beautiful-integers-in-the-range,Hard,False
+3001,Apply Operations to Maximize Score,apply-operations-to-maximize-score,Hard,False
+2952,Minimum Time to Make Array Sum At Most x,minimum-time-to-make-array-sum-at-most-x,Hard,False
+2921,Count Stepping Numbers in Range,count-stepping-numbers-in-range,Hard,False
+2919,Maximum Number of Groups With Increasing Length,maximum-number-of-groups-with-increasing-length,Hard,False
+2905,Count Paths That Can Form a Palindrome in a Tree,count-paths-that-can-form-a-palindrome-in-a-tree,Hard,False
+2894,Maximum Elegance of a K-Length Subsequence,maximum-elegance-of-a-k-length-subsequence,Hard,False
+2884,Length of the Longest Valid Substring,length-of-the-longest-valid-substring,Hard,False
+2879,Minimum Changes to Make K Semi-palindromes,minimum-changes-to-make-k-semi-palindromes,Hard,False
+2849,Sum of Imbalance Numbers of All Subarrays,sum-of-imbalance-numbers-of-all-subarrays,Hard,False
+2846,Robot Collisions,robot-collisions,Hard,False
+2839,Maximum Sum Queries,maximum-sum-queries,Hard,False
+2827,Greatest Common Divisor Traversal,greatest-common-divisor-traversal,Hard,False
+2826,Find a Good Subset of the Matrix,find-a-good-subset-of-the-matrix,Hard,False
+2818,Maximum Strictly Increasing Cells in a Matrix,maximum-strictly-increasing-cells-in-a-matrix,Hard,False
+2808,Painting the Walls,painting-the-walls,Hard,False
+2803,Modify Graph Edge Weights,modify-graph-edge-weights,Hard,False
+2788,Design Cancellable Function,design-cancellable-function,Hard,False
+2784,Power of Heroes,power-of-heroes,Hard,False
+2765,Make Array Empty,make-array-empty,Hard,False
+2757,Count of Integers,count-of-integers,Hard,False
+2744,Memoize II,memoize-ii,Hard,False
+2739,Minimize the Total Price of the Trips,minimize-the-total-price-of-the-trips,Hard,False
+2726,Minimum Reverse Operations,minimum-reverse-operations,Hard,False
+2717,Collect Coins in a Tree,collect-coins-in-a-tree,Hard,False
+2711,Minimum Time to Visit a Cell In a Grid,minimum-time-to-visit-a-cell-in-a-grid,Hard,False
+2708,Find the String with LCP,find-the-string-with-lcp,Hard,False
+2703,Handling Sum Queries After Update,handling-sum-queries-after-update,Hard,False
+2701,Subsequence With the Minimum Score,subsequence-with-the-minimum-score,Hard,False
+2697,Minimum Number of Visited Cells in a Grid,minimum-number-of-visited-cells-in-a-grid,Hard,False
+2689,Rearranging Fruits,rearranging-fruits,Hard,False
+2687,Lexicographically Smallest Beautiful String,lexicographically-smallest-beautiful-string,Hard,False
+2682,Count Increasing Quadruplets,count-increasing-quadruplets,Hard,False
+2681,Put Marbles in Bags,put-marbles-in-bags,Hard,False
+2678,Design Graph With Shortest Path Calculator,design-graph-with-shortest-path-calculator,Hard,False
+2671,Shortest Cycle in a Graph,shortest-cycle-in-a-graph,Hard,False
+2657,Minimum Time to Complete All Tasks,minimum-time-to-complete-all-tasks,Hard,False
+2652,Count Number of Possible Root Nodes,count-number-of-possible-root-nodes,Hard,False
+2648,Number of Ways to Earn Points,number-of-ways-to-earn-points,Hard,False
+2647,Split the Array to Make Coprime Products,split-the-array-to-make-coprime-products,Hard,False
+2642,Time to Cross a Bridge,time-to-cross-a-bridge,Hard,False
+2635,Check if Point Is Reachable,check-if-point-is-reachable,Hard,False
+2633,Minimum Cost to Split an Array,minimum-cost-to-split-an-array,Hard,False
+2627,Difference Between Maximum and Minimum Price Sum,difference-between-maximum-and-minimum-price-sum,Hard,False
+2618,Maximize the Minimum Powered City,maximize-the-minimum-powered-city,Hard,False
+2605,Count Anagrams,count-anagrams,Hard,False
+2601,Number of Great Partitions,number-of-great-partitions,Hard,False
+2597,Cycle Length Queries in a Tree,cycle-length-queries-in-a-tree,Hard,False
+2596,Add Edges to Make Degrees of All Nodes Even,add-edges-to-make-degrees-of-all-nodes-even,Hard,False
+2592,Minimum Total Cost to Make Arrays Unequal,minimum-total-cost-to-make-arrays-unequal,Hard,False
+2588,Maximum Number of Points From Grid Queries,maximum-number-of-points-from-grid-queries,Hard,False
+2583,Divide Nodes Into the Maximum Number of Groups,divide-nodes-into-the-maximum-number-of-groups,Hard,False
+2577,Count Palindromic Subsequences,count-palindromic-subsequences,Hard,False
+2574,Count Subarrays With Median K,count-subarrays-with-median-k,Hard,False
+2569,Number of Beautiful Partitions,number-of-beautiful-partitions,Hard,False
+2563,Split Message Based on Limit,split-message-based-on-limit,Hard,False
+2559,Maximum Number of Non-overlapping Palindrome Substrings,maximum-number-of-non-overlapping-palindrome-substrings,Hard,False
+2554,Minimum Total Distance Traveled,minimum-total-distance-traveled,Hard,False
+2549,Next Greater Element IV,next-greater-element-iv,Hard,False
+2545,Height of Binary Tree After Subtree Removal Queries,height-of-binary-tree-after-subtree-removal-queries,Hard,False
+2539,Minimum Number of Operations to Make Arrays Similar,minimum-number-of-operations-to-make-arrays-similar,Hard,False
+2538,Minimum Cost to Make Array Equal,minimum-cost-to-make-array-equal,Hard,False
+2531,Create Components With Same Value,create-components-with-same-value,Hard,False
+2527,Count Subarrays With Fixed Bounds,count-subarrays-with-fixed-bounds,Hard,False
+2526,Longest Increasing Subsequence II,longest-increasing-subsequence-ii,Hard,False
+2521,Paths in Matrix Whose Sum Is Divisible by K,paths-in-matrix-whose-sum-is-divisible-by-k,Hard,False
+2513,Number of Pairs Satisfying Inequality,number-of-pairs-satisfying-inequality,Hard,False
+2510,Maximum Deletions on a String,maximum-deletions-on-a-string,Hard,False
+2505,Number of Good Paths,number-of-good-paths,Hard,False
+2499,Minimum Money Required Before Transactions,minimum-money-required-before-transactions,Hard,False
+2494,Sum of Prefix Scores of Strings,sum-of-prefix-scores-of-strings,Hard,False
+2479,Meeting Rooms III,meeting-rooms-iii,Hard,False
+2472,Build a Matrix With Conditions,build-a-matrix-with-conditions,Hard,False
+2466,Maximum Segment Sum After Removals,maximum-segment-sum-after-removals,Hard,False
+2462,Find the K-Sum of an Array,find-the-k-sum-of-an-array,Hard,False
+2457,Count Special Integers,count-special-integers,Hard,False
+2450,Minimum Replacements to Sort the Array,minimum-replacements-to-sort-the-array,Hard,False
+2449,Maximum Number of Robots Within Budget,maximum-number-of-robots-within-budget,Hard,False
+2439,Longest Cycle in a Graph,longest-cycle-in-a-graph,Hard,False
+2435,Shortest Impossible Sequence of Rolls,shortest-impossible-sequence-of-rolls,Hard,False
+2430,Number of Excellent Pairs,number-of-excellent-pairs,Hard,False
+2423,Minimum Deletions to Make Array Divisible,minimum-deletions-to-make-array-divisible,Hard,False
+2419,Subarray With Elements Greater Than Varying Threshold,subarray-with-elements-greater-than-varying-threshold,Hard,False
+2415,Count the Number of Ideal Arrays,count-the-number-of-ideal-arrays,Hard,False
+2409,Number of Increasing Paths in a Grid,number-of-increasing-paths-in-a-grid,Hard,False
+2404,Number of Distinct Roll Sequences,number-of-distinct-roll-sequences,Hard,False
+2400,Minimum Score After Removals on a Tree,minimum-score-after-removals-on-a-tree,Hard,False
+2394,Count Subarrays With Score Less Than K,count-subarrays-with-score-less-than-k,Hard,False
+2393,Match Substring After Replacement,match-substring-after-replacement,Hard,False
+2390,Naming a Company,naming-a-company,Hard,False
+2389,Design a Text Editor,design-a-text-editor,Hard,False
+2380,Booking Concert Tickets in Groups,booking-concert-tickets-in-groups,Hard,False
+2375,Minimum Obstacle Removal to Reach Corner,minimum-obstacle-removal-to-reach-corner,Hard,False
+2368,Sum of Total Strength of Wizards,sum-of-total-strength-of-wizards,Hard,False
+2364,Longest Path With Different Adjacent Characters,longest-path-with-different-adjacent-characters,Hard,False
+2360,Substring With Largest Variance,substring-with-largest-variance,Hard,False
+2357,Count Integers in Intervals,count-integers-in-intervals,Hard,False
+2353,Maximum Score of a Node Sequence,maximum-score-of-a-node-sequence,Hard,False
+2349, Check if There Is a Valid Parentheses String Path,check-if-there-is-a-valid-parentheses-string-path,Hard,False
+2344,Escape the Spreading Fire,escape-the-spreading-fire,Hard,False
+2340,Total Appeal of A String,total-appeal-of-a-string,Hard,False
+2334,Number of Flowers in Full Bloom,number-of-flowers-in-full-bloom,Hard,False
+2330,Maximum Total Beauty of the Gardens,maximum-total-beauty-of-the-gardens,Hard,False
+2326,Sum of Scores of Built Strings,sum-of-scores-of-built-strings,Hard,False
+2321,Minimum Weighted Subgraph With the Required Paths,minimum-weighted-subgraph-with-the-required-paths,Hard,False
+2319,Longest Substring of One Repeating Character,longest-substring-of-one-repeating-character,Hard,False
+2311,Minimum White Tiles After Covering With Carpets,minimum-white-tiles-after-covering-with-carpets,Hard,False
+2307,Replace Non-Coprime Numbers in Array,replace-non-coprime-numbers-in-array,Hard,False
+2301,Count Array Pairs Divisible by K,count-array-pairs-divisible-by-k,Hard,False
+2295,Minimum Time to Finish the Race,minimum-time-to-finish-the-race,Hard,False
+2291,Maximum AND Sum of Array,maximum-and-sum-of-array,Hard,False
+2286,Minimum Time to Remove All Cars Containing Illegal Goods,minimum-time-to-remove-all-cars-containing-illegal-goods,Hard,False
+2280,Count Good Triplets in an Array,count-good-triplets-in-an-array,Hard,False
+2276,Groups of Strings,groups-of-strings,Hard,False
+2275,Find Substring With Given Hash Value,find-substring-with-given-hash-value,Hard,False
+2272,Maximum Good People Based on Statements,maximum-good-people-based-on-statements,Hard,False
+2267,Minimum Difference in Sums After Removal of Elements,minimum-difference-in-sums-after-removal-of-elements,Hard,False
+2263,Maximum Running Time of N Computers,maximum-running-time-of-n-computers,Hard,False
+2257,Earliest Possible Day of Full Bloom,earliest-possible-day-of-full-bloom,Hard,False
+2251,Number of Ways to Divide a Long Corridor,number-of-ways-to-divide-a-long-corridor,Hard,False
+2246,Maximum Employees to Be Invited to a Meeting,maximum-employees-to-be-invited-to-a-meeting,Hard,False
+2241,Recover the Original Array,recover-the-original-array,Hard,False
+2234,Minimum Operations to Make the Array K-Increasing,minimum-operations-to-make-the-array-k-increasing,Hard,False
+2229,Maximum Fruits Harvested After at Most K Steps,maximum-fruits-harvested-after-at-most-k-steps,Hard,False
+2222,Abbreviating the Product of a Range,abbreviating-the-product-of-a-range,Hard,False
+2213,Find All People With Secret,find-all-people-with-secret,Hard,False
+2207,Sequentially Ordinal Rank Tracker,sequentially-ordinal-rank-tracker,Hard,False
+2202,Sum of k-Mirror Numbers,sum-of-k-mirror-numbers,Hard,False
+2201,Valid Arrangement of Pairs,valid-arrangement-of-pairs,Hard,False
+2200,Stamping the Grid,stamping-the-grid,Hard,False
+2198,Process Restricted Friend Requests,process-restricted-friend-requests,Hard,False
+2193,Count Fertile Pyramids in a Land,count-fertile-pyramids-in-a-land,Hard,False
+2189,Maximum Path Quality of a Graph,maximum-path-quality-of-a-graph,Hard,False
+2184,Check if an Original String Exists Given Two Encoded Strings,check-if-an-original-string-exists-given-two-encoded-strings,Hard,False
+2180,Maximum Number of Tasks You Can Assign,maximum-number-of-tasks-you-can-assign,Hard,False
+2176,Parallel Courses III,parallel-courses-iii,Hard,False
+2171,Second Minimum Time to Reach Destination,second-minimum-time-to-reach-destination,Hard,False
+2166,Number of Valid Move Combinations On Chessboard,number-of-valid-move-combinations-on-chessboard,Hard,False
+2162,Partition Array Into Two Arrays to Minimize Sum Difference,partition-array-into-two-arrays-to-minimize-sum-difference,Hard,False
+2157,Smallest K-Length Subsequence With Occurrences of a Letter,smallest-k-length-subsequence-with-occurrences-of-a-letter,Hard,False
+2150,Kth Smallest Product of Two Sorted Arrays,kth-smallest-product-of-two-sorted-arrays,Hard,False
+2147,The Score of Students Solving Math Expression,the-score-of-students-solving-math-expression,Hard,False
+2140,Longest Subsequence Repeated k Times,longest-subsequence-repeated-k-times,Hard,False
+2135,Maximum Number of Ways to Partition an Array,maximum-number-of-ways-to-partition-an-array,Hard,False
+2131,Smallest Missing Genetic Value in Each Subtree,smallest-missing-genetic-value-in-each-subtree,Hard,False
+2125,GCD Sort of an Array,gcd-sort-of-an-array,Hard,False
+2119,Minimum Number of Operations to Make Array Continuous,minimum-number-of-operations-to-make-array-continuous,Hard,False
+2115,Number of Unique Good Subsequences,number-of-unique-good-subsequences,Hard,False
+2109,Find Array Given Subset Sums,find-array-given-subset-sums,Hard,False
+2105,The Number of Good Subsets,the-number-of-good-subsets,Hard,False
+2101,Last Day Where You Can Still Cross,last-day-where-you-can-still-cross,Hard,False
+2096,Find the Longest Valid Obstacle Course at Each Position,find-the-longest-valid-obstacle-course-at-each-position,Hard,False
+2091,Number of Ways to Separate Numbers,number-of-ways-to-separate-numbers,Hard,False
+2086,Count Number of Special Subsequences,count-number-of-special-subsequences,Hard,False
+2079,Delete Duplicate Folders in System,delete-duplicate-folders-in-system,Hard,False
+2068,Maximum Genetic Difference Query,maximum-genetic-difference-query,Hard,False
+2061,Painting a Grid With Three Different Colors,painting-a-grid-with-three-different-colors,Hard,False
+2060,Merge BSTs to Create Single BST,merge-bsts-to-create-single-bst,Hard,False
+2051,Longest Common Subpath,longest-common-subpath,Hard,False
+2040,Minimum Cost to Reach Destination in Time,minimum-cost-to-reach-destination-in-time,Hard,False
+2028,The Earliest and Latest Rounds Where Players Compete,the-earliest-and-latest-rounds-where-players-compete,Hard,False
+2023,Design Movie Rental System,design-movie-rental-system,Hard,False
+2018,Minimum Space Wasted From Packaging,minimum-space-wasted-from-packaging,Hard,False
+2013,Minimum Skips to Arrive at Meeting On Time,minimum-skips-to-arrive-at-meeting-on-time,Hard,False
+2008,Minimum Cost to Change the Final Value of Expression,minimum-cost-to-change-the-final-value-of-expression,Hard,False
+2002,Stone Game VIII,stone-game-viii,Hard,False
+1996,Number of Ways to Rearrange Sticks With K Sticks Visible,number-of-ways-to-rearrange-sticks-with-k-sticks-visible,Hard,False
+1989,Minimum XOR Sum of Two Arrays,minimum-xor-sum-of-two-arrays,Hard,False
+1986,Largest Color Value in a Directed Graph,largest-color-value-in-a-directed-graph,Hard,False
+1977,Minimum Interval to Include Each Query,minimum-interval-to-include-each-query,Hard,False
+1968,Maximum Building Height,maximum-building-height,Hard,False
+1963,Find XOR Sum of All Pairs Bitwise AND,find-xor-sum-of-all-pairs-bitwise-and,Hard,False
+1957,Closest Room,closest-room,Hard,False
+1953,Finding MK Average,finding-mk-average,Hard,False
+1947,Number of Different Subsequences GCDs,number-of-different-subsequences-gcds,Hard,False
+1941,Minimum Number of Operations to Make String Sorted,minimum-number-of-operations-to-make-string-sorted,Hard,False
+1936,Maximize Number of Nice Divisors,maximize-number-of-nice-divisors,Hard,False
+1924,Maximum Number of Groups Getting Fresh Donuts,maximum-number-of-groups-getting-fresh-donuts,Hard,False
+1918,Maximum Score of a Good Subarray,maximum-score-of-a-good-subarray,Hard,False
+1913,Make the XOR of All Segments Equal to Zero,make-the-xor-of-all-segments-equal-to-zero,Hard,False
+1907,Count Pairs With XOR in a Range,count-pairs-with-xor-in-a-range,Hard,False
+1906,Maximize Score After N Operations,maximize-score-after-n-operations,Hard,False
+1902,Car Fleet II,car-fleet-ii,Hard,False
+1897,Maximize Palindrome Length From Subsequences,maximize-palindrome-length-from-subsequences,Hard,False
+1896,Maximum Score from Performing Multiplication Operations,maximum-score-from-performing-multiplication-operations,Hard,False
+1891,Count Pairs Of Nodes,count-pairs-of-nodes,Hard,False
+1887,Minimum Degree of a Connected Trio in a Graph,minimum-degree-of-a-connected-trio-in-a-graph,Hard,False
+1881,Closest Subsequence Sum,closest-subsequence-sum,Hard,False
+1875,Tree of Coprimes,tree-of-coprimes,Hard,False
+1871,Palindrome Partitioning IV,palindrome-partitioning-iv,Hard,False
+1861,Building Boxes,building-boxes,Hard,False
+1851,Maximum Number of Events That Can Be Attended II,maximum-number-of-events-that-can-be-attended-ii,Hard,False
+1836,Count Ways to Make Array With Product,count-ways-to-make-array-with-product,Hard,False
+1832,Minimum Operations to Make a Subsequence,minimum-operations-to-make-a-subsequence,Hard,False
+1826,Maximum XOR With an Element From Array,maximum-xor-with-an-element-from-array,Hard,False
+1825,Find Minimum Time to Finish All Jobs,find-minimum-time-to-finish-all-jobs,Hard,False
+1820,Number Of Ways To Reconstruct A Tree,number-of-ways-to-reconstruct-a-tree,Hard,False
+1815,Checking Existence of Edge Length Limited Paths,checking-existence-of-edge-length-limited-paths,Hard,False
+1805,Minimum Adjacent Swaps for K Consecutive Ones,minimum-adjacent-swaps-for-k-consecutive-ones,Hard,False
+1799,Minimum Incompatibility,minimum-incompatibility,Hard,False
+1794,Minimize Deviation in Array,minimize-deviation-in-array,Hard,False
+1789,Delivering Boxes from Storage to Ports,delivering-boxes-from-storage-to-ports,Hard,False
+1784,Minimum Initial Energy to Finish Tasks,minimum-initial-energy-to-finish-tasks,Hard,False
+1778,Maximize Grid Happiness,maximize-grid-happiness,Hard,False
+1772,Create Sorted Array through Instructions,create-sorted-array-through-instructions,Hard,False
+1766,Minimum Number of Removals to Make Mountain Array,minimum-number-of-removals-to-make-mountain-array,Hard,False
+1758,Distribute Repeating Integers,distribute-repeating-integers,Hard,False
+1744,Number of Ways to Form a Target String Given a Dictionary,number-of-ways-to-form-a-target-string-given-a-dictionary,Hard,False
+1740,Count Subtrees With Max Distance Between Cities,count-subtrees-with-max-distance-between-cities,Hard,False
+1733,Maximum Number of Visible Points,maximum-number-of-visible-points,Hard,False
+1732,Minimum One Bit Operations to Make Integers Zero,minimum-one-bit-operations-to-make-integers-zero,Hard,False
+1728,Fancy Sequence,fancy-sequence,Hard,False
+1727,Cat and Mouse II,cat-and-mouse-ii,Hard,False
+1723,Maximum Number of Achievable Transfer Requests,maximum-number-of-achievable-transfer-requests,Hard,False
+1717,Minimum Cost to Connect Two Groups of Points,minimum-cost-to-connect-two-groups-of-points,Hard,False
+1710,Find Servers That Handled Most Number of Requests,find-servers-that-handled-most-number-of-requests,Hard,False
+1707,Check If String Is Transformable With Substring Sort Operations,check-if-string-is-transformable-with-substring-sort-operations,Hard,False
+1701,Remove Max Number of Edges to Keep Graph Fully Traversable,remove-max-number-of-edges-to-keep-graph-fully-traversable,Hard,False
+1696,Strange Printer II,strange-printer-ii,Hard,False
+1692,Number of Ways to Reorder Array to Get Same BST,number-of-ways-to-reorder-array-to-get-same-bst,Hard,False
+1691,Minimum Number of Days to Disconnect Island,minimum-number-of-days-to-disconnect-island,Hard,False
+1685,Stone Game V,stone-game-v,Hard,False
+1680,Count All Possible Routes,count-all-possible-routes,Hard,False

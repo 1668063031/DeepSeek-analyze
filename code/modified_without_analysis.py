@@ -23,12 +23,12 @@ output_csv = "noanalysis_result.csv"
 target_columns = ["slug", "status_msg", "generated_code", "content"]
 keep_columns = ["slug", "content"]
 
-
-def get_file_encoding(file_path):
-    import chardet
-    with open(file_path, 'rb') as f:
-        result = chardet.detect(f.read(10000))  # 检测前1万字节
-    return result['encoding'] or 'utf-8'
+def validate_generated_code(code, expected_function_name):
+    required = [
+        f"def {expected_function_name}(",
+        "class Solution:"
+    ]
+    return all(req in code for req in required)
 
 
 def init_output_file(output_filename, keep_cols):
@@ -52,7 +52,7 @@ def is_processed(output_filename, slug):
 
 def process_problems(input_filename, output_filename, target_cols, keep_cols):
     client = OpenAI(
-        api_key="sk-4f266e93e20c436d8b86e235ffb96065",
+        api_key="......",
         base_url="https://api.deepseek.com"
     )
 
@@ -67,7 +67,6 @@ def process_problems(input_filename, output_filename, target_cols, keep_cols):
                 print(f"Skipping processed: {row['slug']}")
                 continue
 
-            # 获取问题和原始代码
             problem_content = row.get("content", "")
             original_code = row.get("generated_code", "")
             problem = row.get("status_msg", "")

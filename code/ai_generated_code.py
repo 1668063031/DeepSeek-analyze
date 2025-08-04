@@ -10,7 +10,6 @@ keep_columns = ["slug", "title"]
 
 
 def validate_generated_code(code, expected_function_name):
-    """验证生成的代码是否包含预期的方法名和类"""
     required = [
         f"def {expected_function_name}(",
         "class Solution:"
@@ -19,7 +18,6 @@ def validate_generated_code(code, expected_function_name):
 
 
 def init_output_file(output_filename, keep_cols):
-    """Initialize output file if not exists"""
     if not os.path.exists(output_filename):
         with open(output_filename, 'w', encoding='utf-8', newline='') as f:
             writer = csv.DictWriter(f, fieldnames=keep_cols + ["generated_code", "status", "error"])
@@ -27,7 +25,6 @@ def init_output_file(output_filename, keep_cols):
 
 
 def is_processed(output_filename, slug):
-    """Check if record already processed"""
     if not os.path.exists(output_filename):
         return False
     with open(output_filename, 'r', encoding='utf-8') as f:
@@ -36,7 +33,6 @@ def is_processed(output_filename, slug):
 
 
 def extract_function_name(code):
-    """从现有代码中提取函数名"""
     if not code or not isinstance(code, str):
         return None
     lines = code.split('\n')
@@ -48,7 +44,7 @@ def extract_function_name(code):
 
 def process_problems(input_filename, output_filename, target_cols, keep_cols):
     client = OpenAI(
-        api_key="sk-4f266e93e20c436d8b86e235ffb96065",
+        api_key="......",
         base_url="https://api.deepseek.com"
     )
 

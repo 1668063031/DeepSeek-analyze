@@ -6,8 +6,8 @@ import csv
 import time
 import random
 
-LEETCODE_SESSION = "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJfYXV0aF91c2VyX2lkIjoiMTczNTQyNTIiLCJfYXV0aF91c2VyX2JhY2tlbmQiOiJhbGxhdXRoLmFjY291bnQuYXV0aF9iYWNrZW5kcy5BdXRoZW50aWNhdGlvbkJhY2tlbmQiLCJfYXV0aF91c2VyX2hhc2giOiI3MWIwYzZlMGEyMTY0NjU2MzQwMTM2MTQ4OGE0NzM3MWNjZjAzYjhlYzA0YjEyMzNhYTdlNDAyMWZmYjU1ODhiIiwic2Vzc2lvbl91dWlkIjoiZGY2YTY2OTkiLCJpZCI6MTczNTQyNTIsImVtYWlsIjoiY2hlbnpoZW5neWFuZ2p3cDEyM0BnbWFpbC5jb20iLCJ1c2VybmFtZSI6IkxraEhQd2E5eWEiLCJ1c2VyX3NsdWciOiJMa2hIUHdhOXlhIiwiYXZhdGFyIjoiaHR0cHM6Ly9hc3NldHMubGVldGNvZGUuY29tL3VzZXJzL0xraEhQd2E5eWEvYXZhdGFyXzE3NDQzMjUxNDgucG5nIiwicmVmcmVzaGVkX2F0IjoxNzQ4OTYxNTYwLCJpcCI6IjEzMC4yMjYuMTYxLjkyIiwiaWRlbnRpdHkiOiIwZmU2ZmViNTQyODlmNGM2NzAyN2VjMDZjYzIxMzFmOCIsImRldmljZV93aXRoX2lwIjpbImE0ZjAyNTk0YTEzYjM5N2Q1YmQzZDA4NzYzNjNjMzc2IiwiMTMwLjIyNi4xNjEuOTIiXX0.jT5P5sdBbBxBuz_qyd4aWZPR08eZ6lmslG02EKQ29i0"
-CSRF_TOKEN = "PChv6dqxWbIqTBoQxJVyRyvtXUBchklgDjENGsoBwxrSwruxHmwZ47hrt75Efa3a"
+LEETCODE_SESSION = "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJfYXV0aF91c2VyX2lkIjoiMTczNTQyNTIiLCJfYXV0aF91c2VyX2JhY2tlbmQiOiJhbGxhdXRoLmFjY291bnQuYXV0aF9iYWNrZW5kcy5BdXRoZW50aWNhdGlvbkJhY2tlbmQiLCJfYXV0aF91c2VyX2hhc2giOiI3MWIwYzZlMGEyMTY0NjU2MzQwMTM2MTQ4OGE0NzM3MWNjZjAzYjhlYzA0YjEyMzNhYTdlNDAyMWZmYjU1ODhiIiwic2Vzc2lvbl91dWlkIjoiOGRhZmUxNjAiLCJpZCI6MTczNTQyNTIsImVtYWlsIjoiY2hlbnpoZW5neWFuZ2p3cDEyM0BnbWFpbC5jb20iLCJ1c2VybmFtZSI6IkxraEhQd2E5eWEiLCJ1c2VyX3NsdWciOiJMa2hIUHdhOXlhIiwiYXZhdGFyIjoiaHR0cHM6Ly9hc3NldHMubGVldGNvZGUuY29tL3VzZXJzL0xraEhQd2E5eWEvYXZhdGFyXzE3NDQzMjUxNDgucG5nIiwicmVmcmVzaGVkX2F0IjoxNzUyNzU2NTQyLCJpcCI6IjEzMC4yMjYuMTYxLjkyIiwiaWRlbnRpdHkiOiI3ZGRlZGE4OGQwYzU5OWNjNDk0ZGEwZGVjZTY1NTRkNSIsImRldmljZV93aXRoX2lwIjpbIjFlMjNmNDUyNzEwNzBjMzA4Njg5Y2Q1MzhjNjJmZjA2IiwiMTMwLjIyNi4xNjEuOTIiXX0.3q1gAsXuiXQAUR5IH52HoZUZjYEhctkQvKYiYvPMK3E"
+CSRF_TOKEN = "stE93l7oddV2W7S6PesoLeoCa2dWkUx0hV4XIJorrJji5TIPKt2Wd0PRBIPI2gOA"
 
 # set the header
 headers = {
@@ -129,8 +129,10 @@ def test_leetcode_submission(title_slug, lang, code, leetcode_session, csrf_toke
 
 
 def process_problems(input_filename, output_filename, target_cols, keep_cols):
+    # 初始化输出文件
     init_output_file(output_filename, keep_cols)
 
+    # 预加载已处理的题目
     processed_slugs = set()
     if os.path.exists(output_filename):
         with open(output_filename, 'r', encoding='utf-8') as f:
@@ -144,11 +146,11 @@ def process_problems(input_filename, output_filename, target_cols, keep_cols):
             slug = row["slug"]
 
             if slug in processed_slugs:
-                print(f"skip processed question: {slug}")
+                print(f"跳过已处理的题目: {slug}")
                 continue
 
             code = extract_pure_code(row["generated_code"])
-            print(f"handle: {slug}")
+            print(f"正在处理题目: {slug}")
 
             result = test_leetcode_submission(
                 slug,
@@ -160,6 +162,7 @@ def process_problems(input_filename, output_filename, target_cols, keep_cols):
 
             print(result)
 
+            # 准备结果数据
             output_data = {
                 "slug": slug,
                 "total_testcases": result.get("total_testcases", ""),
@@ -168,9 +171,10 @@ def process_problems(input_filename, output_filename, target_cols, keep_cols):
                 "state": result.get("state", ""),
                 "memory_percentile": result.get("memory_percentile", ""),
                 "status_msg": result.get("status_msg", result.get("error", "")),
-                "processed": "True"
+                "processed": "True"  # 统一使用True
             }
 
+            # 追加写入模式
             with open(output_filename, 'a', encoding='utf-8', newline='') as outfile:
                 writer = csv.DictWriter(outfile, fieldnames=keep_cols + [
                     "total_testcases",
@@ -193,9 +197,9 @@ def init_output_file(output_filename, keep_cols):
             writer = csv.DictWriter(f, fieldnames=keep_cols + ["total_testcases", "total_correct", "runtime_percentile", "state","status_msg", "memory_percentile", "processed"])
             writer.writeheader()
 
-input_csv = "first_try.csv"
+input_csv = "analysis_result.csv"
 target_columns = ["slug", "generated_code"]
-output_csv = "first_result.csv"
+output_csv = "analysiscode_result.csv"
 keep_columns = ["slug"]
 
 process_problems(input_csv, output_csv, target_columns, keep_columns)

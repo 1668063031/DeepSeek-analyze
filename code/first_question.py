@@ -63,31 +63,28 @@ def process_problems(input_filename, output_filename, target_cols, keep_cols):
                 print(f"Skipping processed: {row['title']}")
                 continue
 
-            # 获取问题和原始代码
             problem_content = row.get("content", "")
             original_code = row.get("python_code", "")
-            function_name = extract_function_name(original_code) or "solution"  # 默认值
 
             prompt = f"""
-            # LeetCode 题目: {row['title']}
-            # 题目描述:
+            # LeetCode question: {row['title']}
+            # Description of Problem:
             {problem_content}
 
-            # 原始代码 (必须保持函数名和参数不变):
+            # original code (input and function name cannot be changed):
             {original_code}
 
-            # 任务:
-            基于题目描述改进原始代码，但必须:
-            1. 保持类名 'Solution' 不变
-            2. 保持函数名 '{function_name}' 不变
-            3. 保持完全相同的参数签名
-            4. 只改进代码实现部分
-            5. 返回完整的可执行Python代码，不要任何解释
+            # mission:
+            based on the problem to advanced code and require:
+            1. keep function name '{function_name}' unchanged
+            3. keep the same parameter name
+            4. only change the achievement element
+            5. return code without any explanation
 
-            # 注意:
-            - 不要添加额外的方法或函数
-            - 不要改变输入输出类型
-            - 不要添加示例或测试用例
+            # mission:
+            Do not add extra methods or functions
+            Do not modify the input/output types 
+            # Do not include examples or test cases
             """
 
             max_retries = 3

@@ -4,7 +4,7 @@ import os
 import re
 import subprocess
 from pathlib import Path
-
+"""
 PYLINT_DISABLE = [
     # 文档类
     'missing-module-docstring',  # C0114
@@ -41,6 +41,57 @@ PYLINT_DISABLE = [
     'consider-using-dict-items',  # R1737
     'use-a-generator',  # R1736
 ]
+"""
+PYLINT_DISABLE = [
+    # 1. Documentation (论文未关注文档字符串)
+    'missing-module-docstring',  # C0114
+    'missing-class-docstring',  # C0115
+    'missing-function-docstring',  # C0116
+
+    # 2. Naming (论文未分析命名规范)
+    'invalid-name',  # C0103
+    'disallowed-name',  # C0104
+    'non-ascii-name',  # C0105
+
+    # 3. Structure (保留论文关注的复杂度检查)
+    # 'too-many-branches',  # R0912 (论文中TooManyBranches-36次)
+    # 'too-many-locals',  # R0914 (论文中TooManyLocals-32次)
+    'too-few-public-methods',  # R0903
+    'too-many-arguments',  # R0913
+    'too-many-nested-blocks',  # R1702
+    'too-many-statements',  # R0915
+    'too-many-instance-attributes',  # R0902
+
+    # 4. Formatting (论文仅关注BlankLines-28次)
+    'trailing-whitespace',  # C0303
+    'missing-final-newline',  # C0304
+    'bad-whitespace',  # C0326
+    'unnecessary-semicolon',  # W0301
+    'bad-continuation',  # C0330
+
+    # 5. Type checking (论文未涉及类型检查)
+    'undefined-variable',  # E0602
+    'no-member',  # E1101
+    'unused-argument',  # W0613
+
+    # 6. Other rules not in paper's Table 5
+    'superfluous-parens',  # C0325
+    'unnecessary-pass',  # W0107
+    'redefined-builtin',  # W0622 (论文中RedefinedBuiltin-63次)
+    'consider-using-enumerate',  # R1721 (论文中ConsiderUsingEnumerate-213次)
+    'consider-using-dict-items',  # R1737 (论文中ConsiderUsingDictItems-39次)
+    'use-a-generator',  # R1736
+    'chained-comparison',  # R1716
+    'simplifiable-if-expression',  # R1706
+    'len-as-condition',  # R1714
+    'unidiomatic-typecheck',  # R1704
+
+    # 7. Special cases (论文明确检测的需保留)
+    # 不禁用以下论文中出现的规则:
+    # - unused-variable (W0612, 论文103次)
+    # - no-else-return (R1705, 论文161次)
+    # - inconsistent-return-statements (R1710, 论文27次)
+]
 
 def clean_python_code(raw_code):
     if "List[" in raw_code or "Dict[" in raw_code or "Optional[" in raw_code:
@@ -59,7 +110,7 @@ def analyze_python_code(code_string):
         tmp_path = tmp.name
 
     result = subprocess.run(
-        ['pylint', '--score=no', '--reports=no', tmp_path],
+        ['pylint', tmp_path],
         stdout=subprocess.PIPE,
         stderr=subprocess.PIPE,
         text=True
@@ -68,13 +119,13 @@ def analyze_python_code(code_string):
     return result.stdout
 
 
-def analyze_csv_column(csv_path, column_index=9, output_csv='pylint_results.csv'):
+def analyze_csv_column(csv_path, column_index=9, output_csv='pylint_compare.csv'):
 
     output_file = Path(output_csv)
     if not output_file.exists():
         with open(output_csv, 'w', newline='', encoding='utf-8') as f:
             writer = csv.writer(f)
-            writer.writerow(['Original_ID', 'Original Code', 'Pylint Results'])
+            writer.writerow(['slug', 'Original Code', 'Pylint Results'])
 
     processed_ids = set()
     if output_file.exists():
@@ -92,8 +143,8 @@ def analyze_csv_column(csv_path, column_index=9, output_csv='pylint_results.csv'
             if not row:
                 continue
 
-            original_id = row[0]
-            if original_id in processed_ids or len(row) <= column_index:
+            slug = row[0]
+            if slug in processed_ids or len(row) <= column_index:
                 continue
 
             raw_code = row[column_index]
@@ -101,9 +152,9 @@ def analyze_csv_column(csv_path, column_index=9, output_csv='pylint_results.csv'
 
             with open(output_csv, 'a', newline='', encoding='utf-8') as f:
                 writer = csv.writer(f)
-                writer.writerow([original_id, raw_code, pylint_results])
+                writer.writerow([slug, raw_code, pylint_results])
 
-            print(f"Processed ID: {original_id}")
+            print(f"Processed ID: {slug}")
 
     print(f"Analysis completed. Results in {output_csv}")
 

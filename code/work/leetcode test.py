@@ -179,7 +179,7 @@ def process_problems(input_filename, output_filename, target_cols, keep_cols):
                 ])
                 writer.writerow(output_data)
 
-            print(f"已保存结果: {slug} - {output_data['status_msg']}")
+            print(f"saved: {slug} - {output_data['status_msg']}")
             time.sleep(10)
 
 def init_output_file(output_filename, keep_cols):

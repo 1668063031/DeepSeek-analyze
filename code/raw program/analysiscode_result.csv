@@ -1,0 +1,870 @@
+slug,total_testcases_analysis,total_correct_analysis,runtime_percentile_analysis,state,status_msg_analysis,result_analysis,processed
+largest-number-after-digit-swaps-by-parity,238,238,100,SUCCESS,26.1664,Accepted,TRUE
+smallest-divisible-digit-product-i,1000,1000,100,SUCCESS,42.8044,Accepted,TRUE
+minimize-xor,280,280,100,SUCCESS,65.9574,Accepted,TRUE
+maximum-running-time-of-n-computers,52,52,5.9544,SUCCESS,84.7682,Accepted,TRUE
+find-minimum-diameter-after-merging-two-trees,723,723,5.1817,SUCCESS,41.8512,Accepted,TRUE
+minimum-edge-reversals-so-every-node-is-reachable,421,421,5.4825,SUCCESS,29.2661,Accepted,TRUE
+split-the-array-to-make-coprime-products,75,75,57.6274,SUCCESS,62.712,Accepted,TRUE
+mark-elements-on-array-by-performing-queries,661,0,,SUCCESS,,Time Limit Exceeded,TRUE
+count-the-number-of-fair-pairs,55,55,50.314,SUCCESS,44.6315,Accepted,TRUE
+maximize-score-of-numbers-in-ranges,686,686,6.8659,SUCCESS,9.1603,Accepted,TRUE
+minimum-fuel-cost-to-report-to-the-capital,131,131,12.467,SUCCESS,5.15,Accepted,TRUE
+distribute-elements-into-two-arrays-ii,785,785,16.8832,SUCCESS,28.5715,Accepted,TRUE
+maximum-number-of-non-overlapping-substrings,285,81,,SUCCESS,,Wrong Answer,TRUE
+maximum-number-of-operations-with-the-same-score-ii,549,549,58.537,SUCCESS,65.854,Accepted,TRUE
+remove-letter-to-equalize-frequency,50,50,4.3974,SUCCESS,85.9935,Accepted,TRUE
+prime-subtraction-operation,654,654,83.6363,SUCCESS,8.4849,Accepted,TRUE
+find-the-minimum-possible-sum-of-a-beautiful-array,577,577,100,SUCCESS,81.5789,Accepted,TRUE
+number-of-students-unable-to-eat-lunch,55,55,100,SUCCESS,62.9642,Accepted,TRUE
+longest-unequal-adjacent-groups-subsequence-i,382,382,12.2025,SUCCESS,71.1409,Accepted,TRUE
+minimum-number-of-pushes-to-type-word-ii,877,877,42.2941,SUCCESS,93.4426,Accepted,TRUE
+form-smallest-number-from-two-digit-arrays,388,388,100,SUCCESS,53.3568,Accepted,TRUE
+longest-palindromic-subsequence-after-at-most-k-operations,550,0,,SUCCESS,,Runtime Error,TRUE
+find-indices-with-index-and-value-difference-i,525,525,10.3773,SUCCESS,21.0692,Accepted,TRUE
+clear-digits,688,688,27.5877,SUCCESS,78.6229,Accepted,TRUE
+minimum-amount-of-time-to-fill-cups,280,280,100,SUCCESS,54.262,Accepted,TRUE
+best-position-for-a-service-centre,56,56,97.2223,SUCCESS,86.8056,Accepted,TRUE
+find-if-digit-game-can-be-won,897,897,100,SUCCESS,39.3086,Accepted,TRUE
+using-a-robot-to-print-the-lexicographically-smallest-string,62,62,25.2329,SUCCESS,18.4374,Accepted,TRUE
+maximize-number-of-nice-divisors,213,213,6.5789,SUCCESS,85.5263,Accepted,TRUE
+maximum-number-of-moves-in-a-grid,814,814,22.2815,SUCCESS,81.6832,Accepted,TRUE
+count-of-matches-in-tournament,200,200,93.0781,SUCCESS,71.1726,Accepted,TRUE
+minimum-operations-to-exceed-threshold-value-ii,676,676,10.478,SUCCESS,74.7303,Accepted,TRUE
+total-cost-to-hire-k-workers,163,163,23.5575,SUCCESS,25.5297,Accepted,TRUE
+remove-methods-from-project,775,775,10.8823,SUCCESS,8.1632,Accepted,TRUE
+divide-nodes-into-the-maximum-number-of-groups,57,57,23.7761,SUCCESS,85.2459,Accepted,TRUE
+sum-of-all-subset-xor-totals,48,48,100,SUCCESS,96.8653,Accepted,TRUE
+reverse-odd-levels-of-binary-tree,57,57,33.761,SUCCESS,54.3928,Accepted,TRUE
+count-pairs-whose-sum-is-less-than-target,707,707,100,SUCCESS,56.6835,Accepted,TRUE
+apple-redistribution-into-boxes,565,565,100,SUCCESS,34.8167,Accepted,TRUE
+construct-the-minimum-bitwise-array-i,658,1,,SUCCESS,,Wrong Answer,TRUE
+maximize-amount-after-two-days-of-conversions,767,767,21.1696,SUCCESS,49.025,Accepted,TRUE
+find-closest-number-to-zero,227,227,86.5683,SUCCESS,74.8036,Accepted,TRUE
+minimum-number-of-operations-to-make-elements-in-array-distinct,781,781,50.8975,SUCCESS,92.8205,Accepted,TRUE
+count-complete-subarrays-in-an-array,1074,1074,5.0295,SUCCESS,28.8149,Accepted,TRUE
+minimum-number-of-operations-to-make-array-empty,748,748,28.7833,SUCCESS,86.9438,Accepted,TRUE
+minimum-number-of-seconds-to-make-mountain-height-zero,571,571,80.2716,SUCCESS,89.1156,Accepted,TRUE
+closest-nodes-queries-in-a-binary-search-tree,35,35,35.3062,SUCCESS,87.4405,Accepted,TRUE
+maximum-and-sum-of-array,84,84,14.4253,SUCCESS,84.6156,Accepted,TRUE
+number-of-black-blocks,2145,2145,20.4967,SUCCESS,62.1664,Accepted,TRUE
+count-increasing-quadruplets,121,121,25.5306,SUCCESS,10.6377,Accepted,TRUE
+concatenation-of-array,92,92,17.8806,SUCCESS,23.7995,Accepted,TRUE
+most-popular-video-creator,86,86,68.4208,SUCCESS,70.6764,Accepted,TRUE
+count-subtrees-with-max-distance-between-cities,31,31,42.2517,SUCCESS,98.5915,Accepted,TRUE
+two-furthest-houses-with-different-colors,126,126,100,SUCCESS,86.2385,Accepted,TRUE
+sum-of-total-strength-of-wizards,82,82,21.8762,SUCCESS,76.0416,Accepted,TRUE
+shortest-and-lexicographically-smallest-beautiful-string,674,674,100,SUCCESS,65.9005,Accepted,TRUE
+count-the-number-of-good-nodes,621,621,19.6852,SUCCESS,92.9134,Accepted,TRUE
+determine-if-a-cell-is-reachable-at-a-given-time,806,806,65.0487,SUCCESS,73.7864,Accepted,TRUE
+maximum-length-substring-with-two-occurrences,709,709,14.2858,SUCCESS,58.486,Accepted,TRUE
+find-the-integer-added-to-array-ii,560,560,84.3539,SUCCESS,92.517,Accepted,TRUE
+check-if-the-sentence-is-pangram,79,79,16.0896,SUCCESS,49.9308,Accepted,TRUE
+total-characters-in-string-after-transformations-i,824,50,,SUCCESS,,Wrong Answer,TRUE
+make-array-elements-equal-to-zero,584,279,,SUCCESS,,Wrong Answer,TRUE
+shift-distance-between-two-strings,741,62,,SUCCESS,,Wrong Answer,TRUE
+count-ways-to-group-overlapping-ranges,32,32,19.3938,SUCCESS,12.7273,Accepted,TRUE
+check-if-two-chessboard-squares-have-the-same-color,506,506,23.1144,SUCCESS,23.1143,Accepted,TRUE
+maximum-possible-number-by-binary-concatenation,752,752,33.3333,SUCCESS,59.6491,Accepted,TRUE
+make-k-subarray-sums-equal,1040,0,,SUCCESS,,Runtime Error,TRUE
+longest-strictly-increasing-or-strictly-decreasing-subarray,868,868,20.2815,SUCCESS,58.7972,Accepted,TRUE
+second-largest-digit-in-a-string,301,301,79.936,SUCCESS,12.1665,Accepted,TRUE
+counting-words-with-a-given-prefix,95,95,100,SUCCESS,67.4324,Accepted,TRUE
+minimum-impossible-or,73,73,57.7237,SUCCESS,15.4472,Accepted,TRUE
+distribute-elements-into-two-arrays-i,622,622,100,SUCCESS,50.8474,Accepted,TRUE
+design-memory-allocator,109,109,23.9299,SUCCESS,17.0793,Accepted,TRUE
+movement-of-robots,2567,2567,29.2032,SUCCESS,43.3628,Accepted,TRUE
+count-the-number-of-complete-components,3356,3356,30.012,SUCCESS,36.6552,Accepted,TRUE
+count-k-subsequences-of-a-string-with-maximum-beauty,611,611,20.7545,SUCCESS,88.6792,Accepted,TRUE
+find-the-losers-of-the-circular-game,1277,1277,74.4565,SUCCESS,82.0653,Accepted,TRUE
+maximize-greatness-of-an-array,1072,1072,46.8217,SUCCESS,21.2404,Accepted,TRUE
+maximum-element-sum-of-a-complete-subset-of-indices,663,663,46.8076,SUCCESS,48.9361,Accepted,TRUE
+recover-the-original-array,110,94,,SUCCESS,,Wrong Answer,TRUE
+substring-xor-queries,59,59,66.6667,SUCCESS,61.9048,Accepted,TRUE
+maximum-strength-of-k-disjoint-subarrays,802,802,37.7356,SUCCESS,92.4528,Accepted,TRUE
+sum-of-prefix-scores-of-strings,38,38,97.1888,SUCCESS,93.976,Accepted,TRUE
+maximal-score-after-applying-k-operations,40,40,83.1169,SUCCESS,89.1775,Accepted,TRUE
+minimum-moves-to-convert-string,55,55,100,SUCCESS,97.8673,Accepted,TRUE
+minimize-the-total-price-of-the-trips,407,407,86.2068,SUCCESS,70.6897,Accepted,TRUE
+find-the-longest-semi-repetitive-substring,12264,12264,5.1206,SUCCESS,16.8675,Accepted,TRUE
+furthest-point-from-origin,1252,1252,5.7878,SUCCESS,37.2992,Accepted,TRUE
+partition-array-into-two-arrays-to-minimize-sum-difference,201,201,23.1331,SUCCESS,44.7917,Accepted,TRUE
+count-tested-devices-after-test-operations,520,520,100,SUCCESS,15.7738,Accepted,TRUE
+maximum-strictly-increasing-cells-in-a-matrix,566,566,87.5,SUCCESS,54.6875,Accepted,TRUE
+minimum-penalty-for-a-shop,42,42,76.3443,SUCCESS,79.3906,Accepted,TRUE
+check-if-all-characters-have-equal-number-of-occurrences,134,134,70.1406,SUCCESS,73.9699,Accepted,TRUE
+count-subarrays-of-length-three-with-a-condition,1691,1691,94.186,SUCCESS,25.4152,Accepted,TRUE
+longest-even-odd-subarray-with-threshold,6873,6873,84.6155,SUCCESS,9.4231,Accepted,TRUE
+count-integers-with-even-digit-sum,71,71,100,SUCCESS,89.7436,Accepted,TRUE
+minimum-score-by-changing-two-elements,70,70,55.4347,SUCCESS,18.4782,Accepted,TRUE
+booking-concert-tickets-in-groups,97,97,50.9432,SUCCESS,56.6036,Accepted,TRUE
+count-items-matching-a-rule,92,92,5.37,SUCCESS,17.7804,Accepted,TRUE
+create-sorted-array-through-instructions,65,65,20.1385,SUCCESS,51.0067,Accepted,TRUE
+check-if-an-original-string-exists-given-two-encoded-strings,215,215,52.2374,SUCCESS,77.6118,Accepted,TRUE
+second-minimum-time-to-reach-destination,77,77,30.5955,SUCCESS,44.0298,Accepted,TRUE
+count-substrings-starting-and-ending-with-given-character,669,669,49.4184,SUCCESS,98.8372,Accepted,TRUE
+count-days-without-meetings,578,578,57.9029,SUCCESS,26.5668,Accepted,TRUE
+build-array-where-you-can-find-the-maximum-exactly-k-comparisons,31,31,92.0865,SUCCESS,95.6836,Accepted,TRUE
+minimum-time-to-remove-all-cars-containing-illegal-goods,89,89,20.3684,SUCCESS,14.8144,Accepted,TRUE
+count-symmetric-integers,1967,1967,80.1422,SUCCESS,94.9589,Accepted,TRUE
+find-the-original-typed-string-i,780,780,71.5576,SUCCESS,46.699,Accepted,TRUE
+count-beautiful-substrings-i,619,619,39.8455,SUCCESS,11.7188,Accepted,TRUE
+odd-string-difference,40,40,100,SUCCESS,23.1198,Accepted,TRUE
+count-pairs-of-similar-strings,225,225,83.7885,SUCCESS,9.727,Accepted,TRUE
+minimum-number-of-removals-to-make-mountain-array,91,91,95.7806,SUCCESS,81.8565,Accepted,TRUE
+divisible-and-non-divisible-sums-difference,737,737,100,SUCCESS,41.0577,Accepted,TRUE
+find-the-longest-balanced-substring-of-a-binary-string,1848,1848,35.3294,SUCCESS,14.9701,Accepted,TRUE
+minimum-index-of-a-valid-split,917,917,35.9449,SUCCESS,46.5438,Accepted,TRUE
+find-the-key-of-the-numbers,757,757,100,SUCCESS,65.1786,Accepted,TRUE
+difference-between-element-sum-and-digit-sum-of-an-array,142,142,91.0527,SUCCESS,27.0395,Accepted,TRUE
+count-special-quadruplets,211,211,77.3607,SUCCESS,16.3992,Accepted,TRUE
+count-square-sum-triples,91,91,88.9555,SUCCESS,55.0296,Accepted,TRUE
+total-distance-traveled,10000,10000,45.283,SUCCESS,19.2453,Accepted,TRUE
+transformed-array,695,695,7.3717,SUCCESS,29.1666,Accepted,TRUE
+maximum-employees-to-be-invited-to-a-meeting,99,99,38.0323,SUCCESS,33.1129,Accepted,TRUE
+sum-of-scores-of-built-strings,150,150,35.2936,SUCCESS,58.8235,Accepted,TRUE
+find-words-containing-character,912,912,14.993,SUCCESS,98.8654,Accepted,TRUE
+last-day-where-you-can-still-cross,118,118,29.4425,SUCCESS,61.6525,Accepted,TRUE
+time-needed-to-buy-tickets,65,65,56.5537,SUCCESS,86.5536,Accepted,TRUE
+maximum-value-of-an-ordered-triplet-i,564,564,64.5163,SUCCESS,55.5719,Accepted,TRUE
+minimum-time-to-complete-all-tasks,1059,1059,70.7302,SUCCESS,10.3658,Accepted,TRUE
+maximum-units-on-a-truck,77,77,79.4883,SUCCESS,32.9069,Accepted,TRUE
+divide-intervals-into-minimum-number-of-groups,35,35,34.4278,SUCCESS,70.9017,Accepted,TRUE
+match-substring-after-replacement,117,117,24.7188,SUCCESS,85.3933,Accepted,TRUE
+minimum-operations-to-make-the-array-k-increasing,90,90,37.3339,SUCCESS,48,Accepted,TRUE
+average-value-of-even-numbers-that-are-divisible-by-three,181,181,43.2171,SUCCESS,23.2558,Accepted,TRUE
+count-pairs-that-form-a-complete-day-ii,714,714,46.2582,SUCCESS,9.5238,Accepted,TRUE
+length-of-the-longest-valid-substring,763,763,54.8785,SUCCESS,41.057,Accepted,TRUE
+the-number-of-beautiful-subsets,1308,1308,44.2631,SUCCESS,53.8279,Accepted,TRUE
+defuse-the-bomb,74,74,100,SUCCESS,52.6947,Accepted,TRUE
+count-subarrays-with-score-less-than-k,167,167,81.3282,SUCCESS,64.9911,Accepted,TRUE
+merge-similar-items,49,49,78.0357,SUCCESS,81.2499,Accepted,TRUE
+distribute-repeating-integers,109,109,46.0522,SUCCESS,57.8947,Accepted,TRUE
+number-of-changing-keys,802,802,100,SUCCESS,79.3103,Accepted,TRUE
+semi-ordered-permutation,1977,1977,100,SUCCESS,84.3283,Accepted,TRUE
+substrings-of-size-three-with-distinct-characters,160,160,54.4599,SUCCESS,96.2349,Accepted,TRUE
+stone-game-viii,78,78,42.0283,SUCCESS,88.4057,Accepted,TRUE
+maximum-number-of-darts-inside-of-a-circular-dartboard,65,65,52.0544,SUCCESS,84.9315,Accepted,TRUE
+maximum-height-of-a-triangle,857,857,70.8331,SUCCESS,60.1852,Accepted,TRUE
+minimum-number-of-operations-to-sort-a-binary-tree-by-level,146,146,27.7776,SUCCESS,33.3333,Accepted,TRUE
+maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k,932,932,49.9991,SUCCESS,75,Accepted,TRUE
+maximum-sum-of-distinct-subarrays-with-length-k,93,93,20.9962,SUCCESS,10.5259,Accepted,TRUE
+count-of-substrings-containing-every-vowel-and-k-consonants-i,815,815,42.105,SUCCESS,64.4737,Accepted,TRUE
+difference-between-ones-and-zeros-in-row-and-column,85,85,80.7188,SUCCESS,69.6076,Accepted,TRUE
+split-strings-by-separator,1036,1036,7.4554,SUCCESS,21.0696,Accepted,TRUE
+find-the-sum-of-the-power-of-all-subsequences,577,577,42.6964,SUCCESS,76.4044,Accepted,TRUE
+find-the-number-of-winning-players,839,839,94.7369,SUCCESS,23.1579,Accepted,TRUE
+design-an-ordered-stream,101,101,88.785,SUCCESS,76.6355,Accepted,TRUE
+choose-k-elements-with-maximum-sum,635,0,,SUCCESS,,Runtime Error,TRUE
+most-frequent-prime,974,974,85.5071,SUCCESS,46.3768,Accepted,TRUE
+longest-subarray-with-maximum-bitwise-and,52,52,88.5059,SUCCESS,95.977,Accepted,TRUE
+minimum-space-wasted-from-packaging,42,42,31.9154,SUCCESS,35.1066,Accepted,TRUE
+maximize-happiness-of-selected-children,674,674,33.8017,SUCCESS,36.6197,Accepted,TRUE
+count-palindromic-subsequences,63,63,70.7864,SUCCESS,12.8931,Accepted,TRUE
+count-the-number-of-good-subarrays,41,41,49.5112,SUCCESS,38.2736,Accepted,TRUE
+minimum-equal-sum-of-two-arrays-after-replacing-zeros,638,638,64.4284,SUCCESS,64.5175,Accepted,TRUE
+sum-of-imbalance-numbers-of-all-subarrays,1303,1303,55.2629,SUCCESS,15.7894,Accepted,TRUE
+maximum-building-height,50,50,39.0249,SUCCESS,56.0975,Accepted,TRUE
+find-the-length-of-the-longest-common-prefix,718,718,53.6702,SUCCESS,61.1299,Accepted,TRUE
+find-all-k-distant-indices-in-an-array,87,87,84.0546,SUCCESS,42.3811,Accepted,TRUE
+visit-array-positions-to-maximize-score,744,744,59.0898,SUCCESS,66.6666,Accepted,TRUE
+number-of-ways-to-earn-points,63,63,60.1058,SUCCESS,92.7462,Accepted,TRUE
+longest-alternating-subarray,2880,2880,83.1169,SUCCESS,51.5152,Accepted,TRUE
+find-xor-beauty-of-array,32,32,61.2245,SUCCESS,58.5035,Accepted,TRUE
+find-the-pivot-integer,428,428,100,SUCCESS,37.42,Accepted,TRUE
+sliding-subarray-beauty,717,717,92.6071,SUCCESS,96.4981,Accepted,TRUE
+insert-greatest-common-divisors-in-linked-list,582,582,83.9808,SUCCESS,48.1108,Accepted,TRUE
+minimum-seconds-to-equalize-a-circular-array,579,579,86.842,SUCCESS,42.1052,Accepted,TRUE
+the-score-of-students-solving-math-expression,274,274,23.5288,SUCCESS,69.1176,Accepted,TRUE
+maximum-score-of-a-good-subarray,73,73,90.5674,SUCCESS,46.6308,Accepted,TRUE
+minimum-operations-to-make-the-integer-zero,542,542,100,SUCCESS,22.3529,Accepted,TRUE
+maximum-palindromes-after-operations,507,507,54.9291,SUCCESS,84.5069,Accepted,TRUE
+maximum-tastiness-of-candy-basket,40,40,43.3213,SUCCESS,80.819,Accepted,TRUE
+the-two-sneaky-numbers-of-digitville,706,706,100,SUCCESS,66.4515,Accepted,TRUE
+find-the-maximum-number-of-marked-indices,68,64,,SUCCESS,,Wrong Answer,TRUE
+count-equal-and-divisible-pairs-in-an-array,238,238,96.6148,SUCCESS,47.3935,Accepted,TRUE
+high-access-employees,1143,1143,61.0666,SUCCESS,85.3333,Accepted,TRUE
+find-the-largest-area-of-square-inside-two-rectangles,661,661,67.1875,SUCCESS,14.0625,Accepted,TRUE
+minimum-number-of-operations-to-make-x-and-y-equal,948,948,34.2386,SUCCESS,66.8476,Accepted,TRUE
+count-the-number-of-ideal-arrays,47,0,,SUCCESS,,Runtime Error,TRUE
+find-missing-and-repeated-values,584,584,68.2905,SUCCESS,85.812,Accepted,TRUE
+meeting-rooms-iii,81,81,77.7605,SUCCESS,12.2843,Accepted,TRUE
+find-the-substring-with-maximum-cost,1054,1054,70.8995,SUCCESS,50.2646,Accepted,TRUE
+cycle-length-queries-in-a-tree,27,27,83.9512,SUCCESS,83.1276,Accepted,TRUE
+find-the-punishment-number-of-an-integer,216,216,12.677,SUCCESS,73.4615,Accepted,TRUE
+subarray-with-elements-greater-than-varying-threshold,68,68,46.8363,SUCCESS,62.0253,Accepted,TRUE
+find-score-of-an-array-after-marking-all-elements,1044,1044,63.9313,SUCCESS,55.3576,Accepted,TRUE
+permutation-difference-between-two-strings,823,823,100,SUCCESS,84.1015,Accepted,TRUE
+make-lexicographically-smallest-array-by-swapping-elements,523,523,60.5389,SUCCESS,95.0414,Accepted,TRUE
+minimum-moves-to-spread-stones-over-grid,611,611,37.5816,SUCCESS,87.2613,Accepted,TRUE
+minimum-number-of-operations-to-make-word-k-periodic,820,820,42.9757,SUCCESS,10.7441,Accepted,TRUE
+longest-unequal-adjacent-groups-subsequence-ii,443,443,88.2839,SUCCESS,87.9688,Accepted,TRUE
+valid-arrangement-of-pairs,41,41,54.5035,SUCCESS,31.7551,Accepted,TRUE
+check-if-every-row-and-column-contains-all-numbers,227,227,50.9324,SUCCESS,37.9783,Accepted,TRUE
+maximum-number-of-integers-to-choose-from-a-range-i,208,208,63.1576,SUCCESS,35.4384,Accepted,TRUE
+shortest-impossible-sequence-of-rolls,65,65,41.4142,SUCCESS,23.2324,Accepted,TRUE
+count-substrings-that-satisfy-k-constraint-i,780,780,46.8691,SUCCESS,16.6983,Accepted,TRUE
+count-pairs-of-connectable-servers-in-a-weighted-tree-network,716,716,39.1284,SUCCESS,98.913,Accepted,TRUE
+minimum-changes-to-make-alternating-binary-string,89,89,60.5261,SUCCESS,63.5965,Accepted,TRUE
+maximum-difference-between-adjacent-elements-in-a-circular-array,962,962,100,SUCCESS,55.4964,Accepted,TRUE
+find-special-substring-of-length-k,812,812,22.9298,SUCCESS,15.2866,Accepted,TRUE
+find-the-maximum-factor-score-of-array,752,752,93.6709,SUCCESS,46.8354,Accepted,TRUE
+minimum-deletions-to-make-array-divisible,49,43,,SUCCESS,,Wrong Answer,TRUE
+check-balanced-string,868,868,100,SUCCESS,20.9359,Accepted,TRUE
+determine-the-minimum-sum-of-a-k-avoiding-array,2502,2502,53.3334,SUCCESS,37.7778,Accepted,TRUE
+minimum-levels-to-gain-more-points,855,855,23.5303,SUCCESS,21.8489,Accepted,TRUE
+maximum-subsequence-score,28,28,88.4683,SUCCESS,29.0204,Accepted,TRUE
+find-champion-ii,758,758,76.6094,SUCCESS,52.1459,Accepted,TRUE
+find-the-first-player-to-win-k-games-in-a-row,684,684,75.3519,SUCCESS,85.2113,Accepted,TRUE
+cat-and-mouse-ii,180,180,5.8135,SUCCESS,26.744,Accepted,TRUE
+special-array-ii,536,536,91.4754,SUCCESS,84.2623,Accepted,TRUE
+snake-in-matrix,983,983,43.3021,SUCCESS,30.8411,Accepted,TRUE
+count-paths-that-can-form-a-palindrome-in-a-tree,666,666,21.4271,SUCCESS,23.8086,Accepted,TRUE
+find-number-of-ways-to-reach-the-k-th-stair,600,600,34.2854,SUCCESS,35.2379,Accepted,TRUE
+minimum-number-of-increments-on-subarrays-to-form-a-target-array,129,129,93.1696,SUCCESS,32.787,Accepted,TRUE
+find-the-original-array-of-prefix-xor,46,46,49.7696,SUCCESS,51.4596,Accepted,TRUE
+minimize-string-length,5013,5013,69.2759,SUCCESS,49.3151,Accepted,TRUE
+minimize-maximum-of-array,68,68,59.4523,SUCCESS,85.5722,Accepted,TRUE
+minimize-the-maximum-difference-of-pairs,1582,1582,39.0175,SUCCESS,10.106,Accepted,TRUE
+count-vowel-substrings-of-a-string,88,88,35.9869,SUCCESS,15.049,Accepted,TRUE
+find-the-n-th-value-after-k-seconds,708,708,62.2645,SUCCESS,51.5724,Accepted,TRUE
+find-all-good-indices,68,68,55.3573,SUCCESS,48.8097,Accepted,TRUE
+maximum-energy-boost-from-two-drinks,563,563,43.3819,SUCCESS,86.7647,Accepted,TRUE
+collecting-chocolates,2564,2564,19.9981,SUCCESS,19.9999,Accepted,TRUE
+sum-of-number-and-its-reverse,258,258,58.921,SUCCESS,9.1893,Accepted,TRUE
+painting-a-grid-with-three-different-colors,84,84,94.4312,SUCCESS,66.3729,Accepted,TRUE
+maximum-number-of-robots-within-budget,82,82,27.3456,SUCCESS,15.9683,Accepted,TRUE
+apply-operations-on-array-to-maximize-sum-of-squares,918,918,51.1624,SUCCESS,16.2791,Accepted,TRUE
+merge-bsts-to-create-single-bst,475,475,37.1779,SUCCESS,60.2561,Accepted,TRUE
+find-the-longest-equal-subarray,1422,1422,63.8137,SUCCESS,33.8522,Accepted,TRUE
+intersection-of-multiple-arrays,151,151,100,SUCCESS,24.8261,Accepted,TRUE
+find-xor-sum-of-all-pairs-bitwise-and,84,84,23.3083,SUCCESS,37.594,Accepted,TRUE
+beautiful-towers-i,785,785,57.6081,SUCCESS,59.7826,Accepted,TRUE
+put-marbles-in-bags,103,103,81.2801,SUCCESS,96.9932,Accepted,TRUE
+earliest-second-to-mark-indices-i,570,570,68.254,SUCCESS,7.9366,Accepted,TRUE
+divide-players-into-teams-of-equal-skill,89,89,88.1702,SUCCESS,70.6624,Accepted,TRUE
+find-the-width-of-columns-of-a-grid,50,8,,SUCCESS,,Wrong Answer,TRUE
+decode-the-message,69,69,70.2634,SUCCESS,43.7553,Accepted,TRUE
+count-prefix-and-suffix-pairs-i,594,594,99.3933,SUCCESS,14.9046,Accepted,TRUE
+longest-non-decreasing-subarray-from-two-arrays,2973,2973,99.2518,SUCCESS,84.7881,Accepted,TRUE
+check-if-string-is-transformable-with-substring-sort-operations,138,138,36,SUCCESS,90,Accepted,TRUE
+find-the-divisibility-array-of-a-string,51,51,59.9055,SUCCESS,83.9622,Accepted,TRUE
+design-graph-with-shortest-path-calculator,36,36,93.3736,SUCCESS,30.1206,Accepted,TRUE
+fruits-into-baskets-ii,904,471,,SUCCESS,,Wrong Answer,TRUE
+faulty-keyboard,3005,3005,59.4988,SUCCESS,84.5594,Accepted,TRUE
+count-the-number-of-incremovable-subarrays-i,615,120,,SUCCESS,,Wrong Answer,TRUE
+smallest-missing-non-negative-integer-after-operations,1062,1062,63.9336,SUCCESS,50.8197,Accepted,TRUE
+sum-multiples,1000,1000,100,SUCCESS,22.9294,Accepted,TRUE
+length-of-longest-subarray-with-at-most-k-frequency,993,993,98.1688,SUCCESS,26.4683,Accepted,TRUE
+decode-xored-array,76,76,37.1252,SUCCESS,64.8397,Accepted,TRUE
+destroy-sequential-targets,45,45,62.8568,SUCCESS,34.2857,Accepted,TRUE
+maximum-deletions-on-a-string,129,129,58.75,SUCCESS,73.75,Accepted,TRUE
+minimum-difference-in-sums-after-removal-of-elements,110,110,46.1088,SUCCESS,68.8881,Accepted,TRUE
+make-array-empty,514,514,62.5,SUCCESS,26.25,Accepted,TRUE
+ways-to-split-array-into-good-subarrays,553,553,84.4153,SUCCESS,21.4278,Accepted,TRUE
+minimize-length-of-array-using-operations,523,523,44.8277,SUCCESS,41.3793,Accepted,TRUE
+maximum-sum-of-almost-unique-subarray,767,767,46.114,SUCCESS,95.8548,Accepted,TRUE
+double-a-number-represented-as-a-linked-list,1265,1265,64.9689,SUCCESS,63.1364,Accepted,TRUE
+maximum-number-of-distinct-elements-after-operations,633,633,53.7734,SUCCESS,74.5283,Accepted,TRUE
+split-array-into-maximum-number-of-subarrays,887,887,66.102,SUCCESS,32.2033,Accepted,TRUE
+count-operations-to-obtain-zero,161,161,100,SUCCESS,52.5974,Accepted,TRUE
+find-consecutive-integers-from-a-data-stream,38,38,10.2765,SUCCESS,72.3318,Accepted,TRUE
+find-first-palindromic-string-in-the-array,266,266,11.8208,SUCCESS,50.6196,Accepted,TRUE
+maximum-strong-pair-xor-i,861,861,77.5887,SUCCESS,37.6909,Accepted,TRUE
+make-three-strings-equal,1935,1935,27.1551,SUCCESS,94.8276,Accepted,TRUE
+smallest-missing-genetic-value-in-each-subtree,68,68,89.5834,SUCCESS,93.7501,Accepted,TRUE
+count-the-number-of-incremovable-subarrays-ii,840,124,,SUCCESS,,Wrong Answer,TRUE
+maximize-area-of-square-hole-in-grid,524,524,100,SUCCESS,98.9362,Accepted,TRUE
+string-compression-iii,744,712,,SUCCESS,,Wrong Answer,TRUE
+count-anagrams,41,41,93.4108,SUCCESS,29.4572,Accepted,TRUE
+merge-strings-alternately,108,108,43.8002,SUCCESS,94.5559,Accepted,TRUE
+count-number-of-pairs-with-absolute-difference-k,237,237,65.489,SUCCESS,17.7918,Accepted,TRUE
+append-characters-to-string-to-make-subsequence,86,86,97.7778,SUCCESS,66.0083,Accepted,TRUE
+manhattan-distances-of-all-arrangements-of-pieces,919,919,65.625,SUCCESS,9.375,Accepted,TRUE
+longest-subsequence-with-limited-sum,57,57,97.7214,SUCCESS,43.4244,Accepted,TRUE
+minimize-deviation-in-array,76,76,63.636,SUCCESS,88.1818,Accepted,TRUE
+reward-top-k-students,30,30,54.6219,SUCCESS,28.9916,Accepted,TRUE
+maximum-value-of-an-ordered-triplet-ii,599,556,,SUCCESS,,Wrong Answer,TRUE
+maximum-subarray-with-equal-products,865,84,,SUCCESS,,Wrong Answer,TRUE
+find-the-maximum-divisibility-score,160,160,93.151,SUCCESS,85.3882,Accepted,TRUE
+min-max-game,96,96,65.3125,SUCCESS,65,Accepted,TRUE
+maximum-number-of-groups-with-increasing-length,2027,2027,63.4781,SUCCESS,92.1739,Accepted,TRUE
+longest-uploaded-prefix,24,24,86.3632,SUCCESS,59.0908,Accepted,TRUE
+build-a-matrix-with-conditions,53,53,52.7919,SUCCESS,96.7005,Accepted,TRUE
+maximum-number-of-k-divisible-components,736,736,37.9998,SUCCESS,97.3333,Accepted,TRUE
+strange-printer-ii,153,153,61.6869,SUCCESS,9.0906,Accepted,TRUE
+count-array-pairs-divisible-by-k,115,21,,SUCCESS,,Wrong Answer,TRUE
+minimum-number-of-days-to-disconnect-island,104,104,76.875,SUCCESS,99.375,Accepted,TRUE
+number-of-unequal-triplets-in-array,104,104,20.493,SUCCESS,17.4864,Accepted,TRUE
+minimum-operations-to-make-binary-array-elements-equal-to-one-ii,691,691,78.8239,SUCCESS,65.2941,Accepted,TRUE
+frog-jump-ii,34,34,62.6604,SUCCESS,82.8325,Accepted,TRUE
+count-submatrices-with-top-left-element-and-sum-less-than-k,859,859,88.957,SUCCESS,39.877,Accepted,TRUE
+minimum-increment-operations-to-make-array-beautiful,570,570,76.1905,SUCCESS,84.127,Accepted,TRUE
+number-of-beautiful-integers-in-the-range,595,595,59.2102,SUCCESS,44.7369,Accepted,TRUE
+count-of-interesting-subarrays,617,617,50.7523,SUCCESS,86.4663,Accepted,TRUE
+stone-game-iii,185,185,93.253,SUCCESS,75.4326,Accepted,TRUE
+longest-nice-substring,73,73,70.941,SUCCESS,23.9852,Accepted,TRUE
+sum-in-a-matrix,1057,1057,92.0001,SUCCESS,12.4448,Accepted,TRUE
+cousins-in-binary-tree-ii,41,41,73.171,SUCCESS,97.561,Accepted,TRUE
+count-the-number-of-arrays-with-k-matching-adjacent-elements,809,809,47.0527,SUCCESS,18.0068,Accepted,TRUE
+largest-element-in-an-array-after-merge-operations,1023,1023,95.4838,SUCCESS,47.7418,Accepted,TRUE
+maximum-prime-difference,904,904,58.9481,SUCCESS,72.1053,Accepted,TRUE
+kth-distinct-string-in-an-array,66,66,71.0307,SUCCESS,69.545,Accepted,TRUE
+latest-time-you-can-obtain-after-replacing-characters,908,908,99.1416,SUCCESS,49.7853,Accepted,TRUE
+maximum-number-of-alloys,731,723,,SUCCESS,,Wrong Answer,TRUE
+largest-3-same-digit-number-in-string,141,141,100,SUCCESS,86.2124,Accepted,TRUE
+car-fleet-ii,85,85,79.6051,SUCCESS,18.421,Accepted,TRUE
+count-common-words-with-one-occurrence,61,61,72.4234,SUCCESS,69.9163,Accepted,TRUE
+minimum-time-to-repair-cars,1072,1072,82.9341,SUCCESS,83.913,Accepted,TRUE
+minimum-cost-to-make-all-characters-equal,1574,1574,80.2467,SUCCESS,74.074,Accepted,TRUE
+robot-collisions,2433,2433,58.7091,SUCCESS,47.741,Accepted,TRUE
+generate-binary-strings-without-adjacent-zeros,20,20,68.8051,SUCCESS,81.8868,Accepted,TRUE
+design-spreadsheet,658,658,75.3221,SUCCESS,75.3224,Accepted,TRUE
+allocate-mailboxes,69,1,,SUCCESS,,Wrong Answer,TRUE
+remove-nodes-from-linked-list,32,32,93.5159,SUCCESS,74.8438,Accepted,TRUE
+count-number-of-distinct-integers-after-reverse-operations,44,44,31.1806,SUCCESS,66.1471,Accepted,TRUE
+find-longest-awesome-substring,153,153,18.75,SUCCESS,73.75,Accepted,TRUE
+find-the-score-of-all-prefixes-of-an-array,43,43,96.7592,SUCCESS,42.1295,Accepted,TRUE
+maximum-elegance-of-a-k-length-subsequence,2729,2729,66.6662,SUCCESS,35.7142,Accepted,TRUE
+report-spam-message,526,526,70.9762,SUCCESS,72.5591,Accepted,TRUE
+minimum-operations-to-make-all-array-elements-equal,31,31,58.1826,SUCCESS,53.6366,Accepted,TRUE
+maximum-beauty-of-an-array-after-applying-operation,622,622,93.3623,SUCCESS,57.8158,Accepted,TRUE
+maximum-star-sum-of-a-graph,25,25,90.6432,SUCCESS,54.3856,Accepted,TRUE
+design-neighbor-sum-service,652,652,95.2553,SUCCESS,88.6861,Accepted,TRUE
+count-pairs-that-form-a-complete-day-i,667,667,85.9575,SUCCESS,52.766,Accepted,TRUE
+longest-substring-of-one-repeating-character,57,57,73.4375,SUCCESS,56.25,Accepted,TRUE
+count-ways-to-build-good-strings,36,36,87.1344,SUCCESS,57.8944,Accepted,TRUE
+find-all-people-with-secret,56,56,56.3299,SUCCESS,48.7349,Accepted,TRUE
+remove-trailing-zeros-from-a-string,756,756,68.2156,SUCCESS,54.6468,Accepted,TRUE
+maximum-square-area-by-removing-fences-from-a-field,648,648,70.643,SUCCESS,14.6794,Accepted,TRUE
+shortest-string-that-contains-three-strings,5324,5324,78.4814,SUCCESS,88.6076,Accepted,TRUE
+number-of-adjacent-elements-with-the-same-color,183,183,95.6989,SUCCESS,61.8279,Accepted,TRUE
+sum-of-distances,1068,1068,98.2379,SUCCESS,50.2205,Accepted,TRUE
+right-triangles,637,637,64.3272,SUCCESS,28.0701,Accepted,TRUE
+smallest-subarrays-with-maximum-bitwise-or,59,59,32.9524,SUCCESS,86.3636,Accepted,TRUE
+find-valid-pair-of-adjacent-digits-in-string,826,826,77.6614,SUCCESS,21.466,Accepted,TRUE
+first-completely-painted-row-or-column,1058,1058,59.2789,SUCCESS,71.3062,Accepted,TRUE
+minimum-score-of-a-path-between-two-cities,43,43,83.5155,SUCCESS,79.6693,Accepted,TRUE
+minimum-operations-to-make-columns-strictly-increasing,722,722,94.2761,SUCCESS,96.633,Accepted,TRUE
+check-if-digits-are-equal-in-string-after-operations-i,706,706,75.657,SUCCESS,70.0525,Accepted,TRUE
+number-of-ways-to-reconstruct-a-tree,81,81,91.4286,SUCCESS,54.2858,Accepted,TRUE
+building-boxes,86,86,100,SUCCESS,53.2258,Accepted,TRUE
+taking-maximum-energy-from-the-mystic-dungeon,533,533,80.158,SUCCESS,65.0791,Accepted,TRUE
+minimum-total-cost-to-make-arrays-unequal,104,104,80.2324,SUCCESS,61.6278,Accepted,TRUE
+maximize-win-from-two-segments,72,72,71,SUCCESS,74,Accepted,TRUE
+naming-a-company,89,89,89.9224,SUCCESS,41.8602,Accepted,TRUE
+paths-in-matrix-whose-sum-is-divisible-by-k,88,12,,SUCCESS,,Wrong Answer,TRUE
+minimum-time-to-finish-the-race,58,0,,SUCCESS,,Wrong Answer,TRUE
+design-a-text-editor,45,45,94.9496,SUCCESS,33.3328,Accepted,TRUE
+number-of-ways-to-reorder-array-to-get-same-bst,161,161,98.4127,SUCCESS,38.0948,Accepted,TRUE
+number-of-ways-to-divide-a-long-corridor,248,248,75.6757,SUCCESS,24.9998,Accepted,TRUE
+find-longest-special-substring-that-occurs-thrice-ii,906,30,,SUCCESS,,Wrong Answer,TRUE
+subarrays-distinct-element-sum-of-squares-i,707,707,98.4064,SUCCESS,21.1155,Accepted,TRUE
+maximize-palindrome-length-from-subsequences,109,109,93.9392,SUCCESS,53.0301,Accepted,TRUE
+find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows,72,72,70.6671,SUCCESS,30.6669,Accepted,TRUE
+find-common-elements-between-two-arrays,1208,1208,60.4755,SUCCESS,81.5401,Accepted,TRUE
+sum-of-matrix-after-queries,2688,2688,98.8636,SUCCESS,73.8636,Accepted,TRUE
+find-a-value-of-a-mysterious-function-closest-to-target,43,43,86.2744,SUCCESS,66.6667,Accepted,TRUE
+neither-minimum-nor-maximum,9558,9558,68.218,SUCCESS,53.235,Accepted,TRUE
+minimum-processing-time,716,716,54.9591,SUCCESS,71.901,Accepted,TRUE
+sum-of-digit-differences-of-all-pairs,643,643,46.7638,SUCCESS,28.0577,Accepted,TRUE
+longest-path-with-different-adjacent-characters,142,142,97.7428,SUCCESS,82.1677,Accepted,TRUE
+maximum-number-of-events-that-can-be-attended-ii,70,70,34.5137,SUCCESS,81.3696,Accepted,TRUE
+count-vowel-strings-in-ranges,94,94,94.947,SUCCESS,32.6812,Accepted,TRUE
+find-occurrences-of-an-element-in-an-array,527,527,60.1515,SUCCESS,43.6366,Accepted,TRUE
+maximum-genetic-difference-query,59,59,80,SUCCESS,95,Accepted,TRUE
+stone-game-iv,72,72,85.294,SUCCESS,60.2942,Accepted,TRUE
+separate-squares-ii,763,763,86.4579,SUCCESS,97.9167,Accepted,TRUE
+delete-nodes-from-linked-list-present-in-array,582,582,91.4081,SUCCESS,98.0907,Accepted,TRUE
+max-pair-sum-in-an-array,3008,3008,90.625,SUCCESS,85.625,Accepted,TRUE
+length-of-the-longest-alphabetical-continuous-substring,123,123,74.0724,SUCCESS,71.164,Accepted,TRUE
+optimal-partition-of-string,62,62,32.5888,SUCCESS,36.8072,Accepted,TRUE
+number-of-ways-to-rearrange-sticks-with-k-sticks-visible,50,50,94.1607,SUCCESS,95.6204,Accepted,TRUE
+redistribute-characters-to-make-all-strings-equal,179,179,74.6865,SUCCESS,61.7155,Accepted,TRUE
+minimum-operations-to-form-subsequence-with-target-sum,754,731,,SUCCESS,,Wrong Answer,TRUE
+number-of-subarrays-that-match-a-pattern-i,792,792,82.2356,SUCCESS,19.1617,Accepted,TRUE
+points-that-intersect-with-cars,807,807,83.7712,SUCCESS,23.6475,Accepted,TRUE
+count-the-number-of-beautiful-subarrays,114,114,52.3802,SUCCESS,66.6665,Accepted,TRUE
+cherry-pickup-ii,59,59,91.2649,SUCCESS,89.114,Accepted,TRUE
+make-string-a-subsequence-using-cyclic-increments,1128,1128,61.1401,SUCCESS,17.6167,Accepted,TRUE
+find-the-k-or-of-an-array,951,951,60.5266,SUCCESS,24.7369,Accepted,TRUE
+the-number-of-good-subsets,92,92,83.6069,SUCCESS,77.0492,Accepted,TRUE
+minimum-replacements-to-sort-the-array,47,47,91.4286,SUCCESS,62.1428,Accepted,TRUE
+minimum-operations-to-make-the-array-increasing,94,94,87.4505,SUCCESS,9.9075,Accepted,TRUE
+number-of-beautiful-pairs,3005,3005,80.1238,SUCCESS,87.2671,Accepted,TRUE
+longest-cycle-in-a-graph,81,81,97.5712,SUCCESS,91.832,Accepted,TRUE
+maximum-number-of-balls-in-a-box,97,97,17.1567,SUCCESS,87.0293,Accepted,TRUE
+maximum-number-of-points-from-grid-queries,22,22,85.8061,SUCCESS,60.3222,Accepted,TRUE
+apply-operations-to-maximize-score,870,870,85.294,SUCCESS,71.3233,Accepted,TRUE
+number-of-pairs-satisfying-inequality,61,61,65.4409,SUCCESS,84.5588,Accepted,TRUE
+ways-to-express-an-integer-as-sum-of-powers,1502,1502,82.8,SUCCESS,62.8,Accepted,TRUE
+find-the-value-of-the-partition,806,806,100,SUCCESS,61.0619,Accepted,TRUE
+distribute-candies-among-children-i,827,827,75.5556,SUCCESS,41.0184,Accepted,TRUE
+find-the-prefix-common-array-of-two-arrays,1773,1773,76.2811,SUCCESS,65.4466,Accepted,TRUE
+minimum-cost-to-split-an-array,59,59,91.7651,SUCCESS,33.5295,Accepted,TRUE
+smallest-k-length-subsequence-with-occurrences-of-a-letter,152,152,86.2744,SUCCESS,64.7059,Accepted,TRUE
+closest-subsequence-sum,74,74,93.4886,SUCCESS,40.466,Accepted,TRUE
+minimum-white-tiles-after-covering-with-carpets,2706,2542,,SUCCESS,,Wrong Answer,TRUE
+take-gifts-from-the-richest-pile,103,103,82.5921,SUCCESS,53.6214,Accepted,TRUE
+minimum-cost-walk-in-weighted-graph,549,549,91.6077,SUCCESS,40.2093,Accepted,TRUE
+partition-string-into-substrings-with-values-at-most-k,56,56,74.336,SUCCESS,37.1682,Accepted,TRUE
+apply-operations-to-make-all-array-elements-equal-to-zero,1029,1029,93.6843,SUCCESS,44.2106,Accepted,TRUE
+find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree,66,25,,SUCCESS,,Wrong Answer,TRUE
+count-pairs-of-nodes,63,63,46.1532,SUCCESS,80.7691,Accepted,TRUE
+find-beautiful-indices-in-the-given-array-i,535,535,60.625,SUCCESS,37.5,Accepted,TRUE
+maximize-score-after-n-operations,77,34,,SUCCESS,,Wrong Answer,TRUE
+minimum-cost-to-change-the-final-value-of-expression,70,70,84,SUCCESS,96,Accepted,TRUE
+count-subarrays-with-median-k,45,45,93.9191,SUCCESS,50,Accepted,TRUE
+rearranging-fruits,40,40,86.3945,SUCCESS,46.9388,Accepted,TRUE
+maximum-matching-of-players-with-trainers,35,35,22.6354,SUCCESS,59.0303,Accepted,TRUE
+sort-the-people,68,68,80.0758,SUCCESS,9.6372,Accepted,TRUE
+distinct-prime-factors-of-product-of-array,81,81,75.7697,SUCCESS,76.1539,Accepted,TRUE
+unique-3-digit-even-numbers,930,930,95.8384,SUCCESS,19.951,Accepted,TRUE
+minimum-operations-to-make-median-of-array-equal-to-k,723,723,100,SUCCESS,39.286,Accepted,TRUE
+number-of-distinct-roll-sequences,64,64,91,SUCCESS,98,Accepted,TRUE
+relocate-marbles,2129,2129,45.2631,SUCCESS,86.3159,Accepted,TRUE
+number-of-subarrays-with-gcd-equal-to-k,87,87,78.613,SUCCESS,16.763,Accepted,TRUE
+house-robber-iv,64,64,87.525,SUCCESS,40.7186,Accepted,TRUE
+count-all-possible-routes,109,44,,SUCCESS,,Wrong Answer,TRUE
+stamping-the-grid,77,77,96.6102,SUCCESS,18.6446,Accepted,TRUE
+number-of-flowers-in-full-bloom,53,53,84.8941,SUCCESS,77.3415,Accepted,TRUE
+number-of-ways-of-cutting-a-pizza,54,16,,SUCCESS,,Wrong Answer,TRUE
+minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits,50,21,,SUCCESS,,Wrong Answer,TRUE
+number-of-different-subsequences-gcds,39,39,77.272,SUCCESS,6.0597,Accepted,TRUE
+number-of-ways-to-wear-different-hats-to-each-other,65,65,96.9388,SUCCESS,86.7348,Accepted,TRUE
+count-pairs-of-points-with-distance-k,1007,1007,85.7144,SUCCESS,79.5918,Accepted,TRUE
+minimum-money-required-before-transactions,56,56,97.1428,SUCCESS,100,Accepted,TRUE
+get-the-maximum-score,82,82,66.4976,SUCCESS,68.0203,Accepted,TRUE
+maximum-xor-with-an-element-from-array,67,67,92.7761,SUCCESS,39.1644,Accepted,TRUE
+minimum-operations-to-maximize-last-elements-in-arrays,702,465,,SUCCESS,,Wrong Answer,TRUE
+maximum-path-quality-of-a-graph,62,62,86.6386,SUCCESS,24.2916,Accepted,TRUE
+shortest-uncommon-substring-in-an-array,631,631,65.7899,SUCCESS,74.7369,Accepted,TRUE
+maximum-total-reward-using-operations-i,586,586,88.3108,SUCCESS,74.0259,Accepted,TRUE
+count-the-number-of-consistent-strings,74,74,52.6815,SUCCESS,20.2482,Accepted,TRUE
+fancy-sequence,107,107,94.7368,SUCCESS,52.6313,Accepted,TRUE
+number-of-subarrays-with-lcm-equal-to-k,102,102,90.6045,SUCCESS,86.5772,Accepted,TRUE
+delete-greatest-value-in-each-row,55,55,90.3141,SUCCESS,34.555,Accepted,TRUE
+minimum-number-of-operations-to-make-arrays-similar,32,32,59.0247,SUCCESS,80.4879,Accepted,TRUE
+delete-duplicate-folders-in-system,108,108,97.2222,SUCCESS,65.2775,Accepted,TRUE
+count-ways-to-make-array-with-product,67,67,77.0264,SUCCESS,41.8916,Accepted,TRUE
+alternating-groups-i,795,795,79.4378,SUCCESS,51.3181,Accepted,TRUE
+minimum-number-of-operations-to-make-array-xor-equal-to-k,684,684,68.4784,SUCCESS,98.5508,Accepted,TRUE
+minimum-array-length-after-pair-removals,636,636,23.1943,SUCCESS,30.038,Accepted,TRUE
+maximum-number-of-fish-in-a-grid,3842,3842,88.081,SUCCESS,94.4444,Accepted,TRUE
+minimum-deletions-to-make-string-k-special,732,732,19.8234,SUCCESS,88.7766,Accepted,TRUE
+find-the-number-of-distinct-colors-among-the-balls,551,551,99.0087,SUCCESS,24.788,Accepted,TRUE
+maximum-total-damage-with-spell-casting,554,554,5,SUCCESS,85.3125,Accepted,TRUE
+frequency-tracker,1118,1118,98.0519,SUCCESS,59.0906,Accepted,TRUE
+minimum-common-value,41,41,88.5013,SUCCESS,52.5884,Accepted,TRUE
+design-task-manager,663,663,40.2117,SUCCESS,7.4075,Accepted,TRUE
+number-of-unique-good-subsequences,69,69,79.4116,SUCCESS,92.1569,Accepted,TRUE
+number-of-great-partitions,46,46,85.9874,SUCCESS,62.4203,Accepted,TRUE
+count-alternating-subarrays,789,789,79.7417,SUCCESS,69.3966,Accepted,TRUE
+maximum-or,1215,1215,89.7058,SUCCESS,37.4998,Accepted,TRUE
+minimum-operations-to-make-a-subsequence,82,82,30.7693,SUCCESS,16.4836,Accepted,TRUE
+minimum-score-after-removals-on-a-tree,65,65,97.1429,SUCCESS,94.2857,Accepted,TRUE
+find-the-distinct-difference-array,4512,4512,42.6569,SUCCESS,66.7832,Accepted,TRUE
+collect-coins-in-a-tree,4986,4986,87.2215,SUCCESS,97.7778,Accepted,TRUE
+maximum-sum-of-an-hourglass,41,41,73.5931,SUCCESS,49.3507,Accepted,TRUE
+count-visited-nodes-in-a-directed-graph,941,941,91.045,SUCCESS,86.5673,Accepted,TRUE
+maximum-points-inside-the-square,576,576,87.4076,SUCCESS,96.2964,Accepted,TRUE
+minimum-number-of-coins-to-be-added,628,628,92.9078,SUCCESS,80.8511,Accepted,TRUE
+separate-the-digits-in-an-array,52,52,27.0317,SUCCESS,99.4699,Accepted,TRUE
+find-the-minimum-area-to-cover-all-ones-i,712,712,74.684,SUCCESS,49.3672,Accepted,TRUE
+convert-1d-array-into-2d-array,107,107,62.896,SUCCESS,43.4389,Accepted,TRUE
+maximum-multiplication-score,675,675,100,SUCCESS,47.2222,Accepted,TRUE
+maximum-score-from-performing-multiplication-operations,59,59,97.6564,SUCCESS,96.4844,Accepted,TRUE
+find-subarray-with-bitwise-or-closest-to-k,814,814,84.7827,SUCCESS,82.6087,Accepted,TRUE
+maximum-score-of-a-node-sequence,75,75,95.2756,SUCCESS,71.6536,Accepted,TRUE
+rearrange-array-to-maximize-prefix-score,1071,1071,67.4665,SUCCESS,98.9333,Accepted,TRUE
+find-the-number-of-good-pairs-i,783,783,87.9949,SUCCESS,78.6718,Accepted,TRUE
+prime-pairs-with-target-sum,554,554,89.819,SUCCESS,8.0005,Accepted,TRUE
+count-number-of-possible-root-nodes,51,51,79.7617,SUCCESS,85.714,Accepted,TRUE
+minimum-xor-sum-of-two-arrays,64,64,82.4426,SUCCESS,77.0992,Accepted,TRUE
+continuous-subarrays,2139,2139,82.9921,SUCCESS,29.1337,Accepted,TRUE
+minimum-number-of-flips-to-make-binary-grid-palindromic-i,625,625,92.126,SUCCESS,24.4094,Accepted,TRUE
+length-of-the-longest-subsequence-that-sums-to-target,941,941,95.9397,SUCCESS,88.8888,Accepted,TRUE
+difference-between-maximum-and-minimum-price-sum,58,58,71.1114,SUCCESS,63.3334,Accepted,TRUE
+number-of-ways-to-paint-n-3-grid,50,50,74.0195,SUCCESS,73.0392,Accepted,TRUE
+restore-the-array,86,86,84.0702,SUCCESS,62.8317,Accepted,TRUE
+maximum-number-of-jumps-to-reach-the-last-index,2639,2639,93.6508,SUCCESS,87.3016,Accepted,TRUE
+divide-array-into-arrays-with-max-difference,1117,1117,95.8421,SUCCESS,74.4493,Accepted,TRUE
+largest-local-values-in-a-matrix,50,50,68.1565,SUCCESS,57.7814,Accepted,TRUE
+widest-vertical-area-between-two-points-containing-no-points,55,55,66.0798,SUCCESS,10.7981,Accepted,TRUE
+minimum-absolute-difference-between-elements-with-constraint,2013,2013,92.088,SUCCESS,75.9494,Accepted,TRUE
+disconnect-path-in-a-binary-matrix-by-at-most-one-flip,55,55,100,SUCCESS,62.745,Accepted,TRUE
+find-if-path-exists-in-graph,34,34,94.9563,SUCCESS,96.421,Accepted,TRUE
+kth-largest-sum-in-a-binary-tree,51,51,73.3336,SUCCESS,24.2277,Accepted,TRUE
+find-the-sum-of-encrypted-integers,865,865,66.0274,SUCCESS,77.2602,Accepted,TRUE
+properties-graph,668,668,5.0256,SUCCESS,11.4155,Accepted,TRUE
+count-number-of-special-subsequences,99,99,76.1195,SUCCESS,41.7911,Accepted,TRUE
+ant-on-the-boundary,641,641,44.7986,SUCCESS,6.7114,Accepted,TRUE
+maximum-points-tourist-can-earn,545,2,,SUCCESS,,Runtime Error,TRUE
+find-the-maximum-sum-of-node-values,718,718,61.6477,SUCCESS,62.78,Accepted,TRUE
+row-with-maximum-ones,1049,1049,75.8444,SUCCESS,22.3133,Accepted,TRUE
+find-the-longest-valid-obstacle-course-at-each-position,78,78,83.3332,SUCCESS,63.5659,Accepted,TRUE
+count-integers-in-intervals,73,73,99.0196,SUCCESS,78.4314,Accepted,TRUE
+maximum-number-of-visible-points,119,119,95.1034,SUCCESS,82.4743,Accepted,TRUE
+count-the-number-of-houses-at-a-certain-distance-i,880,880,89.7262,SUCCESS,96.5754,Accepted,TRUE
+minimum-operations-to-make-array-equal-ii,68,68,83.5052,SUCCESS,76.2886,Accepted,TRUE
+minimum-number-of-groups-to-create-a-valid-assignment,631,631,93.3334,SUCCESS,14.4445,Accepted,TRUE
+maximize-value-of-function-in-a-ball-passing-game,948,948,62,SUCCESS,56,Accepted,TRUE
+earliest-possible-day-of-full-bloom,185,185,98.6548,SUCCESS,61.8834,Accepted,TRUE
+lexicographically-smallest-palindrome,4519,4519,37.5001,SUCCESS,47.7941,Accepted,TRUE
+rearrange-k-substrings-to-form-target-string,771,771,56.7568,SUCCESS,54.0541,Accepted,TRUE
+reschedule-meetings-for-maximum-free-time-i,689,689,96.4632,SUCCESS,45.6538,Accepted,TRUE
+number-of-valid-words-in-a-sentence,244,244,39.9316,SUCCESS,84.3003,Accepted,TRUE
+maximum-product-difference-between-two-pairs,96,96,91.1196,SUCCESS,59.363,Accepted,TRUE
+replace-non-coprime-numbers-in-array,71,71,83.146,SUCCESS,28.0898,Accepted,TRUE
+decremental-string-concatenation,1332,1332,98.7013,SUCCESS,75.3247,Accepted,TRUE
+parallel-courses-iii,42,42,97.2438,SUCCESS,90.6495,Accepted,TRUE
+make-costs-of-paths-equal-in-a-binary-tree,1565,1565,82.6084,SUCCESS,92.7536,Accepted,TRUE
+beautiful-towers-ii,785,785,96.61,SUCCESS,62.7114,Accepted,TRUE
+form-largest-integer-with-digits-that-add-up-to-target,96,96,96.5909,SUCCESS,89.7727,Accepted,TRUE
+words-within-two-edits-of-dictionary,33,33,26.11,SUCCESS,38.3333,Accepted,TRUE
+minimum-cost-to-make-array-equal,48,47,,SUCCESS,,Wrong Answer,TRUE
+total-appeal-of-a-string,77,77,66.8536,SUCCESS,67.0412,Accepted,TRUE
+longest-common-suffix-queries,817,751,,SUCCESS,,Memory Limit Exceeded,TRUE
+number-of-strings-which-can-be-rearranged-to-contain-substring,264,264,38.5962,SUCCESS,36.8421,Accepted,TRUE
+count-collisions-of-monkeys-on-a-polygon,83,83,100,SUCCESS,85.2112,Accepted,TRUE
+maximum-area-rectangle-with-point-constraints-ii,593,580,,SUCCESS,,Wrong Answer,TRUE
+greatest-common-divisor-traversal,929,0,,SUCCESS,,Runtime Error,TRUE
+power-of-heroes,2584,2584,28.7128,SUCCESS,97.0297,Accepted,TRUE
+maximum-segment-sum-after-removals,42,0,,SUCCESS,,Wrong Answer,TRUE
+abbreviating-the-product-of-a-range,292,3,,SUCCESS,,Runtime Error,TRUE
+sum-of-k-mirror-numbers,97,97,9.6273,SUCCESS,54.6203,Accepted,TRUE
+minimum-number-of-days-to-eat-n-oranges,176,176,90.3448,SUCCESS,51.0344,Accepted,TRUE
+separate-squares-i,915,564,,SUCCESS,,Time Limit Exceeded,TRUE
+count-special-subsequences,557,542,,SUCCESS,,Time Limit Exceeded,TRUE
+count-beautiful-splits-in-an-array,583,576,,SUCCESS,,Time Limit Exceeded,TRUE
+find-mirror-score-of-a-string,581,572,,SUCCESS,,Time Limit Exceeded,TRUE
+maximize-the-number-of-target-nodes-after-connecting-trees-i,817,810,,SUCCESS,,Time Limit Exceeded,TRUE
+construct-the-minimum-bitwise-array-ii,776,6,,SUCCESS,,Wrong Answer,TRUE
+find-subtree-sizes-after-changes,632,630,,SUCCESS,,Memory Limit Exceeded,TRUE
+count-of-substrings-containing-every-vowel-and-k-consonants-ii,768,728,,SUCCESS,,Time Limit Exceeded,TRUE
+count-substrings-with-k-frequency-characters-i,571,571,5.82,SUCCESS,87.6364,Accepted,TRUE
+k-th-nearest-obstacle-queries,591,590,,SUCCESS,,Time Limit Exceeded,TRUE
+alternating-groups-ii,625,531,,SUCCESS,,Time Limit Exceeded,TRUE
+count-the-number-of-substrings-with-dominant-ones,881,855,,SUCCESS,,Time Limit Exceeded,TRUE
+find-the-number-of-good-pairs-ii,687,687,55.8442,SUCCESS,7.7923,Accepted,TRUE
+find-all-possible-stable-binary-arrays-i,670,633,,SUCCESS,,Memory Limit Exceeded,TRUE
+shortest-subarray-with-or-at-least-k-ii,718,714,,SUCCESS,,Time Limit Exceeded,TRUE
+find-the-grid-of-region-average,810,792,,SUCCESS,,Time Limit Exceeded,TRUE
+maximum-good-subarray-sum,782,780,,SUCCESS,,Time Limit Exceeded,TRUE
+count-zero-request-servers,3129,3129,27.2639,SUCCESS,5.0418,Accepted,TRUE
+increment-submatrices-by-one,31,17,,SUCCESS,,Time Limit Exceeded,TRUE
+count-beautiful-numbers,554,532,,SUCCESS,,Time Limit Exceeded,TRUE
+longest-common-prefix-of-k-strings-after-removal,667,633,,SUCCESS,,Time Limit Exceeded,TRUE
+permutations-iv,999,235,,SUCCESS,,Time Limit Exceeded,TRUE
+subsequences-with-a-unique-middle-mode-i,947,751,,SUCCESS,,Time Limit Exceeded,TRUE
+count-substrings-divisible-by-last-digit,699,683,,SUCCESS,,Time Limit Exceeded,TRUE
+maximize-subarray-sum-after-removing-all-occurrences-of-one-element,660,649,,SUCCESS,,Time Limit Exceeded,TRUE
+count-number-of-balanced-permutations,792,467,,SUCCESS,,Time Limit Exceeded,TRUE
+count-k-reducible-numbers-less-than-n,774,330,,SUCCESS,,Time Limit Exceeded,TRUE
+find-x-sum-of-all-k-long-subarrays-ii,784,776,,SUCCESS,,Time Limit Exceeded,TRUE
+find-the-occurrence-of-first-almost-equal-substring,778,770,,SUCCESS,,Time Limit Exceeded,TRUE
+final-array-state-after-k-multiplication-operations-ii,695,503,,SUCCESS,,Time Limit Exceeded,TRUE
+find-the-largest-palindrome-divisible-by-k,632,133,,SUCCESS,,Time Limit Exceeded,TRUE
+count-substrings-that-satisfy-k-constraint-ii,627,154,,SUCCESS,,Wrong Answer,TRUE
+time-taken-to-mark-all-nodes,804,419,,SUCCESS,,Time Limit Exceeded,TRUE
+number-of-subarrays-with-and-value-of-k,902,893,,SUCCESS,,Time Limit Exceeded,TRUE
+maximum-total-reward-using-operations-ii,583,572,,SUCCESS,,Time Limit Exceeded,TRUE
+maximum-sum-of-subsequence-with-non-adjacent-elements,527,517,,SUCCESS,,Time Limit Exceeded,TRUE
+minimize-manhattan-distances,537,537,39.2152,SUCCESS,31.3725,Accepted,TRUE
+minimum-moves-to-pick-k-ones,825,821,,SUCCESS,,Time Limit Exceeded,TRUE
+count-the-number-of-houses-at-a-certain-distance-ii,549,506,,SUCCESS,,Time Limit Exceeded,TRUE
+count-prefix-and-suffix-pairs-ii,597,591,,SUCCESS,,Time Limit Exceeded,TRUE
+find-beautiful-indices-in-the-given-array-ii,238,231,,SUCCESS,,Time Limit Exceeded,TRUE
+minimum-time-to-revert-word-to-initial-state-ii,911,898,,SUCCESS,,Time Limit Exceeded,TRUE
+find-number-of-coins-to-place-in-tree-nodes,614,612,,SUCCESS,,Time Limit Exceeded,TRUE
+maximum-strong-pair-xor-ii,349,237,,SUCCESS,,Time Limit Exceeded,TRUE
+subarrays-distinct-element-sum-of-squares-ii,542,537,,SUCCESS,,Time Limit Exceeded,TRUE
+minimum-edge-weight-equilibrium-queries-in-a-tree,733,727,,SUCCESS,,Time Limit Exceeded,TRUE
+find-a-good-subset-of-the-matrix,685,682,,SUCCESS,,Time Limit Exceeded,TRUE
+minimum-reverse-operations,711,697,,SUCCESS,,Time Limit Exceeded,TRUE
+handling-sum-queries-after-update,77,73,,SUCCESS,,Time Limit Exceeded,TRUE
+groups-of-strings,97,95,,SUCCESS,,Time Limit Exceeded,TRUE
+kth-smallest-product-of-two-sorted-arrays,112,97,,SUCCESS,,Time Limit Exceeded,TRUE
+find-servers-that-handled-most-number-of-requests,108,100,,SUCCESS,,Time Limit Exceeded,TRUE
+stone-game-v,132,128,,SUCCESS,,Time Limit Exceeded,TRUE
+maximum-unique-subarray-sum-after-deletion,927,312,,SUCCESS,,Wrong Answer,TRUE
+sum-of-variable-length-subarrays,773,176,,SUCCESS,,Wrong Answer,TRUE
+zigzag-grid-traversal-with-skip,840,10,,SUCCESS,,Wrong Answer,TRUE
+substring-matching-pattern,969,866,,SUCCESS,,Wrong Answer,TRUE
+smallest-number-with-all-set-bits,608,608,19.8966,SUCCESS,31.2661,Accepted,TRUE
+stone-removal-game,53,35,,SUCCESS,,Wrong Answer,TRUE
+minimum-operations-to-make-array-values-equal-to-k,969,899,,SUCCESS,,Wrong Answer,TRUE
+adjacent-increasing-subarrays-detection-i,1422,1223,,SUCCESS,,Wrong Answer,TRUE
+matrix-similarity-after-cyclic-shifts,914,904,,SUCCESS,,Wrong Answer,TRUE
+minimum-right-shifts-to-sort-the-array,814,317,,SUCCESS,,Wrong Answer,TRUE
+fruits-into-baskets-iii,740,385,,SUCCESS,,Wrong Answer,TRUE
+find-the-number-of-copy-arrays,740,740,13.8888,SUCCESS,98.1482,Accepted,TRUE
+eat-pizzas,1005,243,,SUCCESS,,Wrong Answer,TRUE
+select-k-disjoint-special-substrings,989,956,,SUCCESS,,Wrong Answer,TRUE
+assign-elements-to-groups-with-constraints,572,372,,SUCCESS,,Wrong Answer,TRUE
+maximum-frequency-after-subarray-operation,749,13,,SUCCESS,,Wrong Answer,TRUE
+closest-equal-element-queries,614,0,,SUCCESS,,Runtime Error,TRUE
+reschedule-meetings-for-maximum-free-time-ii,695,325,,SUCCESS,,Wrong Answer,TRUE
+count-mentions-per-user,673,642,,SUCCESS,,Wrong Answer,TRUE
+minimize-the-maximum-edge-weight-of-graph,671,591,,SUCCESS,,Wrong Answer,TRUE
+longest-subsequence-with-decreasing-adjacent-difference,586,376,,SUCCESS,,Wrong Answer,TRUE
+maximum-coins-from-k-consecutive-bags,605,83,,SUCCESS,,Wrong Answer,TRUE
+minimum-cost-to-make-arrays-identical,955,519,,SUCCESS,,Wrong Answer,TRUE
+find-the-lexicographically-largest-string-from-the-box-i,787,240,,SUCCESS,,Wrong Answer,TRUE
+maximum-area-rectangle-with-point-constraints-i,1002,981,,SUCCESS,,Wrong Answer,TRUE
+check-if-grid-can-be-cut-into-sections,698,616,,SUCCESS,,Wrong Answer,TRUE
+digit-operations-to-make-two-integers-equal,573,372,,SUCCESS,,Wrong Answer,TRUE
+minimum-array-sum,772,404,,SUCCESS,,Wrong Answer,TRUE
+maximum-subarray-sum-with-length-divisible-by-k,661,193,,SUCCESS,,Wrong Answer,TRUE
+minimum-time-to-break-locks-i,763,61,,SUCCESS,,Wrong Answer,TRUE
+zero-array-transformation-iii,824,515,,SUCCESS,,Wrong Answer,TRUE
+zero-array-transformation-ii,627,89,,SUCCESS,,Wrong Answer,TRUE
+zero-array-transformation-i,668,294,,SUCCESS,,Wrong Answer,TRUE
+find-minimum-time-to-reach-last-room-i,744,2,,SUCCESS,,Wrong Answer,TRUE
+maximum-frequency-of-an-element-after-performing-operations-i,635,362,,SUCCESS,,Wrong Answer,TRUE
+adjacent-increasing-subarrays-detection-ii,1111,915,,SUCCESS,,Wrong Answer,TRUE
+minimum-division-operations-to-make-array-non-decreasing,720,501,,SUCCESS,,Wrong Answer,TRUE
+identify-the-largest-outlier-in-an-array,873,142,,SUCCESS,,Wrong Answer,TRUE
+find-the-lexicographically-smallest-valid-sequence,905,667,,SUCCESS,,Wrong Answer,TRUE
+count-almost-equal-pairs-i,686,480,,SUCCESS,,Wrong Answer,TRUE
+reach-end-of-array-with-max-score,626,211,,SUCCESS,,Wrong Answer,TRUE
+minimum-number-of-flips-to-make-binary-grid-palindromic-ii,661,68,,SUCCESS,,Wrong Answer,TRUE
+find-the-power-of-k-size-subarrays-i,857,838,,SUCCESS,,Wrong Answer,TRUE
+maximize-the-total-height-of-unique-towers,583,57,,SUCCESS,,Wrong Answer,TRUE
+k-th-largest-perfect-subtree-size-in-binary-tree,766,479,,SUCCESS,,Wrong Answer,TRUE
+find-the-count-of-numbers-which-are-not-special,855,849,,SUCCESS,,Wrong Answer,TRUE
+maximum-number-of-operations-to-move-ones-to-the-end,694,148,,SUCCESS,,Wrong Answer,TRUE
+count-submatrices-with-equal-frequency-of-x-and-y,770,18,,SUCCESS,,Wrong Answer,TRUE
+find-the-maximum-length-of-valid-subsequence-ii,732,15,,SUCCESS,,Wrong Answer,TRUE
+find-the-maximum-length-of-valid-subsequence-i,951,156,,SUCCESS,,Wrong Answer,TRUE
+find-maximum-removals-from-source-string,755,536,,SUCCESS,,Wrong Answer,TRUE
+maximize-total-cost-of-alternating-subarrays,692,99,,SUCCESS,,Wrong Answer,TRUE
+vowels-game-in-a-string,697,591,,SUCCESS,,Wrong Answer,TRUE
+find-the-maximum-length-of-a-good-subsequence-i,543,311,,SUCCESS,,Wrong Answer,TRUE
+minimum-length-of-string-after-operations,702,475,,SUCCESS,,Wrong Answer,TRUE
+lexicographically-minimum-string-after-removing-stars,602,559,,SUCCESS,,Wrong Answer,TRUE
+count-the-number-of-special-characters-ii,896,896,66.8648,SUCCESS,91.716,Accepted,TRUE
+minimum-length-of-anagram-concatenation,560,279,,SUCCESS,,Wrong Answer,TRUE
+minimum-array-end,765,50,,SUCCESS,,Wrong Answer,TRUE
+water-bottles-ii,958,958,14.1592,SUCCESS,40.708,Accepted,TRUE
+apply-operations-to-make-string-empty,697,83,,SUCCESS,,Wrong Answer,TRUE
+find-the-maximum-number-of-elements-in-subset,731,355,,SUCCESS,,Wrong Answer,TRUE
+find-if-array-can-be-sorted,999,999,90.184,SUCCESS,15.9509,Accepted,TRUE
+minimum-moves-to-capture-the-queen,744,496,,SUCCESS,,Wrong Answer,TRUE
+find-longest-special-substring-that-occurs-thrice-i,812,50,,SUCCESS,,Wrong Answer,TRUE
+maximum-points-after-enemy-battles,579,44,,SUCCESS,,Wrong Answer,TRUE
+maximum-size-of-a-set-after-removals,969,961,,SUCCESS,,Wrong Answer,TRUE
+count-subarrays-where-max-element-appears-at-least-k-times,634,104,,SUCCESS,,Wrong Answer,TRUE
+distribute-candies-among-children-ii,958,958,63.0281,SUCCESS,75.0271,Accepted,TRUE
+separate-black-and-white-balls,581,69,,SUCCESS,,Wrong Answer,TRUE
+maximum-xor-product,863,82,,SUCCESS,,Wrong Answer,TRUE
+maximum-score-after-applying-operations-on-a-tree,821,0,,SUCCESS,,Wrong Answer,TRUE
+find-indices-with-index-and-value-difference-ii,517,430,,SUCCESS,,Wrong Answer,TRUE
+minimum-size-subarray-in-infinite-array,535,383,,SUCCESS,,Wrong Answer,TRUE
+happy-students,727,0,,SUCCESS,,Wrong Answer,TRUE
+apply-operations-to-make-two-strings-equal,729,425,,SUCCESS,,Wrong Answer,TRUE
+construct-product-matrix,1566,160,,SUCCESS,,Wrong Answer,TRUE
+minimum-additions-to-make-valid-string,1523,394,,SUCCESS,,Wrong Answer,TRUE
+count-the-number-of-square-free-subsets,44,23,,SUCCESS,,Wrong Answer,TRUE
+take-k-of-each-character-from-left-and-right,142,119,,SUCCESS,,Time Limit Exceeded,TRUE
+most-profitable-path-in-a-tree,31,0,,SUCCESS,,Wrong Answer,TRUE
+longest-special-path-ii,678,351,,SUCCESS,,Wrong Answer,TRUE
+maximize-subarrays-after-removing-one-conflicting-pair,642,0,,SUCCESS,,Wrong Answer,TRUE
+maximize-the-distance-between-points-on-a-square,619,321,,SUCCESS,,Wrong Answer,TRUE
+maximize-the-minimum-game-score,692,21,,SUCCESS,,Wrong Answer,TRUE
+minimum-operations-to-make-array-elements-zero,646,372,,SUCCESS,,Wrong Answer,TRUE
+length-of-longest-v-shaped-diagonal-segment,561,154,,SUCCESS,,Wrong Answer,TRUE
+smallest-substring-with-identical-characters-ii,970,91,,SUCCESS,,Wrong Answer,TRUE
+minimum-cost-good-caption,714,5,,SUCCESS,,Wrong Answer,TRUE
+minimum-increments-for-target-multiples-in-an-array,590,237,,SUCCESS,,Wrong Answer,TRUE
+shortest-matching-substring,795,125,,SUCCESS,,Wrong Answer,TRUE
+smallest-substring-with-identical-characters-i,949,487,,SUCCESS,,Wrong Answer,TRUE
+longest-special-path,675,259,,SUCCESS,,Wrong Answer,TRUE
+count-connected-components-in-lcm-graph,697,462,,SUCCESS,,Wrong Answer,TRUE
+maximize-sum-of-weights-after-edge-removals,714,513,,SUCCESS,,Wrong Answer,TRUE
+count-non-decreasing-subarrays-after-k-operations,731,42,,SUCCESS,,Wrong Answer,TRUE
+minimize-the-maximum-adjacent-element-difference,958,60,,SUCCESS,,Wrong Answer,TRUE
+sum-of-good-subsequences,679,45,,SUCCESS,,Wrong Answer,TRUE
+maximize-the-number-of-target-nodes-after-connecting-trees-ii,825,4,,SUCCESS,,Wrong Answer,TRUE
+maximum-frequency-of-an-element-after-performing-operations-ii,633,250,,SUCCESS,,Wrong Answer,TRUE
+minimum-operations-to-make-character-frequencies-equal,773,64,,SUCCESS,,Wrong Answer,TRUE
+find-the-original-typed-string-ii,846,135,,SUCCESS,,Wrong Answer,TRUE
+find-the-number-of-subsequences-with-equal-gcd,622,25,,SUCCESS,,Wrong Answer,TRUE
+find-the-number-of-possible-ways-for-an-event,568,64,,SUCCESS,,Wrong Answer,TRUE
+check-if-dfs-strings-are-palindromes,584,208,,SUCCESS,,Wrong Answer,TRUE
+count-the-number-of-winning-sequences,691,147,,SUCCESS,,Wrong Answer,TRUE
+sorted-gcd-pair-queries,721,713,,SUCCESS,,Time Limit Exceeded,TRUE
+construct-2d-grid-matching-graph-layout,785,90,,SUCCESS,,Wrong Answer,TRUE
+find-the-maximum-sequence-value-of-array,641,28,,SUCCESS,,Wrong Answer,TRUE
+count-substrings-that-can-be-rearranged-to-contain-a-string-ii,760,87,,SUCCESS,,Wrong Answer,TRUE
+length-of-the-longest-increasing-path,725,242,,SUCCESS,,Wrong Answer,TRUE
+select-cells-in-grid-with-maximum-score,546,465,,SUCCESS,,Wrong Answer,TRUE
+maximum-score-of-non-overlapping-intervals,581,573,,SUCCESS,,Wrong Answer,TRUE
+maximum-number-of-moves-to-kill-all-pawns,692,103,,SUCCESS,,Wrong Answer,TRUE
+maximum-xor-score-subarray-queries,635,241,,SUCCESS,,Wrong Answer,TRUE
+find-the-count-of-good-integers,90,9,,SUCCESS,,Wrong Answer,TRUE
+count-almost-equal-pairs-ii,631,429,,SUCCESS,,Wrong Answer,TRUE
+find-the-count-of-monotonic-pairs-ii,801,375,,SUCCESS,,Wrong Answer,TRUE
+find-the-count-of-monotonic-pairs-i,801,381,,SUCCESS,,Wrong Answer,TRUE
+minimum-amount-of-damage-dealt-to-bob,897,13,,SUCCESS,,Wrong Answer,TRUE
+alternating-groups-iii,731,264,,SUCCESS,,Wrong Answer,TRUE
+shortest-distance-after-road-addition-queries-ii,644,0,,SUCCESS,,Wrong Answer,TRUE
+check-if-the-rectangle-corner-is-reachable,933,565,,SUCCESS,,Wrong Answer,TRUE
+count-the-number-of-inversions,720,77,,SUCCESS,,Wrong Answer,TRUE
+find-the-minimum-area-to-cover-all-ones-ii,661,631,,SUCCESS,,Wrong Answer,TRUE
+minimum-operations-to-make-array-equal-to-target,554,119,,SUCCESS,,Wrong Answer,TRUE
+find-the-maximum-length-of-a-good-subsequence-ii,551,449,,SUCCESS,,Wrong Answer,TRUE
+block-placement-queries,744,425,,SUCCESS,,Wrong Answer,TRUE
+find-products-of-elements-of-big-array,758,233,,SUCCESS,,Wrong Answer,TRUE
+minimum-cost-to-equalize-array,636,559,,SUCCESS,,Wrong Answer,TRUE
+find-the-number-of-subarrays-where-boundary-elements-are-maximum,890,890,59.4196,SUCCESS,73.9128,Accepted,TRUE
+kth-smallest-amount-with-single-denomination-combination,561,376,,SUCCESS,,Wrong Answer,TRUE
+maximize-consecutive-elements-in-an-array-after-modification,668,97,,SUCCESS,,Wrong Answer,TRUE
+earliest-second-to-mark-indices-ii,510,175,,SUCCESS,,Wrong Answer,TRUE
+minimize-or-of-remaining-elements-using-operations,822,3,,SUCCESS,,Wrong Answer,TRUE
+count-the-number-of-powerful-integers,933,809,,SUCCESS,,Wrong Answer,TRUE
+maximize-the-number-of-partitions-after-operations,277,267,,SUCCESS,,Wrong Answer,TRUE
+count-the-number-of-infection-sequences,1000,477,,SUCCESS,,Wrong Answer,TRUE
+count-the-number-of-good-partitions,813,809,,SUCCESS,,Wrong Answer,TRUE
+find-maximum-non-decreasing-array-length,553,60,,SUCCESS,,Wrong Answer,TRUE
+count-beautiful-substrings-ii,684,49,,SUCCESS,,Wrong Answer,TRUE
+palindrome-rearrangement-queries,1211,891,,SUCCESS,,Wrong Answer,TRUE
+apply-operations-to-maximize-frequency-score,774,117,,SUCCESS,,Wrong Answer,TRUE
+find-building-where-alice-and-bob-can-meet,953,137,,SUCCESS,,Wrong Answer,TRUE
+maximum-points-after-collecting-coins-from-all-nodes,542,231,,SUCCESS,,Wrong Answer,TRUE
+count-valid-paths-in-a-tree,922,1,,SUCCESS,,Wrong Answer,TRUE
+maximum-spending-after-buying-items,779,313,,SUCCESS,,Wrong Answer,TRUE
+count-of-sub-multisets-with-bounded-sum,643,628,,SUCCESS,,Time Limit Exceeded,TRUE
+string-transformation,726,0,,SUCCESS,,Runtime Error,TRUE
+minimum-changes-to-make-k-semi-palindromes,558,193,,SUCCESS,,Wrong Answer,TRUE
+modify-graph-edge-weights,882,223,,SUCCESS,,Wrong Answer,TRUE
+subsequence-with-the-minimum-score,54,22,,SUCCESS,,Wrong Answer,TRUE
+maximize-the-minimum-powered-city,30,9,,SUCCESS,,Wrong Answer,TRUE
+number-of-beautiful-partitions,74,31,,SUCCESS,,Wrong Answer,TRUE
+split-message-based-on-limit,94,86,,SUCCESS,,Wrong Answer,TRUE
+maximum-number-of-non-overlapping-palindrome-substrings,56,10,,SUCCESS,,Wrong Answer,TRUE
+height-of-binary-tree-after-subtree-removal-queries,40,0,,SUCCESS,,Wrong Answer,TRUE
+longest-increasing-subsequence-ii,84,76,,SUCCESS,,Wrong Answer,TRUE
+find-the-k-sum-of-an-array,111,7,,SUCCESS,,Wrong Answer,TRUE
+maximum-total-beauty-of-the-gardens,77,43,,SUCCESS,,Wrong Answer,TRUE
+count-good-triplets-in-an-array,148,30,,SUCCESS,,Wrong Answer,TRUE
+maximum-fruits-harvested-after-at-most-k-steps,202,95,,SUCCESS,,Wrong Answer,TRUE
+sequentially-ordinal-rank-tracker,81,0,,SUCCESS,,Runtime Error,TRUE
+maximum-number-of-tasks-you-can-assign,49,30,,SUCCESS,,Wrong Answer,TRUE
+number-of-valid-move-combinations-on-chessboard,273,205,,SUCCESS,,Wrong Answer,TRUE
+maximum-number-of-ways-to-partition-an-array,178,178,64.5162,SUCCESS,43.5485,Accepted,TRUE
+find-array-given-subset-sums,131,14,,SUCCESS,,Wrong Answer,TRUE
+number-of-ways-to-separate-numbers,257,60,,SUCCESS,,Wrong Answer,TRUE
+longest-common-subpath,81,68,,SUCCESS,,Wrong Answer,TRUE
+minimum-cost-to-reach-destination-in-time,94,80,,SUCCESS,,Wrong Answer,TRUE
+the-earliest-and-latest-rounds-where-players-compete,138,77,,SUCCESS,,Wrong Answer,TRUE
+design-movie-rental-system,42,23,,SUCCESS,,Wrong Answer,TRUE
+minimum-skips-to-arrive-at-meeting-on-time,61,60,,SUCCESS,,Wrong Answer,TRUE
+finding-mk-average,17,7,,SUCCESS,,Wrong Answer,TRUE
+maximum-number-of-groups-getting-fresh-donuts,74,1,,SUCCESS,,Wrong Answer,TRUE
+tree-of-coprimes,37,1,,SUCCESS,,Wrong Answer,TRUE
+minimum-adjacent-swaps-for-k-consecutive-ones,117,3,,SUCCESS,,Wrong Answer,TRUE
+minimum-initial-energy-to-finish-tasks,42,42,90.099,SUCCESS,83.1683,Accepted,TRUE
+maximize-grid-happiness,67,7,,SUCCESS,,Wrong Answer,TRUE
+minimum-cost-to-connect-two-groups-of-points,84,0,,SUCCESS,,Runtime Error,TRUE
+parallel-courses-ii,82,69,,SUCCESS,,Wrong Answer,TRUE
+probability-of-a-two-boxes-having-the-same-number-of-distinct-balls,21,21,38.2984,SUCCESS,98.9362,Accepted,TRUE
+final-value-of-variable-after-performing-operations,,,100,SUCCESS,64.46,Accepted,TRUE
+string-compression-ii,,,18.18,SUCCESS,35.23,Accepted,TRUE
+type-of-triangle,,,100,SUCCESS,50.02,Accepted,TRUE
+range-product-queries-of-powers,,,5.55,SUCCESS,19.84,Accepted,TRUE
+maximum-sum-queries,,,67.19,SUCCESS,39.06,Accepted,TRUE
+closest-prime-numbers-in-range,,,86.55,SUCCESS,6.02,Accepted,TRUE
+divide-an-array-into-subarrays-with-minimum-cost-i,,,,SUCCESS,,Wrong Answer,TRUE
+lexicographically-smallest-string-after-operations-with-constraint,,,88.57,SUCCESS,21.9,Accepted,TRUE
+substring-with-largest-variance,,,,SUCCESS,,Wrong Answer,TRUE
+find-minimum-time-to-finish-all-jobs,,,19.7,SUCCESS,94.92,Accepted,TRUE
+number-of-senior-citizens,,,100,SUCCESS,39.01,Accepted,TRUE
+neighboring-bitwise-xor,,,28.82,SUCCESS,65.13,Accepted,TRUE
+maximum-number-of-achievable-transfer-requests,,,41.48,SUCCESS,42.22,Accepted,TRUE
+remove-max-number-of-edges-to-keep-graph-fully-traversable,,,26.58,SUCCESS,67.51,Accepted,TRUE
+check-if-the-number-is-fascinating,,,100,SUCCESS,11.97,Accepted,TRUE
+make-number-of-distinct-characters-equal,,,,SUCCESS,,Wrong Answer,TRUE
+number-of-possible-sets-of-closing-branches,,,42.57,SUCCESS,40.59,Wrong Answer,TRUE
+find-x-sum-of-all-k-long-subarrays-i,,,66.29,SUCCESS,83.43,Accepted,TRUE
+minimum-sum-of-mountain-triplets-i,,,72.14,SUCCESS,42.5,Accepted,TRUE
+difference-of-number-of-distinct-values-on-diagonals,,,40.19,SUCCESS,5.61,Accepted,TRUE
+sort-the-students-by-their-kth-score,,,100,SUCCESS,13.59,Accepted,TRUE
+minimum-operations-to-write-the-letter-y-on-a-grid,,,84.77,SUCCESS,98.54,Accepted,TRUE
+minimum-cost-for-cutting-cake-i,,,100,SUCCESS,47.67,Accepted,TRUE
+minimum-time-to-visit-disappearing-nodes,,,91.06,SUCCESS,91.06,Accepted,TRUE
+sorting-three-groups,,,44.2,SUCCESS,31.49,Accepted,TRUE
+maximum-odd-binary-number,,,34.68,SUCCESS,38.57,Accepted,TRUE
+check-if-strings-can-be-made-equal-with-operations-ii,,,63.21,SUCCESS,50.94,Accepted,TRUE
+minimum-time-to-visit-a-cell-in-a-grid,,,,SUCCESS,,Wrong Answer,TRUE
+find-the-k-th-character-in-string-game-i,,,62.37,SUCCESS,14.87,Accepted,TRUE
+process-restricted-friend-requests,,,62.64,SUCCESS,46.15,Accepted,TRUE
+extra-characters-in-a-string,,,98.28,SUCCESS,71.14,Accepted,TRUE
+lexicographically-smallest-string-after-substring-operation,,,72.02,SUCCESS,16.06,Accepted,TRUE
+special-permutations,,,84.82,SUCCESS,55.36,Accepted,TRUE
+mice-and-cheese,,,52.75,SUCCESS,22.3,Accepted,TRUE
+number-of-increasing-paths-in-a-grid,,,75.54,SUCCESS,70.14,Accepted,TRUE
+most-frequent-even-element,,,38.31,SUCCESS,99.49,Accepted,TRUE
+minimum-positive-sum-subarray,,,97.92,SUCCESS,23.4,Accepted,TRUE
+count-fertile-pyramids-in-a-land,,,61.64,SUCCESS,49.31,Accepted,TRUE
+divide-array-into-equal-pairs,,,68.2,SUCCESS,23.32,Accepted,TRUE
+goal-parser-interpretation,,,41.89,SUCCESS,23.84,Accepted,TRUE
+minimum-number-of-changes-to-make-binary-string-beautiful,,,42.41,SUCCESS,97.91,Accepted,TRUE
+sort-matrix-by-diagonals,,,91.67,SUCCESS,47.92,Accepted,TRUE
+minimum-cost-for-cutting-cake-ii,,,29.41,SUCCESS,23.53,Accepted,TRUE
+partition-string-into-minimum-beautiful-substrings,,,,SUCCESS,,Wrong Answer,TRUE
+determine-if-string-halves-are-alike,,,100,SUCCESS,23.6,Accepted,TRUE
+gcd-sort-of-an-array,,,94.62,SUCCESS,86.02,Accepted,TRUE
+finding-3-digit-even-numbers,,,82.06,SUCCESS,28.84,Accepted,TRUE
+hash-divided-string,,,75.08,SUCCESS,75.74,Accepted,TRUE
+palindrome-partitioning-iv,,,83.56,SUCCESS,45.21,Accepted,TRUE
+minimum-degree-of-a-connected-trio-in-a-graph,,,82.99,SUCCESS,13.61,Accepted,TRUE
+check-if-matrix-is-x-matrix,,,31.49,SUCCESS,27.49,Accepted,TRUE
+minimum-number-of-operations-to-make-array-continuous,,,92.16,SUCCESS,37.25,Accepted,TRUE
+count-pairs-with-xor-in-a-range,,,85.94,SUCCESS,85.94,Accepted,TRUE
+max-dot-product-of-two-subsequences,,,49.06,SUCCESS,69.81,Accepted,TRUE
+find-polygon-with-the-largest-perimeter,,,73.24,SUCCESS,87.63,Accepted,TRUE
+minimum-cost-to-convert-string-i,,,94.91,SUCCESS,90.91,Accepted,TRUE
+sum-of-values-at-indices-with-k-set-bits,,,53.68,SUCCESS,55.09,Accepted,TRUE
+most-frequent-ids,,,64.77,SUCCESS,64.77,Accepted,TRUE
+number-of-rectangles-that-can-form-the-largest-square,,,67.04,SUCCESS,23.27,Accepted,TRUE
+minimum-cost-to-cut-a-stick,,,98.58,SUCCESS,82.83,Accepted,TRUE
+check-if-there-is-a-valid-parentheses-string-path,,,97.03,SUCCESS,81.19,Accepted,TRUE
+next-greater-element-iv,,,32.2,SUCCESS,41.95,Accepted,TRUE
+sorting-the-sentence,,,97.55,SUCCESS,66.16,Accepted,TRUE
+largest-odd-number-in-string,,,47.53,SUCCESS,62.36,Accepted,TRUE
+minimum-element-after-replacement-with-digit-sum,,,58.62,SUCCESS,39.94,Accepted,TRUE
+closest-room,,,92.31,SUCCESS,79.94,Accepted,TRUE
+find-a-safe-walk-through-a-grid,,,90,SUCCESS,63.031,Accepted,TRUE
+checking-existence-of-edge-length-limited-paths,,,94.16,SUCCESS,21.17,Accepted,TRUE
+count-subarrays-with-fixed-bounds,,,98.93,SUCCESS,84.72,Accepted,TRUE
+count-of-integers,,,44.34,SUCCESS,34.91,Accepted,TRUE
+painting-the-walls,,,99.33,SUCCESS,99.33,Accepted,TRUE
+minimum-sum-of-mountain-triplets-ii,,,99.01,SUCCESS,54.46,Accepted,TRUE
+double-modular-exponentiation,,,100,SUCCESS,32.73,Accepted,TRUE
+smallest-divisible-digit-product-ii,,,,SUCCESS,,Wrong Answer,TRUE
+minimum-number-of-valid-strings-to-form-target-i,,,,SUCCESS,,Time Limit Exceeded,TRUE
+find-the-power-of-k-size-subarrays-ii,,,,SUCCESS,,Time Limit Exceeded,TRUE
+check-if-digits-are-equal-in-string-after-operations-ii,,,,SUCCESS,,Time Limit Exceeded,TRUE
+maximum-and-minimum-sums-of-at-most-size-k-subarrays,,,,SUCCESS,,Wrong Answer,TRUE
+construct-string-with-minimum-cost,,,,SUCCESS,,Time Limit Exceeded,TRUE
+number-of-subarrays-that-match-a-pattern-ii,,,,SUCCESS,,Time Limit Exceeded,TRUE
+find-the-number-of-ways-to-place-people-ii,,,,SUCCESS,,Time Limit Exceeded,TRUE
+divide-an-array-into-subarrays-with-minimum-cost-ii,,,,SUCCESS,,Wrong Answer,TRUE
+find-the-encrypted-string,,,,SUCCESS,,Wrong Answer,TRUE
+zero-array-transformation-iv,,,,SUCCESS,,Wrong Answer,TRUE
+find-the-minimum-amount-of-time-to-brew-potions,,,,SUCCESS,,Wrong Answer,TRUE
+find-minimum-cost-to-remove-array-elements,,,,SUCCESS,,Wrong Answer,TRUE
+maximum-and-minimum-sums-of-at-most-size-k-subsequences,,,,SUCCESS,,Wrong Answer,TRUE
+find-minimum-time-to-reach-last-room-ii,,,,SUCCESS,,Wrong Answer,TRUE
+shortest-distance-after-road-addition-queries-i,,,33.23,SUCCESS,85.58,Accepted,TRUE
+replace-question-marks-in-string-to-minimize-its-value,,,,SUCCESS,,Wrong Answer,TRUE
+minimum-cost-to-make-array-equalindromic,,,,SUCCESS,,Wrong Answer,TRUE
+minimum-number-of-coins-for-fruits,,,65.7,SUCCESS,84.54,Accepted,TRUE
+minimum-cost-of-a-path-with-special-roads,,,,SUCCESS,,Wrong Answer,TRUE
+lexicographically-smallest-generated-string,,,,SUCCESS,,Wrong Answer,TRUE
+total-characters-in-string-after-transformations-ii,,,,SUCCESS,,Wrong Answer,TRUE
+maximum-value-sum-by-placing-three-rooks-ii,,,,SUCCESS,,Wrong Answer,TRUE
+count-stepping-numbers-in-range,,,,SUCCESS,,Wrong Answer,TRUE
+find-the-string-with-lcp,,,,SUCCESS,,Wrong Answer,TRUE
+paint-house-iii,,,,SUCCESS,,Wrong Answer,TRUE

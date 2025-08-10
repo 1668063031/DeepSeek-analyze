@@ -1,0 +1,512 @@
+slug,total_testcases,total_correct,runtime_percentile,state,status_msg,memory_percentile,processed,is_pass,difficulty
+count-the-number-of-square-free-subsets,44.0,23.0,,SUCCESS,,Wrong Answer,True,0,Medium
+take-k-of-each-character-from-left-and-right,142.0,125.0,,SUCCESS,,Wrong Answer,True,0,Medium
+most-profitable-path-in-a-tree,31.0,0.0,,SUCCESS,,Wrong Answer,True,0,Medium
+subsequence-with-the-minimum-score,54.0,22.0,,SUCCESS,,Wrong Answer,True,0,Hard
+maximize-the-minimum-powered-city,30.0,9.0,,SUCCESS,,Wrong Answer,True,0,Hard
+number-of-beautiful-partitions,74.0,31.0,,SUCCESS,,Wrong Answer,True,0,Hard
+split-message-based-on-limit,94.0,86.0,,SUCCESS,,Wrong Answer,True,0,Hard
+maximum-number-of-non-overlapping-palindrome-substrings,56.0,10.0,,SUCCESS,,Wrong Answer,True,0,Hard
+height-of-binary-tree-after-subtree-removal-queries,40.0,0.0,,SUCCESS,,Wrong Answer,True,0,Hard
+longest-increasing-subsequence-ii,84.0,76.0,,SUCCESS,,Wrong Answer,True,0,Hard
+find-the-k-sum-of-an-array,111.0,7.0,,SUCCESS,,Wrong Answer,True,0,Hard
+maximum-total-beauty-of-the-gardens,77.0,43.0,,SUCCESS,,Wrong Answer,True,0,Hard
+count-good-triplets-in-an-array,148.0,30.0,,SUCCESS,,Wrong Answer,True,0,Hard
+maximum-fruits-harvested-after-at-most-k-steps,202.0,95.0,,SUCCESS,,Wrong Answer,True,0,Hard
+sequentially-ordinal-rank-tracker,81.0,3.0,,SUCCESS,,Wrong Answer,True,0,Hard
+maximum-number-of-tasks-you-can-assign,49.0,30.0,,SUCCESS,,Wrong Answer,True,0,Hard
+number-of-valid-move-combinations-on-chessboard,273.0,202.0,,SUCCESS,,Wrong Answer,True,0,Hard
+maximum-number-of-ways-to-partition-an-array,178.0,125.0,,SUCCESS,,Wrong Answer,True,0,Hard
+find-array-given-subset-sums,131.0,14.0,,SUCCESS,,Wrong Answer,True,0,Hard
+number-of-ways-to-separate-numbers,257.0,35.0,,SUCCESS,,Wrong Answer,True,0,Hard
+longest-common-subpath,81.0,68.0,,SUCCESS,,Wrong Answer,True,0,Hard
+minimum-cost-to-reach-destination-in-time,93.0,86.0,,SUCCESS,,Wrong Answer,True,0,Hard
+the-earliest-and-latest-rounds-where-players-compete,137.0,77.0,,SUCCESS,,Wrong Answer,True,0,Hard
+design-movie-rental-system,42.0,23.0,,SUCCESS,,Wrong Answer,True,1,Hard
+minimum-skips-to-arrive-at-meeting-on-time,61.0,60.0,,SUCCESS,,Wrong Answer,True,0,Hard
+finding-mk-average,17.0,7.0,,SUCCESS,,Wrong Answer,True,0,Hard
+maximum-number-of-groups-getting-fresh-donuts,74.0,1.0,,SUCCESS,,Wrong Answer,True,0,Hard
+tree-of-coprimes,37.0,1.0,,SUCCESS,,Wrong Answer,True,0,Hard
+minimum-adjacent-swaps-for-k-consecutive-ones,117.0,3.0,,SUCCESS,,Wrong Answer,True,0,Hard
+minimum-initial-energy-to-finish-tasks,42.0,4.0,,SUCCESS,,Wrong Answer,True,0,Hard
+parallel-courses-ii,82.0,69.0,,SUCCESS,,Wrong Answer,True,1,Hard
+probability-of-a-two-boxes-having-the-same-number-of-distinct-balls,21.0,5.0,,SUCCESS,,Wrong Answer,True,0,Hard
+increment-submatrices-by-one,31.0,17.0,,SUCCESS,,Time Limit Exceeded,True,1,Medium
+minimum-reverse-operations,711.0,698.0,,SUCCESS,,Time Limit Exceeded,True,0,Hard
+handling-sum-queries-after-update,77.0,73.0,,SUCCESS,,Time Limit Exceeded,True,0,Hard
+groups-of-strings,97.0,95.0,,SUCCESS,,Time Limit Exceeded,True,0,Hard
+kth-smallest-product-of-two-sorted-arrays,112.0,98.0,,SUCCESS,,Time Limit Exceeded,True,0,Hard
+find-servers-that-handled-most-number-of-requests,108.0,100.0,,SUCCESS,,Time Limit Exceeded,True,0,Hard
+stone-game-v,132.0,131.0,,SUCCESS,,Time Limit Exceeded,True,1,Hard
+count-collisions-of-monkeys-on-a-polygon,83.0,0.0,,SUCCESS,,Runtime Error,True,0,Medium
+maximum-segment-sum-after-removals,42.0,0.0,,SUCCESS,,Runtime Error,True,0,Hard
+abbreviating-the-product-of-a-range,292.0,3.0,,SUCCESS,,Runtime Error,True,1,Hard
+sum-of-k-mirror-numbers,97.0,0.0,,SUCCESS,,Runtime Error,True,1,Hard
+minimum-number-of-days-to-eat-n-oranges,176.0,0.0,,SUCCESS,,Runtime Error,True,1,Hard
+find-the-longest-balanced-substring-of-a-binary-string,1848.0,1848.0,37.1727,SUCCESS,31.9371,Accepted,True,0,Easy
+prime-in-diagonal,82.0,82.0,100,SUCCESS,44.156,Accepted,True,1,Easy
+k-items-with-the-maximum-sum,1310.0,1310.0,100,SUCCESS,87.9765,Accepted,True,1,Easy
+left-and-right-sum-differences,53.0,53.0,46.8098,SUCCESS,55.4603,Accepted,True,1,Easy
+merge-two-2d-arrays-by-summing-values,39.0,39.0,22.483,SUCCESS,16.9568,Accepted,True,1,Easy
+find-the-array-concatenation-value,53.0,53.0,72.3493,SUCCESS,34.0957,Accepted,True,1,Easy
+take-gifts-from-the-richest-pile,103.0,103.0,83.4441,SUCCESS,10.1728,Accepted,True,0,Easy
+count-distinct-numbers-on-board,100.0,100.0,100,SUCCESS,78.1819,Accepted,True,0,Easy
+form-smallest-number-from-two-digit-arrays,388.0,388.0,11.1112,SUCCESS,11.1112,Accepted,True,1,Easy
+distribute-money-to-maximum-children,3802.0,3802.0,100,SUCCESS,21.4286,Accepted,True,0,Easy
+number-of-even-and-odd-bits,1003.0,1003.0,100,SUCCESS,18.8992,Accepted,True,0,Easy
+count-the-number-of-vowel-strings-in-range,1053.0,1053.0,100,SUCCESS,33.657,Accepted,True,1,Easy
+pass-the-pillow,68.0,68.0,100,SUCCESS,90.5229,Accepted,True,1,Easy
+separate-the-digits-in-an-array,52.0,52.0,85.0364,SUCCESS,52.5546,Accepted,True,1,Easy
+minimum-common-value,41.0,41.0,91.2305,SUCCESS,29.0633,Accepted,True,1,Easy
+alternating-digit-sum,118.0,118.0,100,SUCCESS,14.5252,Accepted,True,1,Easy
+difference-between-element-sum-and-digit-sum-of-an-array,142.0,142.0,31.8396,SUCCESS,72.0822,Accepted,True,1,Easy
+categorize-box-according-to-criteria,50.0,50.0,100,SUCCESS,36.8421,Accepted,True,0,Easy
+maximum-count-of-positive-integer-and-negative-integer,169.0,169.0,100,SUCCESS,71.2316,Accepted,True,1,Easy
+count-the-digits-that-divide-a-number,56.0,56.0,100,SUCCESS,98.3936,Accepted,True,1,Easy
+maximum-enemy-forts-that-can-be-captured,45.0,45.0,100,SUCCESS,41.1951,Accepted,True,0,Easy
+shortest-distance-to-target-string-in-a-circular-array,164.0,164.0,100,SUCCESS,98.2684,Accepted,True,1,Easy
+count-pairs-of-similar-strings,225.0,225.0,32.5692,SUCCESS,27.6759,Accepted,True,0,Easy
+maximum-value-of-a-string-in-an-array,64.0,64.0,100,SUCCESS,51.6484,Accepted,True,1,Easy
+delete-greatest-value-in-each-row,55.0,55.0,93.9464,SUCCESS,82.0722,Accepted,True,0,Easy
+circular-sentence,266.0,266.0,100,SUCCESS,81.7699,Accepted,True,1,Easy
+minimum-cuts-to-divide-a-circle,100.0,100.0,2.005,SUCCESS,56.391,Accepted,True,1,Easy
+find-the-pivot-integer,428.0,428.0,55.9171,SUCCESS,39.7435,Accepted,True,1,Easy
+number-of-unequal-triplets-in-array,104.0,104.0,70.6514,SUCCESS,58.6994,Accepted,True,1,Easy
+number-of-distinct-averages,36.0,36.0,100,SUCCESS,24.0983,Accepted,True,1,Easy
+convert-the-temperature,74.0,74.0,100,SUCCESS,84.7265,Accepted,True,1,Easy
+apply-operations-to-an-array,36.0,36.0,100,SUCCESS,7.0345,Accepted,True,1,Easy
+average-value-of-even-numbers-that-are-divisible-by-three,181.0,181.0,33.5272,SUCCESS,27.7132,Accepted,True,1,Easy
+remove-letter-to-equalize-frequency,50.0,50.0,16.4138,SUCCESS,88.4138,Accepted,True,0,Easy
+number-of-valid-clock-times,53.0,53.0,100,SUCCESS,36.478,Accepted,True,0,Easy
+largest-positive-integer-that-exists-with-its-negative,339.0,339.0,100,SUCCESS,29.3651,Accepted,True,1,Easy
+the-employee-that-worked-on-the-longest-task,514.0,514.0,78.5714,SUCCESS,22.3214,Accepted,True,0,Easy
+number-of-common-factors,76.0,76.0,100,SUCCESS,22.6376,Accepted,True,1,Easy
+count-days-spent-together,51.0,51.0,100,SUCCESS,90.1042,Accepted,True,0,Easy
+smallest-even-multiple,150.0,150.0,100,SUCCESS,36.2411,Accepted,True,1,Easy
+most-frequent-even-element,219.0,219.0,53.2481,SUCCESS,94.9803,Accepted,True,1,Easy
+find-subarrays-with-equal-sum,42.0,42.0,100,SUCCESS,43.5727,Accepted,True,0,Easy
+check-distances-between-same-letters,335.0,335.0,100,SUCCESS,36.6438,Accepted,True,1,Easy
+longest-subsequence-with-limited-sum,57.0,57.0,65.7516,SUCCESS,25.4248,Accepted,True,1,Easy
+minimum-recolors-to-get-k-consecutive-black-blocks,122.0,122.0,12.796,SUCCESS,60.0768,Accepted,True,0,Easy
+minimum-hours-of-training-to-win-a-competition,111.0,111.0,100,SUCCESS,79.3104,Accepted,True,0,Easy
+largest-local-values-in-a-matrix,50.0,50.0,96.2247,SUCCESS,85.2856,Accepted,True,1,Easy
+merge-similar-items,49.0,49.0,100,SUCCESS,80.7228,Accepted,True,1,Easy
+number-of-arithmetic-triplets,104.0,104.0,100,SUCCESS,58.1321,Accepted,True,0,Easy
+make-array-zero-by-subtracting-equal-amounts,95.0,95.0,100,SUCCESS,52.2909,Accepted,True,0,Easy
+best-poker-hand,98.0,98.0,100,SUCCESS,37.2602,Accepted,True,0,Easy
+first-letter-to-appear-twice,92.0,92.0,100,SUCCESS,99.2298,Accepted,True,1,Easy
+maximum-number-of-pairs-in-array,128.0,128.0,15.0851,SUCCESS,37.2262,Accepted,True,1,Easy
+evaluate-boolean-binary-tree,75.0,75.0,100,SUCCESS,45.3948,Accepted,True,1,Easy
+minimum-amount-of-time-to-fill-cups,280.0,280.0,100,SUCCESS,81.3954,Accepted,True,0,Easy
+decode-the-message,69.0,69.0,53.3108,SUCCESS,46.2649,Accepted,True,0,Easy
+count-asterisks,69.0,69.0,100,SUCCESS,60.1279,Accepted,True,0,Easy
+check-if-matrix-is-x-matrix,84.0,84.0,70.2778,SUCCESS,70.5556,Accepted,True,0,Easy
+min-max-game,96.0,96.0,25.8171,SUCCESS,40.8497,Accepted,True,1,Easy
+root-equals-sum-of-children,309.0,309.0,100,SUCCESS,24.162,Accepted,True,1,Easy
+add-two-integers,262.0,262.0,100,SUCCESS,71.81,Accepted,True,1,Easy
+check-if-number-has-equal-digit-count-and-digit-value,433.0,433.0,100,SUCCESS,86.46,Accepted,True,1,Easy
+rearrange-characters-to-make-target-string,116.0,116.0,100,SUCCESS,88.5057,Accepted,True,0,Easy
+calculate-digit-sum-of-a-string,121.0,121.0,100,SUCCESS,98.8806,Accepted,True,1,Easy
+find-closest-number-to-zero,227.0,227.0,22.7052,SUCCESS,45.898,Accepted,True,1,Easy
+largest-3-same-digit-number-in-string,141.0,141.0,18.555,SUCCESS,41.0509,Accepted,True,1,Easy
+minimum-number-of-operations-to-convert-time,256.0,256.0,100,SUCCESS,89.5623,Accepted,True,1,Easy
+count-prefixes-of-a-given-string,123.0,123.0,100,SUCCESS,29.3135,Accepted,True,1,Easy
+remove-digit-from-number-to-maximize-result,112.0,112.0,100,SUCCESS,10.5702,Accepted,True,1,Easy
+intersection-of-multiple-arrays,151.0,151.0,100,SUCCESS,69.4482,Accepted,True,1,Easy
+minimum-bit-flips-to-convert-number,250.0,250.0,100,SUCCESS,33.6156,Accepted,True,0,Easy
+find-all-k-distant-indices-in-an-array,87.0,87.0,42.9271,SUCCESS,27.317,Accepted,True,0,Easy
+count-hills-and-valleys-in-an-array,121.0,121.0,100,SUCCESS,63.0986,Accepted,True,0,Easy
+most-frequent-number-following-key-in-an-array,101.0,101.0,42.4243,SUCCESS,87.8788,Accepted,True,1,Easy
+divide-array-into-equal-pairs,137.0,137.0,68.1967,SUCCESS,72.6777,Accepted,True,1,Easy
+count-integers-with-even-digit-sum,71.0,71.0,27.77,SUCCESS,89.2005,Accepted,True,1,Easy
+counting-words-with-a-given-prefix,95.0,95.0,100,SUCCESS,44.4235,Accepted,True,1,Easy
+count-operations-to-obtain-zero,161.0,161.0,80.1642,SUCCESS,15.7276,Accepted,True,1,Easy
+sort-even-and-odd-indices-independently,218.0,218.0,100,SUCCESS,84.9641,Accepted,True,1,Easy
+count-equal-and-divisible-pairs-in-an-array,238.0,238.0,64.5307,SUCCESS,31.9371,Accepted,True,0,Easy
+count-elements-with-strictly-smaller-and-greater-elements,127.0,127.0,100,SUCCESS,16.3317,Accepted,True,1,Easy
+minimum-sum-of-four-digit-number-after-splitting-digits,99.0,99.0,100,SUCCESS,94.933,Accepted,True,0,Easy
+divide-a-string-into-groups-of-size-k,157.0,157.0,100,SUCCESS,65.7492,Accepted,True,1,Easy
+check-if-every-row-and-column-contains-all-numbers,227.0,227.0,52.2631,SUCCESS,76.3374,Accepted,True,1,Easy
+a-number-after-a-double-reversal,129.0,129.0,100,SUCCESS,82.9612,Accepted,True,0,Easy
+capitalize-the-title,200.0,200.0,100,SUCCESS,6.6406,Accepted,True,1,Easy
+find-first-palindromic-string-in-the-array,266.0,266.0,100,SUCCESS,80.7345,Accepted,True,1,Easy
+rings-and-rods,66.0,66.0,100,SUCCESS,30.8641,Accepted,True,1,Easy
+maximum-number-of-words-found-in-sentences,90.0,90.0,100,SUCCESS,80.3878,Accepted,True,1,Easy
+finding-3-digit-even-numbers,79.0,79.0,68.8474,SUCCESS,43.2722,Accepted,True,1,Easy
+find-target-indices-after-sorting-array,216.0,216.0,100,SUCCESS,57.0697,Accepted,True,0,Easy
+find-subsequence-of-length-k-with-the-largest-sum,49.0,49.0,83.6653,SUCCESS,93.2271,Accepted,True,0,Easy
+two-furthest-houses-with-different-colors,126.0,126.0,32.7749,SUCCESS,57.1728,Accepted,True,1,Easy
+time-needed-to-buy-tickets,65.0,65.0,52.3086,SUCCESS,36.5127,Accepted,True,0,Easy
+count-common-words-with-one-occurrence,61.0,61.0,100,SUCCESS,24.3921,Accepted,True,1,Easy
+count-vowel-substrings-of-a-string,88.0,88.0,27.0898,SUCCESS,82.2388,Accepted,True,1,Easy
+smallest-index-with-equal-value,663.0,663.0,100,SUCCESS,72.679,Accepted,True,1,Easy
+number-of-valid-words-in-a-sentence,244.0,244.0,49.4648,SUCCESS,97.6445,Accepted,True,1,Easy
+check-if-numbers-are-ascending-in-a-sentence,98.0,98.0,100,SUCCESS,31.5385,Accepted,True,1,Easy
+kth-distinct-string-in-an-array,66.0,66.0,68.1016,SUCCESS,67.7488,Accepted,True,1,Easy
+two-out-of-three,288.0,288.0,100,SUCCESS,35.3798,Accepted,True,1,Easy
+minimum-moves-to-convert-string,55.0,55.0,100,SUCCESS,52.6957,Accepted,True,1,Easy
+maximum-difference-between-increasing-elements,54.0,54.0,100,SUCCESS,89.1815,Accepted,True,1,Easy
+final-value-of-variable-after-performing-operations,259.0,259.0,100,SUCCESS,60.9747,Accepted,True,1,Easy
+convert-1d-array-into-2d-array,107.0,107.0,52.4815,SUCCESS,94.665,Accepted,True,1,Easy
+reverse-prefix-of-word,112.0,112.0,100,SUCCESS,84.8391,Accepted,True,1,Easy
+count-special-quadruplets,211.0,211.0,49.2186,SUCCESS,57.7244,Accepted,True,1,Easy
+find-if-path-exists-in-graph,34.0,34.0,92.6915,SUCCESS,94.3255,Accepted,True,1,Easy
+count-number-of-pairs-with-absolute-difference-k,237.0,237.0,100,SUCCESS,18.4794,Accepted,True,1,Easy
+find-greatest-common-divisor-of-array,215.0,215.0,7.9411,SUCCESS,73.0001,Accepted,True,1,Easy
+find-the-middle-index-in-array,294.0,294.0,100,SUCCESS,18.5876,Accepted,True,1,Easy
+number-of-strings-that-appear-as-substrings-in-word,82.0,82.0,100,SUCCESS,72.4018,Accepted,True,1,Easy
+check-if-string-is-a-prefix-of-array,349.0,349.0,100,SUCCESS,91.7671,Accepted,True,1,Easy
+three-divisors,228.0,228.0,100,SUCCESS,18.4764,Accepted,True,1,Easy
+concatenation-of-array,92.0,92.0,22.2698,SUCCESS,69.8905,Accepted,True,1,Easy
+check-if-all-characters-have-equal-number-of-occurrences,134.0,134.0,100,SUCCESS,25.7561,Accepted,True,1,Easy
+build-array-from-permutation,140.0,140.0,54.5647,SUCCESS,32.7798,Accepted,True,1,Easy
+maximum-product-difference-between-two-pairs,96.0,96.0,25.1457,SUCCESS,60.1863,Accepted,True,1,Easy
+count-square-sum-triples,91.0,91.0,28.7265,SUCCESS,81.3285,Accepted,True,1,Easy
+redistribute-characters-to-make-all-strings-equal,179.0,179.0,61.7349,SUCCESS,86.7347,Accepted,True,1,Easy
+remove-one-element-to-make-the-array-strictly-increasing,109.0,109.0,100,SUCCESS,15.6146,Accepted,True,1,Easy
+determine-whether-matrix-can-be-obtained-by-rotation,113.0,113.0,100,SUCCESS,58.0499,Accepted,True,1,Easy
+check-if-all-the-integers-in-a-range-are-covered,106.0,106.0,100,SUCCESS,88.064,Accepted,True,1,Easy
+longer-contiguous-segments-of-ones-than-zeros,141.0,141.0,100,SUCCESS,80.1419,Accepted,True,1,Easy
+sum-of-all-subset-xor-totals,48.0,48.0,13.3008,SUCCESS,42.6807,Accepted,True,1,Easy
+substrings-of-size-three-with-distinct-characters,160.0,160.0,100,SUCCESS,96.3792,Accepted,True,1,Easy
+maximum-population-year,53.0,53.0,100,SUCCESS,66.7782,Accepted,True,1,Easy
+sum-of-digits-in-base-k,65.0,65.0,100,SUCCESS,98.1558,Accepted,True,1,Easy
+check-if-the-sentence-is-pangram,79.0,79.0,100,SUCCESS,96.5322,Accepted,True,1,Easy
+sign-of-the-product-of-an-array,76.0,76.0,100,SUCCESS,63.942,Accepted,True,1,Easy
+truncate-sentence,72.0,72.0,1.3388,SUCCESS,31.5138,Accepted,True,1,Easy
+minimum-operations-to-make-the-array-increasing,94.0,94.0,39.2724,SUCCESS,9.4103,Accepted,True,1,Easy
+number-of-different-integers-in-a-string,85.0,85.0,100,SUCCESS,34.9443,Accepted,True,1,Easy
+maximum-ascending-subarray-sum,104.0,104.0,100,SUCCESS,97.2433,Accepted,True,1,Easy
+find-center-of-star-graph,61.0,61.0,100,SUCCESS,79.6502,Accepted,True,1,Easy
+check-if-one-string-swap-can-make-strings-equal,137.0,137.0,100,SUCCESS,58.7135,Accepted,True,1,Easy
+second-largest-digit-in-a-string,301.0,301.0,100,SUCCESS,54.0541,Accepted,True,1,Easy
+count-items-matching-a-rule,92.0,92.0,100,SUCCESS,53.056,Accepted,True,1,Easy
+merge-strings-alternately,108.0,108.0,56.4418,SUCCESS,73.853,Accepted,True,1,Easy
+minimum-changes-to-make-alternating-binary-string,89.0,89.0,87.0564,SUCCESS,62.4217,Accepted,True,1,Easy
+check-if-array-is-sorted-and-rotated,112.0,112.0,100,SUCCESS,36.659,Accepted,True,1,Easy
+longest-nice-substring,73.0,73.0,73.0665,SUCCESS,40.0363,Accepted,True,1,Easy
+latest-time-by-replacing-hidden-digits,159.0,159.0,100,SUCCESS,83.0189,Accepted,True,1,Easy
+sum-of-unique-elements,73.0,73.0,100,SUCCESS,33.0769,Accepted,True,1,Easy
+maximum-number-of-balls-in-a-box,97.0,97.0,72.7272,SUCCESS,25.7576,Accepted,True,1,Easy
+number-of-rectangles-that-can-form-the-largest-square,68.0,68.0,81.7911,SUCCESS,97.3134,Accepted,True,1,Easy
+decode-xored-array,76.0,76.0,100,SUCCESS,62.7054,Accepted,True,1,Easy
+find-the-highest-altitude,80.0,80.0,100,SUCCESS,81.838,Accepted,True,1,Easy
+maximum-units-on-a-truck,77.0,77.0,92.0565,SUCCESS,96.4696,Accepted,True,1,Easy
+determine-if-string-halves-are-alike,113.0,113.0,100,SUCCESS,22.3663,Accepted,True,1,Easy
+calculate-money-in-leetcode-bank,106.0,106.0,51.6129,SUCCESS,98.0149,Accepted,True,1,Easy
+reformat-phone-number,108.0,108.0,12.9533,SUCCESS,81.3471,Accepted,True,1,Easy
+count-of-matches-in-tournament,200.0,200.0,89.6698,SUCCESS,29.5512,Accepted,True,1,Easy
+number-of-students-unable-to-eat-lunch,55.0,55.0,100,SUCCESS,89.7933,Accepted,True,0,Easy
+goal-parser-interpretation,105.0,105.0,19.7825,SUCCESS,89.6043,Accepted,True,1,Easy
+richest-customer-wealth,34.0,34.0,100,SUCCESS,85.7399,Accepted,True,1,Easy
+count-the-number-of-consistent-strings,74.0,74.0,91.6206,SUCCESS,98.6167,Accepted,True,1,Easy
+design-an-ordered-stream,101.0,101.0,6.0775,SUCCESS,26.1511,Accepted,True,1,Easy
+get-maximum-in-generated-array,101.0,101.0,100,SUCCESS,66.6667,Accepted,True,1,Easy
+maximum-repeating-substring,212.0,212.0,100,SUCCESS,37.1115,Accepted,True,1,Easy
+check-array-formation-through-concatenation,85.0,85.0,25,SUCCESS,89.7321,Accepted,True,0,Easy
+defuse-the-bomb,74.0,74.0,42.4908,SUCCESS,53.4799,Accepted,True,1,Easy
+slowest-key,109.0,109.0,53.4005,SUCCESS,77.33,Accepted,True,1,Easy
+largest-substring-between-two-equal-characters,58.0,58.0,100,SUCCESS,52.8344,Accepted,True,0,Easy
+widest-vertical-area-between-two-points-containing-no-points,55.0,55.0,91.6541,SUCCESS,44.7649,Accepted,True,1,Easy
+maximum-nesting-depth-of-the-parentheses,168.0,168.0,100,SUCCESS,29.3257,Accepted,True,1,Easy
+mice-and-cheese,564.0,564.0,52.7206,SUCCESS,28.0338,Accepted,True,0,Medium
+convert-an-array-into-a-2d-array-with-conditions,1035.0,1035.0,56.6973,SUCCESS,43.4862,Accepted,True,0,Medium
+sum-of-distances,1068.0,1068.0,92.8144,SUCCESS,47.3056,Accepted,True,1,Medium
+minimize-the-maximum-difference-of-pairs,1582.0,1582.0,50.1835,SUCCESS,38.5456,Accepted,True,0,Medium
+minimum-operations-to-make-all-array-elements-equal,31.0,31.0,83.9691,SUCCESS,29.7707,Accepted,True,0,Medium
+prime-subtraction-operation,654.0,654.0,11.7977,SUCCESS,21.8288,Accepted,True,0,Medium
+find-the-divisibility-array-of-a-string,51.0,51.0,78.4921,SUCCESS,84.0782,Accepted,True,0,Medium
+find-the-maximum-number-of-marked-indices,68.0,68.0,46.7067,SUCCESS,32.3354,Accepted,True,0,Medium
+minimum-operations-to-reduce-an-integer-to-0,41.0,41.0,100,SUCCESS,38.8286,Accepted,True,0,Medium
+minimum-score-by-changing-two-elements,70.0,70.0,90.5882,SUCCESS,25.8822,Accepted,True,0,Medium
+minimum-impossible-or,73.0,73.0,98.374,SUCCESS,12.1953,Accepted,True,0,Medium
+substring-xor-queries,59.0,59.0,13.7248,SUCCESS,45.0976,Accepted,True,0,Medium
+count-the-number-of-fair-pairs,55.0,55.0,6.6964,SUCCESS,12.7813,Accepted,True,1,Medium
+the-number-of-beautiful-subsets,1308.0,1308.0,45.3423,SUCCESS,51.447,Accepted,True,0,Medium
+find-score-of-an-array-after-marking-all-elements,1044.0,1044.0,37.7982,SUCCESS,72.7426,Accepted,True,1,Medium
+count-vowel-strings-in-ranges,94.0,94.0,78.3295,SUCCESS,76.5238,Accepted,True,0,Medium
+house-robber-iv,64.0,64.0,86.512,SUCCESS,77.082,Accepted,True,0,Medium
+maximize-win-from-two-segments,72.0,72.0,73.9502,SUCCESS,42.0169,Accepted,True,0,Medium
+make-k-subarray-sums-equal,1040.0,1040.0,11.1117,SUCCESS,88.889,Accepted,True,0,Medium
+find-the-substring-with-maximum-cost,1054.0,1054.0,59.6342,SUCCESS,86.6973,Accepted,True,0,Medium
+minimum-time-to-repair-cars,1072.0,1072.0,81.1238,SUCCESS,82.251,Accepted,True,0,Medium
+maximize-greatness-of-an-array,1072.0,1072.0,33.2884,SUCCESS,54.8994,Accepted,True,0,Medium
+smallest-missing-non-negative-integer-after-operations,1062.0,1062.0,70.5042,SUCCESS,57.5542,Accepted,True,0,Medium
+count-the-number-of-beautiful-subarrays,114.0,114.0,53.7639,SUCCESS,36.5592,Accepted,True,1,Medium
+rearrange-array-to-maximize-prefix-score,1071.0,1071.0,67.9084,SUCCESS,60.7451,Accepted,True,0,Medium
+count-ways-to-group-overlapping-ranges,32.0,32.0,30.058,SUCCESS,10.9827,Accepted,True,0,Medium
+count-total-number-of-colored-cells,94.0,94.0,100,SUCCESS,33.1353,Accepted,True,0,Medium
+kth-largest-sum-in-a-binary-tree,51.0,51.0,92.9121,SUCCESS,43.1433,Accepted,True,1,Medium
+disconnect-path-in-a-binary-matrix-by-at-most-one-flip,55.0,55.0,87.8049,SUCCESS,81.301,Accepted,True,1,Medium
+maximum-number-of-integers-to-choose-from-a-range-i,208.0,208.0,85.3551,SUCCESS,5.0296,Accepted,True,1,Medium
+maximum-subsequence-score,28.0,28.0,35.4399,SUCCESS,86.3186,Accepted,True,0,Medium
+apply-bitwise-operations-to-make-strings-equal,71.0,71.0,100,SUCCESS,12.6985,Accepted,True,0,Medium
+sort-the-students-by-their-kth-score,33.0,33.0,100,SUCCESS,84.2976,Accepted,True,1,Medium
+minimize-the-maximum-of-two-arrays,63.0,63.0,100,SUCCESS,66.6667,Accepted,True,0,Medium
+count-the-number-of-good-subarrays,41.0,41.0,70.7684,SUCCESS,93.786,Accepted,True,0,Medium
+find-xor-beauty-of-array,32.0,32.0,65.4618,SUCCESS,59.0362,Accepted,True,0,Medium
+find-consecutive-integers-from-a-data-stream,38.0,38.0,89.0108,SUCCESS,6.3183,Accepted,True,1,Medium
+maximal-score-after-applying-k-operations,40.0,40.0,15.751,SUCCESS,29.6704,Accepted,True,1,Medium
+make-number-of-distinct-characters-equal,99.0,99.0,32.5306,SUCCESS,59.0361,Accepted,True,0,Medium
+closest-prime-numbers-in-range,68.0,68.0,16.1327,SUCCESS,87.1401,Accepted,True,1,Medium
+distinct-prime-factors-of-product-of-array,81.0,81.0,90.345,SUCCESS,90.3448,Accepted,True,1,Medium
+difference-between-ones-and-zeros-in-row-and-column,85.0,85.0,33.4737,SUCCESS,68.6197,Accepted,True,1,Medium
+minimum-operations-to-make-array-equal-ii,68.0,68.0,94.3182,SUCCESS,95.4545,Accepted,True,0,Medium
+reward-top-k-students,30.0,30.0,54.4247,SUCCESS,68.1417,Accepted,True,1,Medium
+maximum-tastiness-of-candy-basket,40.0,40.0,47.7342,SUCCESS,78.3919,Accepted,True,0,Medium
+smallest-value-after-replacing-with-sum-of-prime-factors,209.0,209.0,100,SUCCESS,35.4037,Accepted,True,0,Medium
+frog-jump-ii,34.0,34.0,65.0976,SUCCESS,47.0589,Accepted,True,0,Medium
+maximum-star-sum-of-a-graph,25.0,25.0,85.849,SUCCESS,51.4149,Accepted,True,0,Medium
+design-memory-allocator,109.0,109.0,23.2312,SUCCESS,29.4051,Accepted,True,0,Medium
+longest-square-streak-in-an-array,92.0,92.0,64.5555,SUCCESS,55.3795,Accepted,True,0,Medium
+minimum-score-of-a-path-between-two-cities,43.0,43.0,82.7734,SUCCESS,75.7659,Accepted,True,0,Medium
+divide-players-into-teams-of-equal-skill,89.0,89.0,80.1652,SUCCESS,13.6954,Accepted,True,0,Medium
+minimum-penalty-for-a-shop,42.0,42.0,30.2923,SUCCESS,12.0389,Accepted,True,0,Medium
+remove-nodes-from-linked-list,32.0,32.0,65.1928,SUCCESS,45.7394,Accepted,True,0,Medium
+append-characters-to-string-to-make-subsequence,86.0,86.0,90.3382,SUCCESS,20.2899,Accepted,True,1,Medium
+minimum-fuel-cost-to-report-to-the-capital,131.0,131.0,6.8911,SUCCESS,5.03,Accepted,True,0,Medium
+closest-nodes-queries-in-a-binary-search-tree,35.0,35.0,15.177,SUCCESS,85.095,Accepted,True,1,Medium
+count-ways-to-build-good-strings,36.0,36.0,67.7021,SUCCESS,83.0188,Accepted,True,0,Medium
+minimum-number-of-operations-to-sort-a-binary-tree-by-level,146.0,146.0,50.5088,SUCCESS,16.0894,Accepted,True,0,Medium
+number-of-subarrays-with-lcm-equal-to-k,102.0,102.0,83.8707,SUCCESS,29.0323,Accepted,True,1,Medium
+maximum-sum-of-distinct-subarrays-with-length-k,93.0,93.0,35.0124,SUCCESS,63.1607,Accepted,True,0,Medium
+words-within-two-edits-of-dictionary,33.0,33.0,98.6207,SUCCESS,57.9311,Accepted,True,1,Medium
+destroy-sequential-targets,45.0,45.0,71.9624,SUCCESS,26.1679,Accepted,True,1,Medium
+number-of-subarrays-with-gcd-equal-to-k,87.0,87.0,80.3799,SUCCESS,56.9619,Accepted,True,1,Medium
+minimum-addition-to-make-integer-beautiful,92.0,92.0,100,SUCCESS,16.279,Accepted,True,0,Medium
+most-popular-video-creator,86.0,86.0,15.1774,SUCCESS,23.2135,Accepted,True,0,Medium
+sum-of-number-and-its-reverse,258.0,258.0,58.5118,SUCCESS,79.2554,Accepted,True,1,Medium
+bitwise-xor-of-all-pairings,42.0,42.0,36.1306,SUCCESS,31.7017,Accepted,True,1,Medium
+minimize-maximum-of-array,68.0,68.0,48.2681,SUCCESS,97.2773,Accepted,True,0,Medium
+range-product-queries-of-powers,70.0,70.0,13.8882,SUCCESS,84.7221,Accepted,True,0,Medium
+find-the-original-array-of-prefix-xor,46.0,46.0,84.6045,SUCCESS,65.4645,Accepted,True,0,Medium
+longest-uploaded-prefix,24.0,24.0,85.714,SUCCESS,12.8568,Accepted,True,0,Medium
+partition-string-into-substrings-with-values-at-most-k,56.0,56.0,75.7352,SUCCESS,33.8235,Accepted,True,0,Medium
+minimize-xor,280.0,280.0,100,SUCCESS,62.2785,Accepted,True,0,Medium
+maximum-sum-of-an-hourglass,41.0,41.0,81.3665,SUCCESS,20.4969,Accepted,True,1,Medium
+find-all-good-indices,68.0,68.0,65.5399,SUCCESS,37.8372,Accepted,True,0,Medium
+longest-subarray-with-maximum-bitwise-and,52.0,52.0,65.625,SUCCESS,34.375,Accepted,True,0,Medium
+smallest-subarrays-with-maximum-bitwise-or,59.0,59.0,65.854,SUCCESS,75.6098,Accepted,True,0,Medium
+maximum-matching-of-players-with-trainers,35.0,35.0,53.0748,SUCCESS,62.8342,Accepted,True,1,Medium
+reverse-odd-levels-of-binary-tree,57.0,57.0,86.8746,SUCCESS,55.0451,Accepted,True,0,Medium
+length-of-the-longest-alphabetical-continuous-substring,123.0,123.0,85.4613,SUCCESS,27.305,Accepted,True,1,Medium
+optimal-partition-of-string,62.0,62.0,89.4223,SUCCESS,84.9628,Accepted,True,0,Medium
+collect-coins-in-a-tree,4986.0,4986.0,87.1562,SUCCESS,93.578,Accepted,True,0,Hard
+rearranging-fruits,40.0,40.0,72.0928,SUCCESS,76.7441,Accepted,True,0,Hard
+count-increasing-quadruplets,121.0,121.0,14.2864,SUCCESS,5.3575,Accepted,True,1,Hard
+minimum-time-to-complete-all-tasks,1059.0,1059.0,42.633,SUCCESS,54.2105,Accepted,True,0,Hard
+count-number-of-possible-root-nodes,51.0,51.0,85.8401,SUCCESS,83.1854,Accepted,True,0,Hard
+number-of-ways-to-earn-points,63.0,63.0,40.9648,SUCCESS,97.5904,Accepted,True,0,Hard
+split-the-array-to-make-coprime-products,75.0,75.0,5.1763,SUCCESS,22.0973,Accepted,True,0,Hard
+check-if-point-is-reachable,60.0,60.0,100,SUCCESS,22.5226,Accepted,True,0,Hard
+minimum-cost-to-split-an-array,59.0,59.0,77.2711,SUCCESS,84.3433,Accepted,True,0,Hard
+difference-between-maximum-and-minimum-price-sum,58.0,58.0,68.9655,SUCCESS,65.5171,Accepted,True,0,Hard
+count-anagrams,41.0,41.0,58.0187,SUCCESS,51.415,Accepted,True,0,Hard
+number-of-great-partitions,46.0,46.0,83.3335,SUCCESS,96.6667,Accepted,True,0,Hard
+cycle-length-queries-in-a-tree,27.0,27.0,39.3049,SUCCESS,43.2837,Accepted,True,0,Hard
+add-edges-to-make-degrees-of-all-nodes-even,52.0,52.0,26.8399,SUCCESS,90.0433,Accepted,True,0,Hard
+minimum-total-cost-to-make-arrays-unequal,104.0,104.0,74.6032,SUCCESS,33.3334,Accepted,True,0,Hard
+maximum-number-of-points-from-grid-queries,22.0,22.0,84.1169,SUCCESS,75.839,Accepted,True,0,Hard
+divide-nodes-into-the-maximum-number-of-groups,57.0,57.0,20.1378,SUCCESS,66.9967,Accepted,True,0,Hard
+count-palindromic-subsequences,63.0,63.0,36.4987,SUCCESS,18.4922,Accepted,True,0,Hard
+count-subarrays-with-median-k,45.0,45.0,95.8113,SUCCESS,46.5967,Accepted,True,0,Hard
+next-greater-element-iv,51.0,51.0,85.1283,SUCCESS,63.59,Accepted,True,0,Hard
+minimum-number-of-operations-to-make-arrays-similar,32.0,32.0,79.5701,SUCCESS,58.6022,Accepted,True,0,Hard
+minimum-cost-to-make-array-equal,48.0,48.0,89.3835,SUCCESS,64.041,Accepted,True,0,Hard
+create-components-with-same-value,43.0,43.0,5.6346,SUCCESS,100.0,Accepted,True,0,Hard
+paths-in-matrix-whose-sum-is-divisible-by-k,88.0,88.0,44.2541,SUCCESS,67.8163,Accepted,True,0,Hard
+number-of-pairs-satisfying-inequality,61.0,61.0,93.9999,SUCCESS,92.6667,Accepted,True,1,Hard
+maximum-deletions-on-a-string,129.0,129.0,63.8291,SUCCESS,85.1063,Accepted,True,0,Hard
+number-of-good-paths,134.0,134.0,40.1353,SUCCESS,78.9114,Accepted,True,0,Hard
+minimum-money-required-before-transactions,56.0,56.0,70.9678,SUCCESS,54.8388,Accepted,True,0,Hard
+sum-of-prefix-scores-of-strings,38.0,38.0,25.3375,SUCCESS,10.4066,Accepted,True,1,Hard
+meeting-rooms-iii,81.0,81.0,75.4642,SUCCESS,67.6809,Accepted,True,0,Hard
+build-a-matrix-with-conditions,53.0,53.0,68.9903,SUCCESS,87.0192,Accepted,True,0,Hard
+count-special-integers,120.0,120.0,100,SUCCESS,81.1881,Accepted,True,1,Hard
+minimum-replacements-to-sort-the-array,47.0,47.0,63.2074,SUCCESS,74.5282,Accepted,True,0,Hard
+maximum-number-of-robots-within-budget,82.0,82.0,69.061,SUCCESS,48.7623,Accepted,True,1,Hard
+longest-cycle-in-a-graph,81.0,81.0,91.3719,SUCCESS,76.3279,Accepted,True,0,Hard
+shortest-impossible-sequence-of-rolls,65.0,65.0,45.4546,SUCCESS,58.4416,Accepted,True,0,Hard
+minimum-deletions-to-make-array-divisible,49.0,49.0,34.0785,SUCCESS,80.4469,Accepted,True,0,Hard
+subarray-with-elements-greater-than-varying-threshold,68.0,68.0,48.2131,SUCCESS,69.6427,Accepted,True,0,Hard
+count-the-number-of-ideal-arrays,47.0,47.0,47.0484,SUCCESS,18.2068,Accepted,True,0,Hard
+minimum-score-after-removals-on-a-tree,65.0,65.0,73.5292,SUCCESS,94.1176,Accepted,True,0,Hard
+count-subarrays-with-score-less-than-k,167.0,167.0,54.8388,SUCCESS,89.2298,Accepted,True,0,Hard
+match-substring-after-replacement,116.0,116.0,37.0784,SUCCESS,41.573,Accepted,True,0,Hard
+naming-a-company,89.0,89.0,81.4434,SUCCESS,36.0823,Accepted,True,0,Hard
+design-a-text-editor,45.0,45.0,63.7865,SUCCESS,29.2059,Accepted,True,0,Hard
+booking-concert-tickets-in-groups,97.0,97.0,49.9996,SUCCESS,67.4417,Accepted,True,1,Hard
+sum-of-total-strength-of-wizards,82.0,82.0,31.6374,SUCCESS,79.6612,Accepted,True,0,Hard
+longest-path-with-different-adjacent-characters,142.0,142.0,94.898,SUCCESS,86.2246,Accepted,True,0,Hard
+count-integers-in-intervals,73.0,73.0,99.7076,SUCCESS,57.8945,Accepted,True,1,Hard
+maximum-score-of-a-node-sequence,75.0,75.0,91.9117,SUCCESS,30.1466,Accepted,True,0,Hard
+total-appeal-of-a-string,77.0,77.0,82.38,SUCCESS,21.5104,Accepted,True,1,Hard
+number-of-flowers-in-full-bloom,53.0,53.0,93.4153,SUCCESS,78.5603,Accepted,True,0,Hard
+sum-of-scores-of-built-strings,150.0,150.0,76.6234,SUCCESS,93.5065,Accepted,True,0,Hard
+longest-substring-of-one-repeating-character,57.0,57.0,78.049,SUCCESS,36.5858,Accepted,True,0,Hard
+minimum-white-tiles-after-covering-with-carpets,2706.0,2706.0,91.5792,SUCCESS,71.5789,Accepted,True,0,Hard
+replace-non-coprime-numbers-in-array,71.0,71.0,69.565,SUCCESS,94.2028,Accepted,True,1,Hard
+count-array-pairs-divisible-by-k,115.0,115.0,70.1287,SUCCESS,87.0129,Accepted,True,0,Hard
+minimum-time-to-finish-the-race,58.0,58.0,88.5253,SUCCESS,87.4318,Accepted,True,0,Hard
+maximum-and-sum-of-array,84.0,84.0,9.091,SUCCESS,84.4156,Accepted,True,0,Hard
+minimum-time-to-remove-all-cars-containing-illegal-goods,89.0,89.0,35.1352,SUCCESS,21.6217,Accepted,True,0,Hard
+maximum-good-people-based-on-statements,91.0,91.0,25.9242,SUCCESS,55.5554,Accepted,True,0,Hard
+minimum-difference-in-sums-after-removal-of-elements,110.0,110.0,56.9589,SUCCESS,77.5315,Accepted,True,0,Hard
+maximum-running-time-of-n-computers,52.0,52.0,11.1889,SUCCESS,54.5455,Accepted,True,0,Hard
+earliest-possible-day-of-full-bloom,185.0,185.0,96.3856,SUCCESS,72.8917,Accepted,True,0,Hard
+number-of-ways-to-divide-a-long-corridor,248.0,248.0,70.8865,SUCCESS,32.9115,Accepted,True,0,Hard
+maximum-employees-to-be-invited-to-a-meeting,99.0,99.0,45.2166,SUCCESS,21.3033,Accepted,True,0,Hard
+recover-the-original-array,110.0,110.0,23.8622,SUCCESS,52.2726,Accepted,True,0,Hard
+minimum-operations-to-make-the-array-k-increasing,90.0,90.0,57.9704,SUCCESS,20.2895,Accepted,True,0,Hard
+find-all-people-with-secret,56.0,56.0,72.3925,SUCCESS,69.325,Accepted,True,0,Hard
+valid-arrangement-of-pairs,40.0,40.0,75.4624,SUCCESS,93.9812,Accepted,True,0,Hard
+stamping-the-grid,77.0,77.0,92.4052,SUCCESS,32.9123,Accepted,True,0,Hard
+maximum-path-quality-of-a-graph,62.0,62.0,81.4389,SUCCESS,54.1666,Accepted,True,0,Hard
+check-if-an-original-string-exists-given-two-encoded-strings,215.0,215.0,35.2517,SUCCESS,65.4231,Accepted,True,0,Hard
+parallel-courses-iii,42.0,42.0,98.5469,SUCCESS,93.8461,Accepted,True,0,Hard
+second-minimum-time-to-reach-destination,77.0,77.0,32.9211,SUCCESS,43.4782,Accepted,True,0,Hard
+partition-array-into-two-arrays-to-minimize-sum-difference,201.0,201.0,20.8311,SUCCESS,56.9794,Accepted,True,0,Hard
+smallest-k-length-subsequence-with-occurrences-of-a-letter,152.0,152.0,89.2858,SUCCESS,73.2142,Accepted,True,0,Hard
+the-score-of-students-solving-math-expression,274.0,274.0,31.708,SUCCESS,78.0488,Accepted,True,0,Hard
+smallest-missing-genetic-value-in-each-subtree,68.0,68.0,90.9091,SUCCESS,86.3637,Accepted,True,0,Hard
+gcd-sort-of-an-array,91.0,91.0,77.9663,SUCCESS,77.9663,Accepted,True,1,Hard
+number-of-unique-good-subsequences,69.0,69.0,82.2786,SUCCESS,62.0253,Accepted,True,0,Hard
+the-number-of-good-subsets,92.0,92.0,53.8457,SUCCESS,69.2307,Accepted,True,0,Hard
+last-day-where-you-can-still-cross,118.0,118.0,33.25,SUCCESS,66.75,Accepted,True,0,Hard
+find-the-longest-valid-obstacle-course-at-each-position,78.0,78.0,50.9711,SUCCESS,64.5634,Accepted,True,0,Hard
+count-number-of-special-subsequences,99.0,99.0,100,SUCCESS,62.7119,Accepted,True,1,Hard
+delete-duplicate-folders-in-system,108.0,108.0,93.2584,SUCCESS,58.4268,Accepted,True,0,Hard
+maximum-genetic-difference-query,59.0,59.0,82.927,SUCCESS,92.683,Accepted,True,0,Hard
+painting-a-grid-with-three-different-colors,84.0,84.0,26.5343,SUCCESS,82.0956,Accepted,True,0,Hard
+merge-bsts-to-create-single-bst,475.0,475.0,98.1308,SUCCESS,82.2429,Accepted,True,0,Hard
+minimum-space-wasted-from-packaging,42.0,42.0,48.052,SUCCESS,11.6884,Accepted,True,0,Hard
+minimum-cost-to-change-the-final-value-of-expression,70.0,70.0,78.5716,SUCCESS,96.4286,Accepted,True,0,Hard
+stone-game-viii,78.0,78.0,47.7277,SUCCESS,93.1819,Accepted,True,1,Hard
+minimum-xor-sum-of-two-arrays,64.0,64.0,89.9999,SUCCESS,87.1428,Accepted,True,1,Hard
+maximum-building-height,50.0,50.0,82.2224,SUCCESS,91.1111,Accepted,True,0,Hard
+find-xor-sum-of-all-pairs-bitwise-and,84.0,84.0,67.5673,SUCCESS,97.2972,Accepted,True,1,Hard
+closest-room,43.0,43.0,93.4783,SUCCESS,58.6957,Accepted,True,0,Hard
+number-of-different-subsequences-gcds,39.0,39.0,85.4169,SUCCESS,79.1668,Accepted,True,0,Hard
+maximize-number-of-nice-divisors,213.0,213.0,31.1111,SUCCESS,41.1111,Accepted,True,1,Hard
+maximum-score-of-a-good-subarray,73.0,73.0,56.5963,SUCCESS,47.5072,Accepted,True,1,Hard
+maximize-score-after-n-operations,77.0,77.0,83.4426,SUCCESS,41.0588,Accepted,True,1,Hard
+car-fleet-ii,85.0,85.0,72.3078,SUCCESS,76.1539,Accepted,True,1,Hard
+maximize-palindrome-length-from-subsequences,109.0,109.0,95.0821,SUCCESS,52.4594,Accepted,True,0,Hard
+count-pairs-of-nodes,63.0,63.0,78.9472,SUCCESS,64.9122,Accepted,True,0,Hard
+minimum-degree-of-a-connected-trio-in-a-graph,68.0,68.0,65.3544,SUCCESS,21.26,Accepted,True,0,Hard
+closest-subsequence-sum,74.0,74.0,83.116,SUCCESS,53.2458,Accepted,True,0,Hard
+building-boxes,86.0,86.0,100,SUCCESS,76.087,Accepted,True,0,Hard
+maximum-number-of-events-that-can-be-attended-ii,69.0,69.0,75.5404,SUCCESS,69.7848,Accepted,True,0,Hard
+count-ways-to-make-array-with-product,67.0,67.0,84.7677,SUCCESS,48.3443,Accepted,True,0,Hard
+minimum-operations-to-make-a-subsequence,82.0,82.0,89.0625,SUCCESS,35.9375,Accepted,True,1,Hard
+maximum-xor-with-an-element-from-array,67.0,67.0,91.3266,SUCCESS,40.3065,Accepted,True,1,Hard
+number-of-ways-to-reconstruct-a-tree,81.0,81.0,80.769,SUCCESS,84.6153,Accepted,True,0,Hard
+minimize-deviation-in-array,76.0,76.0,67.1225,SUCCESS,68.4931,Accepted,True,1,Hard
+create-sorted-array-through-instructions,65.0,65.0,27.5726,SUCCESS,61.6217,Accepted,True,1,Hard
+minimum-number-of-removals-to-make-mountain-array,91.0,91.0,39.9028,SUCCESS,80.7692,Accepted,True,0,Hard
+distribute-repeating-integers,109.0,109.0,42.2519,SUCCESS,76.0562,Accepted,True,0,Hard
+count-subtrees-with-max-distance-between-cities,31.0,31.0,31.2473,SUCCESS,85.7142,Accepted,True,1,Hard
+maximum-number-of-visible-points,119.0,119.0,96.3852,SUCCESS,57.1083,Accepted,True,0,Hard
+minimum-one-bit-operations-to-make-integers-zero,308.0,308.0,100,SUCCESS,24.6574,Accepted,True,1,Hard
+fancy-sequence,107.0,107.0,67.742,SUCCESS,100.0,Accepted,True,0,Hard
+cat-and-mouse-ii,180.0,180.0,15.1502,SUCCESS,22.7266,Accepted,True,0,Hard
+maximum-number-of-achievable-transfer-requests,117.0,117.0,44.6174,SUCCESS,72.3077,Accepted,True,0,Hard
+check-if-string-is-transformable-with-substring-sort-operations,138.0,138.0,39.3163,SUCCESS,57.265,Accepted,True,0,Hard
+strange-printer-ii,153.0,153.0,67.3765,SUCCESS,5.6737,Accepted,True,0,Hard
+number-of-ways-to-reorder-array-to-get-same-bst,161.0,161.0,74.4184,SUCCESS,88.372,Accepted,True,0,Hard
+minimum-number-of-days-to-disconnect-island,104.0,104.0,68.3459,SUCCESS,75.5396,Accepted,True,0,Hard
+count-all-possible-routes,109.0,109.0,80.0007,SUCCESS,88.3334,Accepted,True,1,Hard
+find-longest-awesome-substring,153.0,153.0,72.4143,SUCCESS,96.5517,Accepted,True,1,Hard
+get-the-maximum-score,82.0,82.0,95.2381,SUCCESS,38.0951,Accepted,True,1,Hard
+maximum-number-of-non-overlapping-substrings,285.0,285.0,7.6474,SUCCESS,97.4522,Accepted,True,1,Hard
+best-position-for-a-service-centre,56.0,56.0,18.936,SUCCESS,100.0,Accepted,True,1,Hard
+minimum-number-of-increments-on-subarrays-to-form-a-target-array,129.0,129.0,86.6346,SUCCESS,31.4009,Accepted,True,1,Hard
+minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits,50.0,50.0,84.2104,SUCCESS,21.0524,Accepted,True,0,Hard
+stone-game-iv,72.0,72.0,71.7262,SUCCESS,87.958,Accepted,True,1,Hard
+find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree,66.0,66.0,76.3644,SUCCESS,41.0909,Accepted,True,0,Hard
+maximum-number-of-darts-inside-of-a-circular-dartboard,65.0,65.0,34.0899,SUCCESS,79.5454,Accepted,True,0,Hard
+cherry-pickup-ii,59.0,59.0,81.5256,SUCCESS,75.5726,Accepted,True,0,Hard
+number-of-ways-of-cutting-a-pizza,54.0,54.0,72.4837,SUCCESS,89.9329,Accepted,True,1,Hard
+find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows,72.0,72.0,71.7949,SUCCESS,32.8205,Accepted,True,0,Hard
+form-largest-integer-with-digits-that-add-up-to-target,96.0,96.0,97.9592,SUCCESS,92.8572,Accepted,True,0,Hard
+build-array-where-you-can-find-the-maximum-exactly-k-comparisons,31.0,31.0,33.3315,SUCCESS,71.2118,Accepted,True,1,Hard
+number-of-ways-to-wear-different-hats-to-each-other,65.0,65.0,91.2088,SUCCESS,97.8022,Accepted,True,1,Hard
+number-of-ways-to-paint-n-3-grid,50.0,50.0,88.5351,SUCCESS,59.0235,Accepted,True,0,Hard
+restore-the-array,86.0,86.0,90.8337,SUCCESS,65.8335,Accepted,True,1,Hard
+number-of-excellent-pairs,,,51.92,,5.57,Accepted,True,0,Hard
+number-of-increasing-paths-in-a-grid,,,68.58,,77.43,Accepted,True,0,Hard
+number-of-distinct-roll-sequences,,,81.71,,63.41,Accepted,True,0,Hard
+minimum-obstacle-removal-to-reach-corner,,,"68,64",,77.06,Accepted,True,0,Hard
+substring-with-largest-variance,,,16.02,,16.45,Accepted,True,1,Hard
+check-if-there-is-a-valid-parentheses-string-path,,,98.75,,75.0,Accepted,True,0,Hard
+escape-the-spreading-fire,,,6.39,,75.58,Accepted,True,0,Hard
+minimum-weighted-subgraph-with-the-required-paths,,,77.45,,82.63,Accepted,True,0,Hard
+find-substring-with-given-hash-value,,,72.94,,94.12,Accepted,True,0,Hard
+process-restricted-friend-requests,,,66.42,,74.63,Accepted,True,0,Hard
+count-fertile-pyramids-in-a-land,,,73.08,,47.44,Accepted,True,0,Hard
+longest-subsequence-repeated-k-times,,,,,,Time Limit Exceeded,True,0,Hard
+minimum-number-of-operations-to-make-array-continuous,,,77.29,,16.16,Accepted,True,0,Hard
+number-of-ways-to-rearrange-sticks-with-k-sticks-visible,,,62.34,,64.94,Accepted,True,1,Hard
+largest-color-value-in-a-directed-graph,,,82.37,,86.16,Accepted,True,1,Hard
+minimum-interval-to-include-each-query,,,34.44,,33.4,Accepted,True,0,Hard
+minimum-number-of-operations-to-make-string-sorted,,,70.83,,91.67,Accepted,True,0,Hard
+make-the-xor-of-all-segments-equal-to-zero,,,9.52,,33.33,Accepted,True,0,Hard
+count-pairs-with-xor-in-a-range,,,87.88,,69.7,Accepted,True,1,Hard
+maximum-score-from-performing-multiplication-operations,,,84.44,,84.44,Accepted,True,1,Hard
+palindrome-partitioning-iv,,,72.31,,46.05,Accepted,True,1,Hard
+find-minimum-time-to-finish-all-jobs,,,19.58,,54.21,Accepted,True,1,Hard
+checking-existence-of-edge-length-limited-paths,,,87.33,,30.0,Accepted,True,0,Hard
+minimum-incompatibility,,,,,,Wrong Answer,True,1,Hard
+delivering-boxes-from-storage-to-ports,,,63.16,,64.91,Accepted,True,0,Hard
+maximize-grid-happiness,,,,,,Runtime Error,True,0,Hard
+number-of-ways-to-form-a-target-string-given-a-dictionary,,,48.57,,64.29,Accepted,True,0,Hard
+minimum-cost-to-connect-two-groups-of-points,,,,,,Wrong Answer,True,0,Hard
+remove-max-number-of-edges-to-keep-graph-fully-traversable,,,46.29,,89.71,Accepted,True,0,Hard
+minimum-cost-to-cut-a-stick,,,81.27,,62.99,Accepted,True,1,Hard
+find-a-value-of-a-mysterious-function-closest-to-target,,,87.93,,75.86,Accepted,True,1,Hard
+string-compression-ii,,,5.08,,30.51,Accepted,True,0,Hard
+max-value-of-equation,,,80.5,,23.65,Accepted,True,1,Hard
+paint-house-iii,,,,,,Wrong Answer,True,0,Hard
+allocate-mailboxes,,,70.71,,77.27,Accepted,True,0,Hard
+max-dot-product-of-two-subsequences,,,75.48,,63.23,Accepted,True,1,Hard
+stone-game-iii,,,65.21,,86.13,Accepted,True,1,Hard
+maximum-difference-by-remapping-a-digit,,,6.44,,76.24,Accepted,True,0,Easy
+split-with-minimum-sum,,,100,,18.44,Accepted,True,1,Easy
+odd-string-difference,,,100,,69.52,Accepted,True,0,Easy
+determine-if-two-events-have-conflict,,,100,,81.23,Accepted,True,0,Easy
+sort-the-people,,,80.96,,75.21,Accepted,True,1,Easy
+strong-password-checker-ii,,,19.67,,30.16,Accepted,True,1,Easy
+percentage-of-letter-in-string,,,3.48,,68.24,Accepted,True,1,Easy
+largest-number-after-digit-swaps-by-parity,,,16.04,,70.0,Accepted,True,1,Easy
+cells-in-a-range-on-an-excel-sheet,,,9.15,,63.72,Accepted,True,0,Easy
+keep-multiplying-found-values-by-two,,,100,,36.57,Accepted,True,1,Easy
+minimum-cost-of-buying-candies-with-discount,,,100,,63.13,Accepted,True,0,Easy
+check-if-all-as-appears-before-all-bs,,,100,,75.4,Accepted,True,0,Easy
+check-whether-two-strings-are-almost-equivalent,,,100,,90.23,Accepted,True,0,Easy
+minimum-number-of-moves-to-seat-everyone,,,16.8,,74.76,Accepted,True,1,Easy
+minimum-difference-between-highest-and-lowest-of-k-scores,,,90.56,,65.05,Accepted,True,1,Easy
+minimum-time-to-type-word-using-special-typewriter,,,100,,55.44,Accepted,True,1,Easy
+sum-of-digits-of-string-after-convert,,,24.89,,14.55,Accepted,True,1,Easy
+largest-odd-number-in-string,,,89.63,,20.55,Accepted,True,1,Easy
+check-if-word-equals-summation-of-two-words,,,100,,11.4,Accepted,True,1,Easy
+minimum-distance-to-the-target-element,,,100,,65.6,Accepted,True,1,Easy
+sorting-the-sentence,,,74.41,,69.06,Accepted,True,1,Easy
+replace-all-digits-with-characters,,,100,,34.36,Accepted,True,1,Easy
+determine-color-of-a-chessboard-square,,,100,,16.67,Accepted,True,1,Easy
+check-if-binary-string-has-at-most-one-segment-of-ones,,,100,,7.42,Accepted,True,1,Easy
+find-nearest-point-that-has-the-same-x-or-y-coordinate,,,31.31,,93.13,Accepted,True,1,Easy
+check-if-two-string-arrays-are-equivalent,,,100,,63.88,Accepted,True,1,Easy
+sort-array-by-increasing-frequency,,,71.22,,30.06,Accepted,True,1,Easy
+check-knight-tour-configuration,,,100,,93.27,Accepted,True,0,Medium
+total-cost-to-hire-k-workers,,,14.1,,19.64,Accepted,True,0,Medium
+count-number-of-distinct-integers-after-reverse-operations,,,70.51,,93.13,Accepted,True,1,Medium
+using-a-robot-to-print-the-lexicographically-smallest-string,,,7.93,,71.99,Accepted,True,0,Medium
+divide-intervals-into-minimum-number-of-groups,,,61.49,,92.24,Accepted,True,0,Medium
+minimum-time-to-visit-a-cell-in-a-grid,,,59.01,,52.87,Accepted,True,1,Hard
+find-the-string-with-lcp,,,,,,Wrong Answer,True,0,Hard
+minimum-number-of-visited-cells-in-a-grid,,,,,,Wrong Answer,True,0,Hard
+put-marbles-in-bags,,,76.58,,35.1,Accepted,True,0,Hard
+shortest-cycle-in-a-graph,,,83.16,,25.81,Accepted,True,0,Hard
+time-to-cross-a-bridge,,,57.41,,94.44,Accepted,True,0,Hard
+minimum-total-distance-traveled,,,88.28,,85.52,Accepted,True,0,Hard
+count-subarrays-with-fixed-bounds,,,95.54,,46.48,Accepted,True,0,Hard

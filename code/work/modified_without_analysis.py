@@ -144,7 +144,6 @@ def process_problems(input_filename, output_filename, target_cols, keep_cols):
                                             if not line.strip().startswith('#')
                                             and not line.strip().startswith('"""')])
 
-                    # 验证生成的代码
                     if not validate_generated_code(clean_code):
                         error_msg = f"the code do not have same '{function_name}' or function name is not correct"
                         raise ValueError(error_msg)

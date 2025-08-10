@@ -31,10 +31,10 @@ PYLINT_DISABLE = [
     'unnecessary-semicolon',  # W0301
 
     # format check
-    'undefined-variable',  # E0602 (允许动态类型)
+    'undefined-variable',  # E0602
     'no-member',  # E1101
-    'unused-argument',  # W0613 (接口需要保留参数)
-    'unused-variable',  # W0612 (调试时可能需要)
+    'unused-argument',  # W0613
+    'unused-variable',  # W0612
 
     # others
     'consider-using-enumerate',  # R1721
@@ -84,7 +84,6 @@ def analyze_csv_column(csv_path, column_index=9, output_csv='pylint_compare.csv'
             next(reader)
             processed_ids = {row[0] for row in reader if row}
 
-    # 增量处理新行
     with open(csv_path, 'r', encoding='utf-8') as input_file:
         reader = csv.reader(input_file)
         headers = next(reader)

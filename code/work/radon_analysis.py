@@ -76,7 +76,7 @@ def analyzecsv(csv_path, column_index=9, output_csv='radon_results.csv'):
             next(reader)
             processed_ids = {row[0] for row in reader if row}
 
-    # 增量处理新行
+
     with open(csv_path, 'r', encoding='utf-8') as input_file:
         reader = csv.reader(input_file)
         headers = next(reader)
@@ -92,7 +92,7 @@ def analyzecsv(csv_path, column_index=9, output_csv='radon_results.csv'):
             raw_code = row[column_index]
             radon_results = randonanalyze(raw_code)
 
-            # 追加写入结果
+
             with open(output_csv, 'a', newline='', encoding='utf-8') as f:
                 writer = csv.writer(f)
                 writer.writerow([original_id, raw_code, radon_results])
@@ -134,7 +134,7 @@ def count_pylint_errors(csv_file):
     return error_counter
 
 
-# 使用示例
+
 error_counts = count_pylint_errors('pylintresult.csv')
 print("Mistaken calculate:")
 for error_code, count in error_counts.most_common():
@@ -154,7 +154,6 @@ from collections import defaultdict
 
 
 def analyze_metrics(csv_file):
-    # 初始化统计字典
     difficulty_stats = defaultdict(lambda: {
         'count': 0,
         'complexity_stats': {
@@ -178,13 +177,11 @@ def analyze_metrics(csv_file):
             try:
                 difficulty = row['difficulty_x']
 
-                # 解析radon数据
                 try:
                     radon_data = ast.literal_eval(row['radon'])
                 except (SyntaxError, ValueError):
                     continue
 
-                # 计算圈复杂度指标
                 if 'cyclomatic_complexity' in radon_data:
                     complexities = [item['complexity'] for item in radon_data['cyclomatic_complexity']]
                     max_complexity = max(complexities) if complexities else 0
@@ -193,20 +190,16 @@ def analyze_metrics(csv_file):
                     max_complexity = 0
                     avg_complexity = 0
 
-                # 获取可维护性指数
                 maintainability = radon_data.get('maintainability_index', 0)
 
-                # 更新统计信息
                 stats = difficulty_stats[difficulty]
                 stats['count'] += 1
 
-                # 更新圈复杂度统计
                 stats['complexity_stats']['total'] += avg_complexity
                 stats['complexity_stats']['max'] = max(stats['complexity_stats']['max'], max_complexity)
                 stats['complexity_stats']['min'] = min(stats['complexity_stats']['min'], max_complexity)
                 stats['complexity_stats']['values'].append(max_complexity)
 
-                # 更新可维护性指数统计
                 stats['maintainability_stats']['total'] += maintainability
                 stats['maintainability_stats']['max'] = max(stats['maintainability_stats']['max'], maintainability)
                 stats['maintainability_stats']['min'] = min(stats['maintainability_stats']['min'], maintainability)
@@ -216,16 +209,13 @@ def analyze_metrics(csv_file):
                 print(f"Error processing row: {e}")
                 continue
 
-    # 计算统计指标
     results = []
     for difficulty, stats in difficulty_stats.items():
         if stats['count'] > 0:
-            # 圈复杂度统计
             avg_complexity = stats['complexity_stats']['total'] / stats['count']
             median_complexity = sorted(stats['complexity_stats']['values'])[
                 len(stats['complexity_stats']['values']) // 2]
 
-            # 可维护性指数统计
             avg_maintainability = stats['maintainability_stats']['total'] / stats['count']
             median_maintainability = sorted(stats['maintainability_stats']['values'])[
                 len(stats['maintainability_stats']['values']) // 2]
@@ -251,24 +241,24 @@ def analyze_metrics(csv_file):
 
 
 def print_results(results):
-    print("\n不同难度下的代码指标统计结果:")
+    print("\nthe result of MI and CC in different difficulty:")
     print("=" * 80)
     for r in results:
-        print(f"\n难度级别: {r['difficulty']} (样本数: {r['count']})")
+        print(f"\ndifficulty: {r['difficulty']} (the number of data: {r['count']})")
         print("-" * 60)
-        print("圈复杂度(Cyclomatic Complexity):")
-        print(f"  平均值: {r['cyclomatic_complexity']['average']:.2f}")
-        print(f"  最大值: {r['cyclomatic_complexity']['max']}")
-        print(f"  最小值: {r['cyclomatic_complexity']['min']}")
+        print("Cyclomatic Complexity:")
+        print(f"  average: {r['cyclomatic_complexity']['average']:.2f}")
+        print(f"  max: {r['cyclomatic_complexity']['max']}")
+        print(f"  min: {r['cyclomatic_complexity']['min']}")
 
-        print("\n可维护性指数(Maintainability Index):")
-        print(f"  平均值: {r['maintainability_index']['average']:.2f}")
-        print(f"  最大值: {r['maintainability_index']['max']:.2f}")
-        print(f"  最小值: {r['maintainability_index']['min']:.2f}")
+        print("\n Maintainability Index:")
+        print(f"  average: {r['maintainability_index']['average']:.2f}")
+        print(f"  max: {r['maintainability_index']['max']:.2f}")
+        print(f"  min: {r['maintainability_index']['min']:.2f}")
     print("=" * 80)
 
 
 if __name__ == "__main__":
-    csv_file = "allfixresult.csv"  # 替换为你的CSV文件路径
+    csv_file = "allfixresult.csv"
     results = analyze_metrics(csv_file)
     print_results(results)

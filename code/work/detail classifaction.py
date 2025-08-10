@@ -32,7 +32,7 @@ def extract_content_and_code(row, row_num):
 
         return clean_content, python_code, difficulty
     except Exception as e:
-        print(f"解析第 {row_num} 行时出错: {str(e)}")
+        print(f" {row_num} error: {str(e)}")
         return None, None, None
 
 
@@ -72,12 +72,5 @@ if valid_rows:
         writer.writeheader()
         writer.writerows(valid_rows)
 
-print("\n===== 处理结果统计 =====")
-print(f"总处理行数: {stats['total_processed']}")
-print(f"有效记录数: {stats['saved_records']}")
-print("\n跳过记录统计（python_code为空）:")
-for diff, count in sorted(stats['skipped_no_code'].items()):
-    print(f"{diff}: {count}题")
-print("=" * 40)
 
-print(f"\n结果已保存到 {output_csv}")
+print(f"\n the result have already been saved to {output_csv}")

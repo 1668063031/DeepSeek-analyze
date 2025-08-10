@@ -6,6 +6,7 @@ import shutil
 
 
 def fetch_question(title_slug: str):
+
     url = "https://leetcode.com/graphql"
     headers = {"Content-Type": "application/json"}
     query = """

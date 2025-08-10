@@ -1,27 +1,13 @@
-import requests
-import time
-import textwrap
-import os
 import csv
+import os
 import time
-import math
 from openai import OpenAI
 
-import pandas as pd
+input_csv = "output_data.csv"
+output_csv = "fix_noanalysis.csv"
+target_columns = ["title", "content", "python_code"]
+keep_columns = ["slug", "title"]
 
-"""
-df1 = pd.read_csv('unperfect.csv')
-
-df2 = pd.read_csv('output_data.csv', usecols=['slug', 'content'])
-merged_df=pd.merge(df1, df2, left_on='slug', right_on='slug', how='left')
-
-merged_df.to_csv('fix_data.csv', index=False)
-print(merged_df.head())
-"""
-input_csv = "fix_data.csv"
-output_csv = "noanalysis_result.csv"
-target_columns = ["slug", "status_msg", "generated_code", "content"]
-keep_columns = ["slug", "content"]
 
 def validate_generated_code(code, expected_function_name):
     required = [
@@ -32,7 +18,6 @@ def validate_generated_code(code, expected_function_name):
 
 
 def init_output_file(output_filename, keep_cols):
-    """Initialize output file if not exists"""
     if not os.path.exists(output_filename):
         with open(output_filename, 'w', encoding='utf-8', newline='') as f:
             writer = csv.DictWriter(f, fieldnames=keep_cols + ["generated_code", "status", "error"])
@@ -40,7 +25,6 @@ def init_output_file(output_filename, keep_cols):
 
 
 def is_processed(output_filename, slug):
-    """Check if record already processed"""
     if not os.path.exists(output_filename):
         return False
     with open(output_filename, 'r', encoding='utf-8') as f:
@@ -48,74 +32,58 @@ def is_processed(output_filename, slug):
         return any(row["slug"] == slug and row["status"] in ["Y", "E"] for row in reader)
 
 
+def extract_function_name(code):
+    if not code or not isinstance(code, str):
+        return None
+    lines = code.split('\n')
+    for line in lines:
+        if line.strip().startswith('def '):
+            return line.split('def ')[1].split('(')[0].strip()
+    return None
 
 
 def process_problems(input_filename, output_filename, target_cols, keep_cols):
     client = OpenAI(
-        api_key="......",
+        api_key="sk-4f266e93e20c436d8b86e235ffb96065",
         base_url="https://api.deepseek.com"
     )
 
     init_output_file(output_filename, keep_cols)
 
-    with open(input_filename, 'r', encoding='utf-8', errors='replace') as infile:
+    with open(input_filename, 'r', encoding='utf-8') as infile:
         reader = csv.DictReader(infile)
 
         for i, row in enumerate(reader, 1):
             slug = row["slug"]
             if is_processed(output_filename, slug):
-                print(f"Skipping processed: {row['slug']}")
+                print(f"Skipping processed: {row['title']}")
                 continue
 
             problem_content = row.get("content", "")
-            original_code = row.get("generated_code", "")
-            problem = row.get("status_msg", "")
+            original_code = row.get("python_code", "")
+            function_name = extract_function_name(original_code) or "solution"
 
-            if problem == 'Accepted':
+            prompt = f"""
+            # LeetCode question: {row['title']}
+            # Description of the question:
+            {problem_content}
 
-               prompt = f"""Please optimize the time complexity of the following Python code. The current code is completely correct and do not need to be modified, but the computational time complexity needs to be reduced. Strictly maintain the original function/class names and parameter signatures. Return only the final code without any explanations.
-               # LeetCode 题目: {row['slug']}
-               # 题目描述:
-               {problem_content}
+            # original code (must keep function name and parameters unchanged):
+            {original_code}
 
-               # 原始代码 (必须保持函数名和参数不变):
-               {original_code}
+            # mission:
+            Based on the question description and original code to improve the code and must remember:
+            1. keep function name and parameters
+            2. keep '{function_name}' unchanged
+            3. keep same parameters name unchanged
+            4. only improve the achieve part of code
+            5. retun full code that can be execute without any comment
 
-               # 任务:
-               基于题目描述改进原始代码，但必须:
-               1. 保持类名 'Solution' 不变
-               2. 保持函数名不变
-               3. 保持完全相同的参数签名
-               4. 只改进代码实现部分
-               5. 返回完整的可执行Python代码，不要任何解释
-
-               # 注意:
-               - 不要添加额外的方法或函数
-               - 不要改变输入输出类型
-               - 不要添加示例或测试用例
-               """
-            elif problem == 'Wrong Answer':
-                prompt = f"""The code didn't passed, please modified it to make it passed. Strictly maintain the original function/class names and parameter signatures. Return only the final code without any explanations.
-                # LeetCode 题目: {row['slug']}
-                # 题目描述:
-                {problem_content}
-
-                # 原始代码 (必须保持函数名和参数不变):
-                {original_code}
-
-                # 任务:
-                基于题目描述改进原始代码，但必须:
-                1. 保持类名 'Solution' 不变
-                2. 保持函数名不变
-                3. 保持完全相同的参数签名
-                4. 只改进代码实现部分
-                5. 返回完整的可执行Python代码，不要任何解释
-
-                # 注意:
-                - 不要添加额外的方法或函数
-                - 不要改变输入输出类型
-                - 不要添加示例或测试用例
-                """
+            # Hint:
+            - do not add more function name and parameters
+            - do not change the type of input and output
+            - do not add test cases
+            """
 
             max_retries = 3
             retry_delay = 5
@@ -131,7 +99,6 @@ def process_problems(input_filename, output_filename, target_cols, keep_cols):
                             {
                                 "role": "system",
                                 "content": "You are a professional Python code optimization expert. You must strictly maintain the original function names, class names, and parameter signatures, and return only the complete code without any explanations."
-
                             },
                             {"role": "user", "content": prompt}
                         ],
@@ -145,18 +112,18 @@ def process_problems(input_filename, output_filename, target_cols, keep_cols):
                                             and not line.strip().startswith('"""')])
 
                     # 验证生成的代码
-                    if not validate_generated_code(clean_code):
-                        error_msg = f"生成的代码不包含预期函数名或类名不正确"
+                    if not validate_generated_code(clean_code, function_name):
+                        error_msg = f"the code do not have same '{function_name}' or function name is not correct"
                         raise ValueError(error_msg)
 
                     status = "Y"
-                    print(f"✅ Processed {i}: {row['slug']}")
+                    print(f"✅ Processed {i}: {row['title']}")
                     break
 
                 except Exception as e:
                     error_msg = str(e)
                     if attempt == max_retries - 1:
-                        print(f"❌ Failed after {max_retries} attempts on {row['slug']}: {error_msg}")
+                        print(f"❌ Failed after {max_retries} attempts on {row['title']}: {error_msg}")
                     else:
                         print(f"⚠️ Attempt {attempt + 1} failed, retrying...")
                         time.sleep(retry_delay * (attempt + 1))
@@ -165,14 +132,12 @@ def process_problems(input_filename, output_filename, target_cols, keep_cols):
                 writer = csv.DictWriter(outfile, fieldnames=keep_cols + ["generated_code", "status", "error"])
                 writer.writerow({
                     "slug": slug,
-                    "content": row["content"],
+                    "title": row["title"],
                     "generated_code": clean_code,
                     "status": status,
                     "error": error_msg if status == "E" else ""
                 })
 
 
-
 process_problems(input_csv, output_csv, target_columns, keep_columns)
 print("\nProcessing complete!")
-

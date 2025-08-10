@@ -19,6 +19,7 @@ print(merged_df.head())
 merged_df.to_csv('fix_result_withanalysis.csv', index=False)
 print(merged_df.head())
 """
+
 df1 = pd.read_csv('fix_result_withanalysis.csv')
 accept_ratio = (df1['result_analysis'] == 'Accepted').mean()
 print(f"'Accepted' proportion: {accept_ratio:.2%}")

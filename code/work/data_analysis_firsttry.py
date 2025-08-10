@@ -14,6 +14,7 @@ merged_df=pd.merge(df2_subset, df1, left_on='slug', right_on='slug', how='left')
 merged_df.to_csv('merged_file.csv', index=False)
 print(merged_df.head())
 """
+
 import math
 
 import pandas as pd

@@ -10,7 +10,7 @@ keep_columns = ["slug", "title"]
 
 
 def validate_generated_code(code, expected_function_name):
-    """验证生成的代码是否包含预期的方法名和类"""
+    """check the function name did  not change"""
     required = [
         f"def {expected_function_name}(",
         "class Solution:"
@@ -36,7 +36,7 @@ def is_processed(output_filename, slug):
 
 
 def extract_function_name(code):
-    """从现有代码中提取函数名"""
+    """extract function name"""
     if not code or not isinstance(code, str):
         return None
     lines = code.split('\n')
@@ -113,9 +113,8 @@ def process_problems(input_filename, output_filename, target_cols, keep_cols):
                                             if not line.strip().startswith('#')
                                             and not line.strip().startswith('"""')])
 
-                    # 验证生成的代码
                     if not validate_generated_code(clean_code, function_name):
-                        error_msg = f"生成的代码不包含预期函数名 '{function_name}'或类名不正确"
+                        error_msg = f"the code do not have same '{function_name}' or function name is not correct"
                         raise ValueError(error_msg)
 
                     status = "Y"

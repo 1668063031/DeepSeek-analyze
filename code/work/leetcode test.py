@@ -42,14 +42,10 @@ def extract_pure_code(code_str):
 response = requests.get("https://leetcode.com/api/problems/all/", headers=headers)
 
 if response.status_code == 200:
-    print("✅ 登录成功！Cookies 有效。")
-    print("返回数据示例:", response.json()["num_total"])
+    print("✅ Cookies is valid")
+    print("return data:", response.json()["num_total"])
 else:
-    print("❌ 登录失败！HTTP 状态码:", response.status_code)
-    print("可能原因：")
-    print("- Cookies 已过期")
-    print("- csrftoken 缺失或错误")
-    print("- Cloudflare 拦截（需手动登录更新 Cookies）")
+    print("❌ log in fail！HTTP status code:", response.status_code)
 
 
 def get_question_id(title_slug, headers):
@@ -79,7 +75,7 @@ def poll_submission_result(submission_id, headers, max_retries=10):
         if result.get("state") == "SUCCESS":
             return result
         time.sleep(5)
-    return {"error": "判题超时"}
+    return {"error": "time limit out"}
 
 def is_processed(output_filename, slug):
 
@@ -94,23 +90,23 @@ def is_processed(output_filename, slug):
 def test_leetcode_submission(title_slug, lang, code, leetcode_session, csrf_token=None):
     headers["Cookie"] += f"; csrftoken={csrf_token}"
     """
-    测试 LeetCode 代码提交
-    :param title_slug: 题目 URL 标识（如 "two-sum"）
-    :param lang: 语言（如 "python3"）
-    :param code: 要提交的代码（字符串）
-    :param leetcode_session: LEETCODE_SESSION 值
-    :param csrf_token: 可选，如果接口需要则必须传递
-    :return: 提交结果（字典）
+    Test LeetCode code submission  
+    :param title_slug: Problem URL identifier (e.g., "two-sum")  
+    :param lang: Language (e.g., "python3")  
+    :param code: Code to submit (string)  
+    :param leetcode_session: LEETCODE_SESSION value  
+    :param csrf_token: Optional, must be provided if required by the API  
+    :return: Submission result (dictionary)  
     """
-    # 如果需要 CSRF 防护（如提交代码）
+
     if csrf_token:
         headers["Cookie"] += f"; csrftoken={csrf_token}"
         headers["x-csrftoken"] = csrf_token
 
-    # 步骤1：获取题目 ID（部分接口可能需要）
+
     question_id = get_question_id(title_slug, headers)
 
-    # 步骤2：提交代码
+
     submit_url = f"https://leetcode.com/problems/{title_slug}/submit/"
     data = {
         "lang": lang,
@@ -120,12 +116,12 @@ def test_leetcode_submission(title_slug, lang, code, leetcode_session, csrf_toke
     response = requests.post(submit_url, headers=headers, json=data)
     time.sleep(20 + random.random() * 3)
 
-    # 步骤3：获取判题结果
+
     if response.status_code == 200:
         submission_id = response.json().get("submission_id")
         return poll_submission_result(submission_id, headers)
     else:
-        return {"error": f"提交失败，状态码: {response.status_code}", "response": response.text}
+        return {"error": f"submit fail，status code: {response.status_code}", "response": response.text}
 
 
 def process_problems(input_filename, output_filename, target_cols, keep_cols):

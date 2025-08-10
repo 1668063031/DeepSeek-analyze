@@ -44,7 +44,7 @@ def extract_function_name(code):
 
 def process_problems(input_filename, output_filename, target_cols, keep_cols):
     client = OpenAI(
-        api_key="......",
+        api_key="sk-4f266e93e20c436d8b86e235ffb96065",
         base_url="https://api.deepseek.com"
     )
 
@@ -64,7 +64,7 @@ def process_problems(input_filename, output_filename, target_cols, keep_cols):
         problem = row['status_msg']
         radon = row['radon']
         pylint = row['Pylint_Results']
-        function_name = extract_function_name(original_code) or "solution"  # 默认值
+        function_name = extract_function_name(original_code) or "solution"
 
         if problem == 'Accepted':
 
